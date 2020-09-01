@@ -1,304 +1,304 @@
 [
   {
     "abbreviation": "AO",
-    "expansion": "Authorizing Officer",
+    "title": "Authorizing Officer",
     "category": "Government Terms"
   },
   {
     "abbreviation": "ACO",
-    "expansion": "Accountable Care Organizations",
+    "title": "Accountable Care Organizations",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "ACO API",
-    "expansion": "Accountable Care Organizations API",
+    "title": "Accountable Care Organizations API",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "ARMS",
-    "expansion": "Aviation Resource Management System",
+    "title": "Aviation Resource Management System",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "ATO",
-    "expansion": "Authority to Operate",
+    "title": "Authority to Operate",
     "category": "Government Terms"
   },
   {
     "abbreviation": "B2B",
-    "expansion": "Business to Business",
+    "title": "Business to Business",
     "category": "Business Terms"
   },
   {
     "abbreviation": "B2C",
-    "expansion": "Business to Customer",
+    "title": "Business to Customer",
     "category": "Business Terms"
   },
   {
     "abbreviation": "BB",
-    "expansion": "Blue Button",
+    "title": "Blue Button",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "BCDA",
-    "expansion": "Beneficiary Claims Data API",
+    "title": "Beneficiary Claims Data API",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "BD",
-    "expansion": "Business Development",
+    "title": "Business Development",
     "category": ["Role Terms", "Business Terms"]
   },
   {
     "abbreviation": "BES",
-    "expansion": "Business and Enterprise Systems Directorate",
+    "title": "Business and Enterprise Systems Directorate",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "BESPIN",
-    "expansion": "Business and Enterprise Systems Programming Innovation Program",
+    "title": "Business and Enterprise Systems Programming Innovation Program",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "BFD",
-    "expansion": "Beneficiary FHIR Data",
+    "title": "Beneficiary FHIR Data",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "BPA",
-    "expansion": "Blanket Purchase Agreement",
+    "title": "Blanket Purchase Agreement",
     "category": "Business Terms"
   },
   {
     "abbreviation": "C1",
-    "expansion": "CloudOne (Air Force Platform)",
+    "title": "CloudOne (Air Force Platform)",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "CAC",
-    "expansion": "Common Access Card",
+    "title": "Common Access Card",
     "category": "Government Terms"
   },
   {
     "abbreviation": "CD",
-    "expansion": "Continuous Delivery",
+    "title": "Continuous Delivery",
     "category": "Business Terms"
   },
   {
     "abbreviation": "CEO",
-    "expansion": "Chief Executive Officer",
+    "title": "Chief Executive Officer",
     "category": "Role Terms"
   },
   {
     "abbreviation": "CI",
-    "expansion": "Continuous Integration",
+    "title": "Continuous Integration",
     "category": "Business Terms"
   },
   {
     "abbreviation": "CMS",
-    "expansion": "Centers for Medicare and Medicaid Services"
+    "title": "Centers for Medicare and Medicaid Services"
   },
   {
     "abbreviation": "CMS OIT HCD",
-    "expansion": "Center for Medicare Services Office of Information Technology Human Centered Design",
+    "title": "Center for Medicare Services Office of Information Technology Human Centered Design",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "CO",
-    "expansion": "Contracting Officer",
+    "title": "Contracting Officer",
     "category": "Government Terms"
   },
   {
     "abbreviation": "COB",
-    "expansion": "Close of Business",
+    "title": "Close of Business",
     "category": "Business Terms"
   },
   {
     "abbreviation": "COO",
-    "expansion": "Chief Operating Officer",
+    "title": "Chief Operating Officer",
     "category": "Role Terms"
   },
   {
     "abbreviation": "COR",
-    "expansion": "Contracting Officer Representative",
+    "title": "Contracting Officer Representative",
     "category": "Government Terms"
   },
   {
     "abbreviation": "COTS",
-    "expansion": "Commercial Off-The-Shelf",
+    "title": "Commercial Off-The-Shelf",
     "category": "Government Terms"
   },
   {
     "abbreviation": "CRM",
-    "expansion": "Customer Relationship Management",
+    "title": "Customer Relationship Management",
     "category": "Business Terms"
   },
   {
     "abbreviation": "DIA",
-    "expansion": "Defense Intelligence Agency",
+    "title": "Defense Intelligence Agency",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "DoD",
-    "expansion": "Department of Defense",
+    "title": "Department of Defense",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "DPC",
-    "expansion": "Data at the Point of Care",
+    "title": "Data at the Point of Care",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "EOD",
-    "expansion": "End of Day",
+    "title": "End of Day",
     "category": "Business Terms"
   },
   {
     "abbreviation": "ET",
-    "expansion": "Executive Team",
+    "title": "Executive Team",
     "category": "Role Terms"
   },
   {
     "abbreviation": "GCDS",
-    "expansion": "Global Content Delivery Service",
+    "title": "Global Content Delivery Service",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "GOTS",
-    "expansion": "Government Off-The-Shelf",
+    "title": "Government Off-The-Shelf",
     "category": "Government Terms"
   },
   {
     "abbreviation": "HR",
-    "expansion": "Human Resources",
+    "title": "Human Resources",
     "category": "Business Terms"
   },
   {
     "abbreviation": "IATT",
-    "expansion": "Interim Authority To Test",
+    "title": "Interim Authority To Test",
     "category": "Government Terms"
   },
   {
     "abbreviation": "IP",
-    "expansion": "Intellectual Property",
+    "title": "Intellectual Property",
     "category": "Business Terms"
   },
   {
     "abbreviation": "ISSO",
-    "expansion": "Information System Security Officer",
+    "title": "Information System Security Officer",
     "category": "Government Terms"
   },
   {
     "abbreviation": "JOCAS",
-    "expansion": "Job Order Accounting System",
+    "title": "Job Order Accounting System",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "KO",
-    "expansion": "Contracting Officer (Military sometimes uses KO instead)",
+    "title": "Contracting Officer (Military sometimes uses KO instead)",
     "category": "Government Terms"
   },
   {
     "abbreviation": "MPSM",
-    "expansion": "Medicare Payment System Modernization",
+    "title": "Medicare Payment System Modernization",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "NAICS",
-    "expansion": "North American Industry Classification System",
+    "title": "North American Industry Classification System",
     "category": "Business Terms"
   },
   {
     "abbreviation": "NPS",
-    "expansion": "Net Promoter Score",
+    "title": "Net Promoter Score",
     "category": "Business Terms"
   },
   {
     "abbreviation": "OCIO",
-    "expansion": "Office of the Chief Information Officer",
+    "title": "Office of the Chief Information Officer",
     "category": "Government Terms"
   },
   {
     "abbreviation": "PC",
-    "expansion": "Passion Coach",
+    "title": "Passion Coach",
     "category": "Role Terms"
   },
   {
     "abbreviation": "PIV",
-    "expansion": "Personal Identity Verification (Same as CAC)",
+    "title": "Personal Identity Verification (Same as CAC)",
     "category": "Government Terms"
   },
   {
     "abbreviation": "PM",
-    "expansion": "Program Manager / Portfolio Manager",
+    "title": "Program Manager / Portfolio Manager",
     "category": "Role Terms"
   },
   {
     "abbreviation": "PMO",
-    "expansion": "Program Management Office",
+    "title": "Program Management Office",
     "category": "Business Terms"
   },
   {
     "abbreviation": "POC",
-    "expansion": "Point of Contact"
+    "title": "Point of Contact"
   },
   {
     "abbreviation": "PWS",
-    "expansion": "Performance Work Statement",
+    "title": "Performance Work Statement",
     "category": "Business Terms"
   },
   {
     "abbreviation": "RFP",
-    "expansion": "Request for Proposal",
+    "title": "Request for Proposal",
     "category": "Business Terms"
   },
   {
     "abbreviation": "RFQ",
-    "expansion": "Request for Quote",
+    "title": "Request for Quote",
     "category": "Business Terms"
   },
   {
     "abbreviation": "SBA",
-    "expansion": "Small Business Administration",
+    "title": "Small Business Administration",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "SM",
-    "expansion": "Scrum Master",
+    "title": "Scrum Master",
     "category": "Role Terms"
   },
   {
     "abbreviation": "SME",
-    "expansion": "Subject Matter Expert",
+    "title": "Subject Matter Expert",
     "category": "Role Terms"
   },
   {
     "abbreviation": "SOO",
-    "expansion": "Statement of Objectives",
+    "title": "Statement of Objectives",
     "category": "Business Terms"
   },
   {
     "abbreviation": "SOP",
-    "expansion": "Standard Operating Procedure"
+    "title": "Standard Operating Procedure"
   },
   {
     "abbreviation": "SOW",
-    "expansion": "Statement of Work",
+    "title": "Statement of Work",
     "category": "Business Terms"
   },
   {
     "abbreviation": "TO",
-    "expansion": "Task Order",
+    "title": "Task Order",
     "category": "Business Terms"
   },
   {
     "abbreviation": "USDS",
-    "expansion": "United States Digital Service",
+    "title": "United States Digital Service",
     "category": "Projects/Agencies"
   },
   {
     "abbreviation": "USAF",
-    "expansion": "United States Air Force",
+    "title": "United States Air Force",
     "category": "Projects/Agencies"
   }
 ]

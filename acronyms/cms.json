@@ -1,1127 +1,1127 @@
 [
   {
     "abbreviation": "AAC",
-    "expansion": "Actual acquisition cost"
+    "title": "Actual acquisition cost"
   },
   {
     "abbreviation": "AAP",
-    "expansion": "American Academy of Pediatrics"
+    "title": "American Academy of Pediatrics"
   },
   {
     "abbreviation": "ABA",
-    "expansion": "Applied behavioral analysis"
+    "title": "Applied behavioral analysis"
   },
   {
     "abbreviation": "ABP",
-    "expansion": "Medicaid Alternative Benefit Plan"
+    "title": "Medicaid Alternative Benefit Plan"
   },
   {
     "abbreviation": "ACA",
-    "expansion": "Affordable Care Act",
+    "title": "Affordable Care Act",
     "description": "Patient Protection and Affordable Care Act of 2010"
   },
   {
     "abbreviation": "ACC",
-    "expansion": "Accountable care collaborative"
+    "title": "Accountable care collaborative"
   },
   {
     "abbreviation": "ACF",
-    "expansion": "Administration for Children and Families"
+    "title": "Administration for Children and Families"
   },
   {
     "abbreviation": "ACIP",
-    "expansion": "Advisory Committee on Immunization Practices"
+    "title": "Advisory Committee on Immunization Practices"
   },
   {
     "abbreviation": "ACO",
-    "expansion": "Accountable Care Organization"
+    "title": "Accountable Care Organization"
   },
   {
     "abbreviation": "ADT",
-    "expansion": "Admissions, Discharges, Transfers"
+    "title": "Admissions, Discharges, Transfers"
   },
   {
     "abbreviation": "ACS",
-    "expansion": "American Community Survey"
+    "title": "American Community Survey"
   },
   {
     "abbreviation": "ADA",
-    "expansion": "Americans with Disabilities Act"
+    "title": "Americans with Disabilities Act"
   },
   {
     "abbreviation": "ADD",
-    "expansion": "attention deficit disorder"
+    "title": "attention deficit disorder"
   },
   {
     "abbreviation": "ADHD",
-    "expansion": "attention deficit hyperactivity disorder"
+    "title": "attention deficit hyperactivity disorder"
   },
   {
     "abbreviation": "AIU",
-    "expansion": "Adopt, Implement, Upgrade"
+    "title": "Adopt, Implement, Upgrade"
   },
   {
     "abbreviation": "APCD",
-    "expansion": "All Payer Claims Database"
+    "title": "All Payer Claims Database"
   },
   {
     "abbreviation": "APD",
-    "expansion": "Advanced Planning Document"
+    "title": "Advanced Planning Document"
   },
   {
     "abbreviation": "APM",
-    "expansion": "Alternative Payment Model"
+    "title": "Alternative Payment Model"
   },
   {
     "abbreviation": "AQM",
-    "expansion": "Adult Quality Measures"
+    "title": "Adult Quality Measures"
   },
   {
     "abbreviation": "ARRA",
-    "expansion": "American Recovery and Reinvestment Act"
+    "title": "American Recovery and Reinvestment Act"
   },
   {
     "abbreviation": "ATCB",
-    "expansion": "Authorized Testing and Certification Body"
+    "title": "Authorized Testing and Certification Body"
   },
   {
     "abbreviation": "ATO",
-    "expansion": "Authority to Operate"
+    "title": "Authority to Operate"
   },
   {
     "abbreviation": "BA",
-    "expansion": "Business Associates"
+    "title": "Business Associates"
   },
   {
     "abbreviation": "BI",
-    "expansion": "Business Intelligence"
+    "title": "Business Intelligence"
   },
   {
     "abbreviation": "BIP",
-    "expansion": "Balancing Incentive Program"
+    "title": "Balancing Incentive Program"
   },
   {
     "abbreviation": "C&S",
-    "expansion": "Conditions and Standards"
+    "title": "Conditions and Standards"
   },
   {
     "abbreviation": "CAH",
-    "expansion": "Critical Access Hospital"
+    "title": "Critical Access Hospital"
   },
   {
     "abbreviation": "CALiPHR",
-    "expansion": "CQM (Clinical Quality Measures) Aligned Population Health Reporting"
+    "title": "CQM (Clinical Quality Measures) Aligned Population Health Reporting"
   },
   {
     "abbreviation": "CARTS",
-    "expansion": "Children’s Health Insurance Program Annual Report Template System",
+    "title": "Children’s Health Insurance Program Annual Report Template System",
     "description": "One of the five separate systems within MACPro"
   },
   {
     "abbreviation": "CAHPG",
-    "expansion": "Children and Adults Health Programs Group",
+    "title": "Children and Adults Health Programs Group",
     "description": "One of seven groups within CMCS"
   },
   {
     "abbreviation": "CBES",
-    "expansion": "State Children's Health Insurance Budget and Expenditure System"
+    "title": "State Children's Health Insurance Budget and Expenditure System"
   },
   {
     "abbreviation": "CCD",
-    "expansion": "Continuity of Care Document"
+    "title": "Continuity of Care Document"
   },
   {
     "abbreviation": "CCIIO",
-    "expansion": "Center for Consumer Information and Insurance Oversight"
+    "title": "Center for Consumer Information and Insurance Oversight"
   },
   {
     "abbreviation": "CCN",
-    "expansion": "CMS Certification Number"
+    "title": "CMS Certification Number"
   },
   {
     "abbreviation": "CCR",
-    "expansion": "Continuity of Care Record"
+    "title": "Continuity of Care Record"
   },
   {
     "abbreviation": "CDA",
-    "expansion": "Clinical Document Architecture"
+    "title": "Clinical Document Architecture"
   },
   {
     "abbreviation": "CDC",
-    "expansion": "Centers for Disease Control and Prevention"
+    "title": "Centers for Disease Control and Prevention"
   },
   {
     "abbreviation": "CDR",
-    "expansion": "Clinical Data Repository"
+    "title": "Clinical Data Repository"
   },
   {
     "abbreviation": "CDS",
-    "expansion": "Clinical Decision Support"
+    "title": "Clinical Decision Support"
   },
   {
     "abbreviation": "CDT",
-    "expansion": "Custom Data Type"
+    "title": "Custom Data Type"
   },
   {
     "abbreviation": "CDT",
-    "expansion": "Current Dental Terminology"
+    "title": "Current Dental Terminology"
   },
   {
     "abbreviation": "CE",
-    "expansion": "Covered Entities"
+    "title": "Covered Entities"
   },
   {
     "abbreviation": "CEHRT",
-    "expansion": "Certified Electronic Health Record Technology"
+    "title": "Certified Electronic Health Record Technology"
   },
   {
     "abbreviation": "CFR",
-    "expansion": "Technology Code of Federal Regulations"
+    "title": "Technology Code of Federal Regulations"
   },
   {
     "abbreviation": "CHIP",
-    "expansion": "Children’s Health Insurance Program"
+    "title": "Children’s Health Insurance Program"
   },
   {
     "abbreviation": "CHPL",
-    "expansion": "Certified Health Information Technology Products List"
+    "title": "Certified Health Information Technology Products List"
   },
   {
     "abbreviation": "CICD",
-    "expansion": "Continuous Integration/Continuous Delivery"
+    "title": "Continuous Integration/Continuous Delivery"
   },
   {
     "abbreviation": "CMCS",
-    "expansion": "Center for Medicaid and CHIP (Children’s Health Insurance) Services",
+    "title": "Center for Medicaid and CHIP (Children’s Health Insurance) Services",
     "description": "Responsible for the administration of the Medicaid and CHIP programs, in partnership with 50 states, DC, and five territories"
   },
   {
     "abbreviation": "CMSDS",
-    "expansion": "CMS Design System"
+    "title": "CMS Design System"
   },
   {
     "abbreviation": "CNM",
-    "expansion": "Certified Nurse Midwife"
+    "title": "Certified Nurse Midwife"
   },
   {
     "abbreviation": "CO",
-    "expansion": "Central Office"
+    "title": "Central Office"
   },
   {
     "abbreviation": "CoP",
-    "expansion": "Community of Practice"
+    "title": "Community of Practice"
   },
   {
     "abbreviation": "CPC",
-    "expansion": "Comprehensive Primary Care"
+    "title": "Comprehensive Primary Care"
   },
   {
     "abbreviation": "CPOC",
-    "expansion": "CMS Point of Contact",
+    "title": "CMS Point of Contact",
     "description": "MACPro CMS role"
   },
   {
     "abbreviation": "CPOE",
-    "expansion": "Computerized Physician Order Entry"
+    "title": "Computerized Physician Order Entry"
   },
   {
     "abbreviation": "CPT",
-    "expansion": "Current Procedural Terminology",
+    "title": "Current Procedural Terminology",
     "description": "Applies to CPT codes"
   },
   {
     "abbreviation": "CQM",
-    "expansion": "Child Quality Measures"
+    "title": "Child Quality Measures"
   },
   {
     "abbreviation": "CQM",
-    "expansion": "Clinical Quality Measures"
+    "title": "Clinical Quality Measures"
   },
   {
     "abbreviation": "CRA",
-    "expansion": "CMS Role Approver"
+    "title": "CMS Role Approver"
   },
   {
     "abbreviation": "CRISP",
-    "expansion": "Chesapeake Regional Information System for our Patients"
+    "title": "Chesapeake Regional Information System for our Patients"
   },
   {
     "abbreviation": "CSA",
-    "expansion": "CMS System Administrator"
+    "title": "CMS System Administrator"
   },
   {
     "abbreviation": "CSD",
-    "expansion": "Clinical Services Discovery"
+    "title": "Clinical Services Discovery"
   },
   {
     "abbreviation": "CY",
-    "expansion": "Calendar Year"
+    "title": "Calendar Year"
   },
   {
     "abbreviation": "DEHPG",
-    "expansion": "Disabled and Elderly Health Programs Group",
+    "title": "Disabled and Elderly Health Programs Group",
     "description": "One of seven groups within CMCS"
   },
   {
     "abbreviation": "DICOM",
-    "expansion": "Digital Imaging and Communications in Medicine"
+    "title": "Digital Imaging and Communications in Medicine"
   },
   {
     "abbreviation": "DP",
-    "expansion": "Division of Pharmacy",
+    "title": "Division of Pharmacy",
     "description": "DP is in the Disabled and Elderly Health Programs Group (DEHPG) in CMCS"
   },
   {
     "abbreviation": "Drools",
-    "expansion": "Data and Systems Group",
+    "title": "Data and Systems Group",
     "description": "Business rule management system, aka a production rule system, using an enhanced implementation of the Rete algorithm"
   },
   {
     "abbreviation": "DSG",
-    "expansion": "Data and Systems Group",
+    "title": "Data and Systems Group",
     "description": "One of seven groups within CMCS"
   },
   {
     "abbreviation": "DSH",
-    "expansion": "Disproportionate Share Hospital"
+    "title": "Disproportionate Share Hospital"
   },
   {
     "abbreviation": "DSM",
-    "expansion": "Direct Secure Messaging"
+    "title": "Direct Secure Messaging"
   },
   {
     "abbreviation": "E&E",
-    "expansion": "Eligibility & Enrollment"
+    "title": "Eligibility & Enrollment"
   },
   {
     "abbreviation": "eAPD",
-    "expansion": "Electronic Advanced Planning Document"
+    "title": "Electronic Advanced Planning Document"
   },
   {
     "abbreviation": "EB",
-    "expansion": "Enrollment Benefits"
+    "title": "Enrollment Benefits"
   },
   {
     "abbreviation": "eCQM",
-    "expansion": "Electronic Clinical Quality Measure"
+    "title": "Electronic Clinical Quality Measure"
   },
   {
     "abbreviation": "eCQMR",
-    "expansion": "Electronic Clinical Quality Measures Repository"
+    "title": "Electronic Clinical Quality Measures Repository"
   },
   {
     "abbreviation": "EFI",
-    "expansion": "Enterprise User Administration (EUA) Front-End Interface"
+    "title": "Enterprise User Administration (EUA) Front-End Interface"
   },
   {
     "abbreviation": "EG",
-    "expansion": "Eligibility Group",
+    "title": "Eligibility Group",
     "description": "Normally followed by a priority number"
   },
   {
     "abbreviation": "EH",
-    "expansion": "Eligible Hospital"
+    "title": "Eligible Hospital"
   },
   {
     "abbreviation": "EHR",
-    "expansion": "Electronic Health Record"
+    "title": "Electronic Health Record"
   },
   {
     "abbreviation": "EIDM",
-    "expansion": "Enterprise Identity Management"
+    "title": "Enterprise Identity Management"
   },
   {
     "abbreviation": "ELR",
-    "expansion": "Electronic Laboratory Record"
+    "title": "Electronic Laboratory Record"
   },
   {
     "abbreviation": "eMAR",
-    "expansion": "Electronic Medication Administration Record"
+    "title": "Electronic Medication Administration Record"
   },
   {
     "abbreviation": "EP",
-    "expansion": "Eligible Professional"
+    "title": "Eligible Professional"
   },
   {
     "abbreviation": "EPHI",
-    "expansion": "Electronic Protected Health Information"
+    "title": "Electronic Protected Health Information"
   },
   {
     "abbreviation": "EPSDT",
-    "expansion": "Early and Periodic Screening, Diagnostic, and Treatment"
+    "title": "Early and Periodic Screening, Diagnostic, and Treatment"
   },
   {
     "abbreviation": "EQRO",
-    "expansion": "External Quality Review Organization"
+    "title": "External Quality Review Organization"
   },
   {
     "abbreviation": "eRx",
-    "expansion": "Electronic Prescribing"
+    "title": "Electronic Prescribing"
   },
   {
     "abbreviation": "ESB",
-    "expansion": "Enterprise Service Bus"
+    "title": "Enterprise Service Bus"
   },
   {
     "abbreviation": "EUA",
-    "expansion": "Enterprise User Administration"
+    "title": "Enterprise User Administration"
   },
   {
     "abbreviation": "EUA",
-    "expansion": "End User Application"
+    "title": "End User Application"
   },
   {
     "abbreviation": "FAQ",
-    "expansion": "Frequently Asked Question"
+    "title": "Frequently Asked Question"
   },
   {
     "abbreviation": "FAQs",
-    "expansion": "Frequently Asked Questions"
+    "title": "Frequently Asked Questions"
   },
   {
     "abbreviation": "FCC",
-    "expansion": "Federal Communications Commission"
+    "title": "Federal Communications Commission"
   },
   {
     "abbreviation": "FedRAMP",
-    "expansion": "Federal Risk and Authorization Management Program"
+    "title": "Federal Risk and Authorization Management Program"
   },
   {
     "abbreviation": "FERPA",
-    "expansion": "Family Educational Rights and Privacy Act"
+    "title": "Family Educational Rights and Privacy Act"
   },
   {
     "abbreviation": "FFP",
-    "expansion": "Federal Financial Participation"
+    "title": "Federal Financial Participation"
   },
   {
     "abbreviation": "FFS",
-    "expansion": "Fee-for-Service"
+    "title": "Fee-for-Service"
   },
   {
     "abbreviation": "FFY",
-    "expansion": "Federal Fiscal Year"
+    "title": "Federal Fiscal Year"
   },
   {
     "abbreviation": "FHIR",
-    "expansion": "Fast Healthcare Interoperability Resources"
+    "title": "Fast Healthcare Interoperability Resources"
   },
   {
     "abbreviation": "FISMA",
-    "expansion": "Federal Information Security Management Act"
+    "title": "Federal Information Security Management Act"
   },
   {
     "abbreviation": "FMAP",
-    "expansion": "Federal Medical Assistance Percentage"
+    "title": "Federal Medical Assistance Percentage"
   },
   {
     "abbreviation": "FMG",
-    "expansion": "Financial Management Group",
+    "title": "Financial Management Group",
     "description": "One of seven groups within CMCS"
   },
   {
     "abbreviation": "FQHC",
-    "expansion": "Federally Qualified Health Center"
+    "title": "Federally Qualified Health Center"
   },
   {
     "abbreviation": "FR",
-    "expansion": "Federal Regulation(s)"
+    "title": "Federal Regulation(s)"
   },
   {
     "abbreviation": "FTP",
-    "expansion": "File Transfer Protocal"
+    "title": "File Transfer Protocal"
   },
   {
     "abbreviation": "FY",
-    "expansion": "Fiscal Year"
+    "title": "Fiscal Year"
   },
   {
     "abbreviation": "HARP",
-    "expansion": "Healthcare Quality Information System (HCQIS) Access Roles and Profile",
+    "title": "Healthcare Quality Information System (HCQIS) Access Roles and Profile",
     "description": "This stack is built on Savynt (for user roles) and Okta (for authentication) as part of enterprise portal"
   },
   {
     "abbreviation": "HCBS",
-    "expansion": "Home and Community-Based Services"
+    "title": "Home and Community-Based Services"
   },
   {
     "abbreviation": "HCD",
-    "expansion": "Human Centered Design"
+    "title": "Human Centered Design"
   },
   {
     "abbreviation": "HcDir",
-    "expansion": "ONC/FHA Healthcare Directory"
+    "title": "ONC/FHA Healthcare Directory"
   },
   {
     "abbreviation": "HCERA",
-    "expansion": "Health Care and Education Reconciliation Act of 2010"
+    "title": "Health Care and Education Reconciliation Act of 2010"
   },
   {
     "abbreviation": "HCQIS",
-    "expansion": "Healthcare Quality Information System"
+    "title": "Healthcare Quality Information System"
   },
   {
     "abbreviation": "HEDIS",
-    "expansion": "Healthcare Effectiveness Data and Information Set"
+    "title": "Healthcare Effectiveness Data and Information Set"
   },
   {
     "abbreviation": "HHS",
-    "expansion": "Health Homes State Plan Amendment"
+    "title": "Health Homes State Plan Amendment"
   },
   {
     "abbreviation": "HHS",
-    "expansion": "Health and Human Services"
+    "title": "Health and Human Services"
   },
   {
     "abbreviation": "HHQM",
-    "expansion": "Health Home Quality Measures"
+    "title": "Health Home Quality Measures"
   },
   {
     "abbreviation": "HiC",
-    "expansion": "???",
+    "title": "???",
     "description": "related to eAPD"
   },
   {
     "abbreviation": "HIE",
-    "expansion": "Health Information Exchange"
+    "title": "Health Information Exchange"
   },
   {
     "abbreviation": "HIO",
-    "expansion": "Health Information Organization"
+    "title": "Health Information Organization"
   },
   {
     "abbreviation": "HIPAA",
-    "expansion": "Health Insurance Portability and Accountability Act"
+    "title": "Health Insurance Portability and Accountability Act"
   },
   {
     "abbreviation": "HIS",
-    "expansion": "Hospital Information System"
+    "title": "Hospital Information System"
   },
   {
     "abbreviation": "HIT",
-    "expansion": "Health Information Technology"
+    "title": "Health Information Technology"
   },
   {
     "abbreviation": "HITECH",
-    "expansion": "Health Information Technology for Economic and Clinical Health Act"
+    "title": "Health Information Technology for Economic and Clinical Health Act"
   },
   {
     "abbreviation": "HITECH TA",
-    "expansion": "Health Information Technology for Economic and Clinical Technical Assistance"
+    "title": "Health Information Technology for Economic and Clinical Technical Assistance"
   },
   {
     "abbreviation": "HL7",
-    "expansion": "Health Level Seven International"
+    "title": "Health Level Seven International"
   },
   {
     "abbreviation": "HPD",
-    "expansion": "Healthcare Provider Directory"
+    "title": "Healthcare Provider Directory"
   },
   {
     "abbreviation": "HHSPA",
-    "expansion": "Health Homes State Plan Amendment"
+    "title": "Health Homes State Plan Amendment"
   },
   {
     "abbreviation": "HPSA",
-    "expansion": "Health Professional Shortage Area"
+    "title": "Health Professional Shortage Area"
   },
   {
     "abbreviation": "HPSDA",
-    "expansion": "Health Professional Shortage Area"
+    "title": "Health Professional Shortage Area"
   },
   {
     "abbreviation": "HRSA",
-    "expansion": "Health Resources and Services Administration"
+    "title": "Health Resources and Services Administration"
   },
   {
     "abbreviation": "HTML",
-    "expansion": "Hyper Text Markup Language"
+    "title": "Hyper Text Markup Language"
   },
   {
     "abbreviation": "IAP",
-    "expansion": "Medicaid Innovation Accelerator Program",
+    "title": "Medicaid Innovation Accelerator Program",
     "description": "Seeks to offer targeted technical support and solutions to Medicaid agencies in building and strengthening their data analytic capacity as they design and implement delivery system reforms. In addition, IAP seeks to develop standard solutions using common data sets for states’ use in delivering improved care and driving smarter spending."
   },
   {
     "abbreviation": "IAPD",
-    "expansion": "Implentation Advanced Planning Document"
+    "title": "Implentation Advanced Planning Document"
   },
   {
     "abbreviation": "IAPD-U",
-    "expansion": "Implentation Advanced Planning Document-Update"
+    "title": "Implentation Advanced Planning Document-Update"
   },
   {
     "abbreviation": "ICD-10",
-    "expansion": "International Classification of Diseases, Tenth Revision"
+    "title": "International Classification of Diseases, Tenth Revision"
   },
   {
     "abbreviation": "ICM",
-    "expansion": "Integrated Care Model"
+    "title": "Integrated Care Model"
   },
   {
     "abbreviation": "ID",
-    "expansion": "Identifier"
+    "title": "Identifier"
   },
   {
     "abbreviation": "IG",
-    "expansion": "Implementation Guide"
+    "title": "Implementation Guide"
   },
   {
     "abbreviation": "IHE",
-    "expansion": "Integrating the Healthcare Enterprise"
+    "title": "Integrating the Healthcare Enterprise"
   },
   {
     "abbreviation": "IHS",
-    "expansion": "Indian Health Service"
+    "title": "Indian Health Service"
   },
   {
     "abbreviation": "IIS",
-    "expansion": "Immunization Information System"
+    "title": "Immunization Information System"
   },
   {
     "abbreviation": "IOM",
-    "expansion": "Institute of Medicine"
+    "title": "Institute of Medicine"
   },
   {
     "abbreviation": "IR",
-    "expansion": "Immunization Registry"
+    "title": "Immunization Registry"
   },
   {
     "abbreviation": "IRAI",
-    "expansion": "Informal RAI (Resident Assessment Instrument)"
+    "title": "Informal RAI (Resident Assessment Instrument)"
   },
   {
     "abbreviation": "IRD",
-    "expansion": "Introductory Reference Document"
+    "title": "Introductory Reference Document"
   },
   {
     "abbreviation": "IRS",
-    "expansion": "Internal Revenue Service"
+    "title": "Internal Revenue Service"
   },
   {
     "abbreviation": "IT",
-    "expansion": "Information Technology"
+    "title": "Information Technology"
   },
   {
     "abbreviation": "IV&V",
-    "expansion": "Independent Verification & Validation"
+    "title": "Independent Verification & Validation"
   },
   {
     "abbreviation": "JAD",
-    "expansion": "Joint application development sessions"
+    "title": "Joint application development sessions"
   },
   {
     "abbreviation": "LOINC",
-    "expansion": "Logical Observation Identifiers, Names and Codes"
+    "title": "Logical Observation Identifiers, Names and Codes"
   },
   {
     "abbreviation": "MAC",
-    "expansion": "Medicaid and CHIP",
+    "title": "Medicaid and CHIP",
     "description": "Commonly used as a prefix for the programs"
   },
   {
     "abbreviation": "MACBIS",
-    "expansion": "Medicaid and CHIP Business Information Solution"
+    "title": "Medicaid and CHIP Business Information Solution"
   },
   {
     "abbreviation": "MACPro",
-    "expansion": "Medicaid and CHIP Program",
+    "title": "Medicaid and CHIP Program",
     "description": "Also sometimes used as the name of the Appian system (MACPRO) supporting eligibility ammendments"
   },
   {
     "abbreviation": "MAGI",
-    "expansion": "Modified Adjusted Gross Income"
+    "title": "Modified Adjusted Gross Income"
   },
   {
     "abbreviation": "MAPIR",
-    "expansion": "Medical Assistance Provider Incentive Repository"
+    "title": "Medical Assistance Provider Incentive Repository"
   },
   {
     "abbreviation": "MBES",
-    "expansion": "Medicaid Budget and Expenditure System"
+    "title": "Medicaid Budget and Expenditure System"
   },
   {
     "abbreviation": "MC-CRS",
-    "expansion": "Managed Care Contract Rates System"
+    "title": "Managed Care Contract Rates System"
   },
   {
     "abbreviation": "MCC",
-    "expansion": "Managed Care Contract"
+    "title": "Managed Care Contract"
   },
   {
     "abbreviation": "MCCR",
-    "expansion": "Managed Care Contract Rates"
+    "title": "Managed Care Contract Rates"
   },
   {
     "abbreviation": "MCO",
-    "expansion": "Managed Care Organization"
+    "title": "Managed Care Organization"
   },
   {
     "abbreviation": "MD",
-    "expansion": "Medical Doctor"
+    "title": "Medical Doctor"
   },
   {
     "abbreviation": "MDR",
-    "expansion": "Medicaid Drug Rebate"
+    "title": "Medicaid Drug Rebate"
   },
   {
     "abbreviation": "MDS",
-    "expansion": "Minimum Data Set"
+    "title": "Minimum Data Set"
   },
   {
     "abbreviation": "MeT",
-    "expansion": "Medicaid Electronic Health Record (EHR) Team"
+    "title": "Medicaid Electronic Health Record (EHR) Team"
   },
   {
     "abbreviation": "MES",
-    "expansion": "Medicaid Enterprise System"
+    "title": "Medicaid Enterprise System"
   },
   {
     "abbreviation": "MFCU",
-    "expansion": "Medicaid Fraud Control Unit"
+    "title": "Medicaid Fraud Control Unit"
   },
   {
     "abbreviation": "MiHIN",
-    "expansion": "Michigan Health Information Network"
+    "title": "Michigan Health Information Network"
   },
   {
     "abbreviation": "MIHQM",
-    "expansion": "Maternal and Infant Health Quality Measures"
+    "title": "Maternal and Infant Health Quality Measures"
   },
   {
     "abbreviation": "MIME",
-    "expansion": "Multipurpose Internet Mail Extensions"
+    "title": "Multipurpose Internet Mail Extensions"
   },
   {
     "abbreviation": "MITA",
-    "expansion": "Medicaid Information Technology Architecture"
+    "title": "Medicaid Information Technology Architecture"
   },
   {
     "abbreviation": "MMDL",
-    "expansion": "Medicaid Model Data Lab",
+    "title": "Medicaid Model Data Lab",
     "description": "One of the five separate systems within MACPro to manage Eligibility and Benefits sections of the Medicaid State plan, CHIP Eligibility, and reporting of Medicaid program data"
   },
   {
     "abbreviation": "MMIS",
-    "expansion": "Medicaid Management Information System"
+    "title": "Medicaid Management Information System"
   },
   {
     "abbreviation": "MPD",
-    "expansion": "Master Provider Directory"
+    "title": "Master Provider Directory"
   },
   {
     "abbreviation": "MPI",
-    "expansion": "Master Provider Index"
+    "title": "Master Provider Index"
   },
   {
     "abbreviation": "MPC",
-    "expansion": "Medicaid Premiums and Cost Sharing"
+    "title": "Medicaid Premiums and Cost Sharing"
   },
   {
     "abbreviation": "MPS",
-    "expansion": "Medicaid Payment Suspensions State Annual Report"
+    "title": "Medicaid Payment Suspensions State Annual Report"
   },
   {
     "abbreviation": "MSIA",
-    "expansion": "Medicaid Services Investment and Accountability Act of 2019"
+    "title": "Medicaid Services Investment and Accountability Act of 2019"
   },
   {
     "abbreviation": "MSP",
-    "expansion": "Medicaid State Plan"
+    "title": "Medicaid State Plan"
   },
   {
     "abbreviation": "MU",
-    "expansion": "Meaningful Use"
+    "title": "Meaningful Use"
   },
   {
     "abbreviation": "NLR",
-    "expansion": "National Level Repository",
+    "title": "National Level Repository",
     "description": "CMS Registration and Attestation Module"
   },
   {
     "abbreviation": "NP",
-    "expansion": "Nurse Practitioner"
+    "title": "Nurse Practitioner"
   },
   {
     "abbreviation": "NPI",
-    "expansion": "National Provider Identifier"
+    "title": "National Provider Identifier"
   },
   {
     "abbreviation": "NPPES",
-    "expansion": "National Plan and Provider Enumeration System"
+    "title": "National Plan and Provider Enumeration System"
   },
   {
     "abbreviation": "NQF",
-    "expansion": "Nationwide Health Information Network"
+    "title": "Nationwide Health Information Network"
   },
   {
     "abbreviation": "NQS",
-    "expansion": "National Quality Strategy"
+    "title": "National Quality Strategy"
   },
   {
     "abbreviation": "NwHIN",
-    "expansion": "Nationwide Health Information Network"
+    "title": "Nationwide Health Information Network"
   },
   {
     "abbreviation": "OB",
-    "expansion": "Obstetrician"
+    "title": "Obstetrician"
   },
   {
     "abbreviation": "OIG",
-    "expansion": "Office of the Inspector General"
+    "title": "Office of the Inspector General"
   },
   {
     "abbreviation": "OKR",
-    "expansion": "Objectives and Key Results"
+    "title": "Objectives and Key Results"
   },
   {
     "abbreviation": "OMB",
-    "expansion": "Office of Management & Budget"
+    "title": "Office of Management & Budget"
   },
   {
     "abbreviation": "ONC",
-    "expansion": "Office of the National Coordinator for Health IT"
+    "title": "Office of the National Coordinator for Health IT"
   },
   {
     "abbreviation": "OSG",
-    "expansion": "Operation Services Group",
+    "title": "Operation Services Group",
     "description": "One of seven groups within CMCS"
   },
   {
     "abbreviation": "PA",
-    "expansion": "Package Approver",
+    "title": "Package Approver",
     "description": "MACPro CMS role"
   },
   {
     "abbreviation": "PA",
-    "expansion": "Physician Assistant"
+    "title": "Physician Assistant"
   },
   {
     "abbreviation": "PAHP",
-    "expansion": "Prepaid Ambulatory Health Plan",
+    "title": "Prepaid Ambulatory Health Plan",
     "description": "a managed care plan"
   },
   {
     "abbreviation": "PAPD",
-    "expansion": "Planning Advance Planning Document"
+    "title": "Planning Advance Planning Document"
   },
   {
     "abbreviation": "PCMH",
-    "expansion": "Patient Centered Medical Home"
+    "title": "Patient Centered Medical Home"
   },
   {
     "abbreviation": "PCP",
-    "expansion": "Primary Care Provider"
+    "title": "Primary Care Provider"
   },
   {
     "abbreviation": "PCPM",
-    "expansion": "Primary Care Payment Model"
+    "title": "Primary Care Payment Model"
   },
   {
     "abbreviation": "PECOS",
-    "expansion": "Provider Enrollment, Chain, Ownership System"
+    "title": "Provider Enrollment, Chain, Ownership System"
   },
   {
     "abbreviation": "PHA",
-    "expansion": "Public Health Agency"
+    "title": "Public Health Agency"
   },
   {
     "abbreviation": "PHI",
-    "expansion": "Personal Health Information"
+    "title": "Personal Health Information"
   },
   {
     "abbreviation": "PHR",
-    "expansion": "Personal Health Record"
+    "title": "Personal Health Record"
   },
   {
     "abbreviation": "PIHP",
-    "expansion": "Prepaid Inpatient Health Plan",
+    "title": "Prepaid Inpatient Health Plan",
     "description": "a managed care plan"
   },
   {
     "abbreviation": "PIP",
-    "expansion": "Promoting Interoperability Program"
+    "title": "Promoting Interoperability Program"
   },
   {
     "abbreviation": "PMDA",
-    "expansion": "Pharmaceuticals and Medical Devices Agency"
+    "title": "Pharmaceuticals and Medical Devices Agency"
   },
   {
     "abbreviation": "PMDA",
-    "expansion": "Performance Management Database and Analytics"
+    "title": "Performance Management Database and Analytics"
   },
   {
     "abbreviation": "POS",
-    "expansion": "Place of Service"
+    "title": "Place of Service"
   },
   {
     "abbreviation": "PP",
-    "expansion": "Practicing Predominantly"
+    "title": "Practicing Predominantly"
   },
   {
     "abbreviation": "PQRS",
-    "expansion": "Physician Quality Reporting System"
+    "title": "Physician Quality Reporting System"
   },
   {
     "abbreviation": "PRA",
-    "expansion": "Paperwork Reduction Act of 1995"
+    "title": "Paperwork Reduction Act of 1995"
   },
   {
     "abbreviation": "PROM",
-    "expansion": "Patient Reported Outcome Measures"
+    "title": "Patient Reported Outcome Measures"
   },
   {
     "abbreviation": "PD",
-    "expansion": "Package Disapprover"
+    "title": "Package Disapprover"
   },
   {
     "abbreviation": "PV",
-    "expansion": "Patient Volume"
+    "title": "Patient Volume"
   },
   {
     "abbreviation": "QM",
-    "expansion": "Quality Measures",
+    "title": "Quality Measures",
     "description": "In reference to quality measure reporting"
   },
   {
     "abbreviation": "QMR",
-    "expansion": "Quality Measures Reporting"
+    "title": "Quality Measures Reporting"
   },
   {
     "abbreviation": "QMS",
-    "expansion": "Quality Management System"
+    "title": "Quality Management System"
   },
   {
     "abbreviation": "QRDA-I",
-    "expansion": "Quality Reporting Document Architecture - Category I"
+    "title": "Quality Reporting Document Architecture - Category I"
   },
   {
     "abbreviation": "QRDA-III",
-    "expansion": "Quality Reporting Document Architecture - Category III"
+    "title": "Quality Reporting Document Architecture - Category III"
   },
   {
     "abbreviation": "R&A",
-    "expansion": "Registration and Attestation"
+    "title": "Registration and Attestation"
   },
   {
     "abbreviation": "R&S UI",
-    "expansion": "Research & Support User Interface"
+    "title": "Research & Support User Interface"
   },
   {
     "abbreviation": "RAI",
-    "expansion": "Resident Assessment Instrument",
+    "title": "Resident Assessment Instrument",
     "description": "RAI/MDS provides data for monitoring changes in resident status that are consistent and reliable over time."
   },
   {
     "abbreviation": "RAI",
-    "expansion": "Request for Additional Information",
+    "title": "Request for Additional Information",
     "description": "Possible CMS action for Official SPA Submission Package during submission process"
   },
   {
     "abbreviation": "RAC",
-    "expansion": "Recovery Audit Contractor"
+    "title": "Recovery Audit Contractor"
   },
   {
     "abbreviation": "RBAC",
-    "expansion": "Role-based access control"
+    "title": "Role-based access control"
   },
   {
     "abbreviation": "RBRVS",
-    "expansion": "Resource-Based Relative Value Scale"
+    "title": "Resource-Based Relative Value Scale"
   },
   {
     "abbreviation": "REC",
-    "expansion": "Regional Extension Center"
+    "title": "Regional Extension Center"
   },
   {
     "abbreviation": "RFI",
-    "expansion": "Request for Information"
+    "title": "Request for Information"
   },
   {
     "abbreviation": "RHC",
-    "expansion": "Rural Health Clinic"
+    "title": "Rural Health Clinic"
   },
   {
     "abbreviation": "RHC",
-    "expansion": "Rural Health Center"
+    "title": "Rural Health Center"
   },
   {
     "abbreviation": "RLS",
-    "expansion": "Record Locator Service"
+    "title": "Record Locator Service"
   },
   {
     "abbreviation": "RO",
-    "expansion": "Regional Office",
+    "title": "Regional Office",
     "description": "Regional offices were absorbed by Central"
   },
   {
     "abbreviation": "ROG",
-    "expansion": "Regional Office Group",
+    "title": "Regional Office Group",
     "description": "One of seven groups within CMCS"
   },
   {
     "abbreviation": "ROME",
-    "expansion": "Regional Office MACPro Expert",
+    "title": "Regional Office MACPro Expert",
     "description": "Even though regional offices were absorbed by Central, this role is not going to be renamed"
   },
   {
     "abbreviation": "RU",
-    "expansion": "Reviewable Unit",
+    "title": "Reviewable Unit",
     "description": "Information which must be reviewed and adjudicated together.  When a state sends a submission package (SPA, 1115 demonstration, 1915(c) waiver, etc.) to CMS for approval, all of the options selected, assurances and statements in one reviewable unit (RU) is subject to scrutiny and must be accurate and complete in order for CMS to approve it."
   },
   {
     "abbreviation": "S&CC",
-    "expansion": "Standards and Certification Criteria"
+    "title": "Standards and Certification Criteria"
   },
   {
     "abbreviation": "SaaS",
-    "expansion": "Software as a service"
+    "title": "Software as a service"
   },
   {
     "abbreviation": "SDE",
-    "expansion": "State Designated Entity"
+    "title": "State Designated Entity"
   },
   {
     "abbreviation": "SDF",
-    "expansion": "Structured Data Forms",
+    "title": "Structured Data Forms",
     "description": "An excel spreadsheet written for each RU in MACPro as means of communication between business owners and developers to detail exact language, order of statements and options, dependencies, and additional instructions"
   },
   {
     "abbreviation": "SDG",
-    "expansion": "State Demonstrations Group",
+    "title": "State Demonstrations Group",
     "description": "One of seven groups within CMCS"
   },
   {
     "abbreviation": "SDIR",
-    "expansion": "State Director",
+    "title": "State Director",
     "description": "MACPro State role"
   },
   {
     "abbreviation": "SDLC",
-    "expansion": "Software Development Life Cycle"
+    "title": "Software Development Life Cycle"
   },
   {
     "abbreviation": "SE",
-    "expansion": "State Editor",
+    "title": "State Editor",
     "description": "MACPro State role"
   },
   {
     "abbreviation": "SEA Tool",
-    "expansion": "State Early Alert Tool",
+    "title": "State Early Alert Tool",
     "description": "One of the five separate systems within MACPro"
   },
   {
     "abbreviation": "SEDS",
-    "expansion": "Children’s Health Insurance Program Statistical Enrollment Data Systems",
+    "title": "Children’s Health Insurance Program Statistical Enrollment Data Systems",
     "description": "One of the five separate systems within MACPro"
   },
   {
     "abbreviation": "SHARP",
-    "expansion": "Strategic Health IT Advanced Research Projects"
+    "title": "Strategic Health IT Advanced Research Projects"
   },
   {
     "abbreviation": "SIM",
-    "expansion": "State Innovation Model"
+    "title": "State Innovation Model"
   },
   {
     "abbreviation": "SLR",
-    "expansion": "State Level Repository"
+    "title": "State Level Repository"
   },
   {
     "abbreviation": "SMA",
-    "expansion": "State Medicaid Agency"
+    "title": "State Medicaid Agency"
   },
   {
     "abbreviation": "SMDL",
-    "expansion": "State Medicaid Director's Letter"
+    "title": "State Medicaid Director's Letter"
   },
   {
     "abbreviation": "SMHP",
-    "expansion": "State Medicaid Health Information Technology Plan"
+    "title": "State Medicaid Health Information Technology Plan"
   },
   {
     "abbreviation": "SNOMED CT",
-    "expansion": "Systemized Nomenclature of Medicine - Clinical Terms"
+    "title": "Systemized Nomenclature of Medicine - Clinical Terms"
   },
   {
     "abbreviation": "SPA",
-    "expansion": "State Plan Amendment"
+    "title": "State Plan Amendment"
   },
   {
     "abbreviation": "SPOC",
-    "expansion": "State Point of Contact",
+    "title": "State Point of Contact",
     "description": "MACPro State role"
   },
   {
     "abbreviation": "SRT",
-    "expansion": "Submission Review Team",
+    "title": "Submission Review Team",
     "description": "MACPro CMS role"
   },
   {
     "abbreviation": "SRRVW",
-    "expansion": "Senior (Sr.) Reviewer",
+    "title": "Senior (Sr.) Reviewer",
     "description": "MACPro CMS role"
   },
   {
     "abbreviation": "SSA",
-    "expansion": "State System Administrator",
+    "title": "State System Administrator",
     "description": "MACPro State role"
   },
   {
     "abbreviation": "SSA",
-    "expansion": "Social Security Act"
+    "title": "Social Security Act"
   },
   {
     "abbreviation": "T-MSIS",
-    "expansion": "Transformed Medicaid Statistical Information System"
+    "title": "Transformed Medicaid Statistical Information System"
   },
   {
     "abbreviation": "TA",
-    "expansion": "Technical Assistance"
+    "title": "Technical Assistance"
   },
   {
     "abbreviation": "TCP/IP",
-    "expansion": "Transmission Control Protocol/Internet Protocol"
+    "title": "Transmission Control Protocol/Internet Protocol"
   },
   {
     "abbreviation": "TIN",
-    "expansion": "Tax Identification Number"
+    "title": "Tax Identification Number"
   },
   {
     "abbreviation": "TN",
-    "expansion": "Transmittal Number"
+    "title": "Transmittal Number"
   },
   {
     "abbreviation": "TOC",
-    "expansion": "Transitions of Care"
+    "title": "Transitions of Care"
   },
   {
     "abbreviation": "UDDI",
-    "expansion": "Universal Discovery and Description Interface"
+    "title": "Universal Discovery and Description Interface"
   },
   {
     "abbreviation": "URG",
-    "expansion": "User Requirements Group"
+    "title": "User Requirements Group"
   },
   {
     "abbreviation": "USWDS",
-    "expansion": "United States Web Design System"
+    "title": "United States Web Design System"
   },
   {
     "abbreviation": "VBP",
-    "expansion": "Value Based Payment"
+    "title": "Value Based Payment"
   },
   {
     "abbreviation": "WMS",
-    "expansion": "Waiver Management System",
+    "title": "Waiver Management System",
     "description": "WMS is the system to manage Medicaid State plan waiver programs. One of the five separate systems within MACPro."
   },
   {
     "abbreviation": "WRQ",
-    "expansion": "Worker Rehabilitation Questionnaire"
+    "title": "Worker Rehabilitation Questionnaire"
   },
   {
     "abbreviation": "XDS",
-    "expansion": "Cross-enterprise Document Sharing"
+    "title": "Cross-enterprise Document Sharing"
   }
 ]
