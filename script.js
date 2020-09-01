@@ -71,10 +71,10 @@
           listElem.classList.add("top");
           listWrap.prepend(listElem);
 
-          if (def.shortdesc) {
+          if (def.description) {
             const listDesc = document.createElement("p");
             listDesc.classList.add("desc");
-            const descText = document.createTextNode(def.shortdesc);
+            const descText = document.createTextNode(def.description);
             listDesc.appendChild(descText);
             listElem.appendChild(listDesc);
           }
