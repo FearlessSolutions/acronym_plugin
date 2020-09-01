@@ -1,0 +1,28 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 2,
+  "name": "Fearless Acronyms",
+  "description": "Select an acronym to expand it.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "fearless-logo307.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["script.js"],
+      "css": ["styles.css"]
+    }
+  ],
+
+  "permissions": ["activeTab"],
+
+  "icons": {
+    "16": "fearless-logo48.png",
+    "48": "fearless-logo80.png",
+    "128": "fearless-logo307.png"
+  }
+}
