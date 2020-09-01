@@ -13,19 +13,26 @@
     else return element.removeEventListener(evnt, funct, false);
   };
 
-  /*FETCH ENTRY*/
-  let entry = [];
+  /*FETCH ACRONYM*/
+  let acronyms = [];
 
-  const getEntry = async () => {
-    const response = await (
+  const getAcronyms = async () => {
+    const fearless = await (
       await fetch(
         "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/fearless.json"
       )
     ).json();
-    return entry.push(response);
+
+    const software = await (
+      await fetch(
+        "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/software.json"
+      )
+    ).json();
+
+    return acronyms.push(fearless.concat(software));
   };
 
-  getEntry();
+  getAcronyms();
 
   /*BUILD TOOLTIPS*/
   let newTip = null;
@@ -115,8 +122,8 @@
 
     const matches = [];
     // iterate over each element in the array
-    for (var i = 0; i < entry[0].length; i++) {
-      const ac = entry[0][i];
+    for (var i = 0; i < acronyms[0].length; i++) {
+      const ac = acronyms[0][i];
       const abbrev = ac.abbreviation.toLowerCase();
       const title = ac.title.toLowerCase();
       if (
