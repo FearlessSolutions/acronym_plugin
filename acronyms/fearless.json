@@ -5,6 +5,11 @@
     "category": "Government Terms"
   },
   {
+    "abbreviation": "ACO",
+    "expansion": "Accountable Care Organizations",
+    "category": "Projects/Agencies"
+  },
+  {
     "abbreviation": "ACO API",
     "expansion": "Accountable Care Organizations API",
     "category": "Projects/Agencies"
