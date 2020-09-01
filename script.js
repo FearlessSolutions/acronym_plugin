@@ -117,10 +117,10 @@
     // iterate over each element in the array
     for (var i = 0; i < entry[0].length; i++) {
       const ac = entry[0][i];
-      const abrev = ac.abbreviation.toLowerCase();
+      const abbrev = ac.abbreviation.toLowerCase();
       const title = ac.title.toLowerCase();
       if (
-        abrev == selectedText.toLowerCase() ||
+        abbrev == selectedText.toLowerCase() ||
         title == selectedText.toLowerCase()
       ) {
         matches.push(ac);
