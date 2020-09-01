@@ -1,0 +1,334 @@
+[
+  {
+    "abbreviation": "API",
+    "expansion": "Application Programming Interface",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "ARN",
+    "expansion": "Amazon Resource Name",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
+    "abbreviation": "AWS",
+    "expansion": "Amazon Web Services",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "BYOD",
+    "expansion": "Bring Your Own Device",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "CMS",
+    "expansion": "Content Management System",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "CSM",
+    "expansion": "Certified Scrum Master",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "CSP",
+    "expansion": "Certified Scrum Professional",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "CSP",
+    "expansion": "Cloud Service Provider",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "CSS",
+    "expansion": "Cascading Style Sheet",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "DAM",
+    "expansion": "Data-Access Module"
+  },
+  {
+    "abbreviation": "DDI",
+    "expansion": "Design, Develop, Implement"
+  },
+  {
+    "abbreviation": "DevOps",
+    "expansion": "Development Operations",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "DevSecOps",
+    "expansion": "Development Security Operations",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "DNS",
+    "expansion": "Domain Name System",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "DoD",
+    "expansion": "Definition of Done",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "DoR",
+    "expansion": "Definition of Ready",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "EC2",
+    "expansion": "Elastic Compute Cloud",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
+    "abbreviation": "ECR",
+    "expansion": "Elastic Container Registry",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
+    "abbreviation": "ECS",
+    "expansion": "Elastic Container Service",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
+    "abbreviation": "EIS",
+    "expansion": "Enterprise Information Systems",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "EITaaS",
+    "expansion": "Enterprise IT as a Service",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "EKS",
+    "expansion": "Elastic Kubernetes Service",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
+    "abbreviation": "FaaS",
+    "expansion": "Function as a Service",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "GCP",
+    "expansion": "Google Cloud Platform",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "HCD",
+    "expansion": "Human Centered Design",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "HCI",
+    "expansion": "Human Computer Interaction",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "IaaS",
+    "expansion": "Infrastructure as a Service",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "IA",
+    "expansion": "Information Architecture, Information Assurance",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "IDE",
+    "expansion": "Integrated Development Environment",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "INVEST",
+    "expansion": "Independent, Negotiable, Valuable, Estimable, Small, Testable",
+    "description": "Independent of all others, Negotiable - not a specific contract for features, Valuable or vertical, Estimable to a good approximation, Small so as to fit within an iteration, Testable in principle, even if there isn’t a test for it yet",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "Mbps",
+    "expansion": "Megabits per second"
+  },
+  {
+    "abbreviation": "MDM",
+    "expansion": "Mobile Device Management",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "MEAN Stack ",
+    "expansion": "MongoDB, Express.js, AngularJS (or Angular), and Node.js",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "MERN Stack ",
+    "expansion": "MongoDB, Express.js, React, and Node.js",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "MVP",
+    "expansion": "Minimum Viable Product",
+    "description": "Version of a product with just enough features to satisfy early customers and provide feedback for future product development",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "NGG",
+    "expansion": "Next Generation Governance",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "NIST",
+    "expansion": "National Institute of Standards and Technology",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "OCI",
+    "expansion": "Open Container Image, Open Container Initiative",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "OCR",
+    "expansion": "Optical Character Recognition"
+  },
+  {
+    "abbreviation": "OS",
+    "expansion": "Operating System",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "OSS",
+    "expansion": "Open-Source Software",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "PaaS",
+    "expansion": "Platform as a Service",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "PI",
+    "expansion": "Program Increment",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "PO",
+    "expansion": "Product Owner",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "POC",
+    "expansion": "Proof of Concept",
+    "description": "Verifying that some concept or theory has practical potential. It is usually small and may or may not be complete."
+  },
+  {
+    "abbreviation": "QA",
+    "expansion": "Quality Assurance"
+  },
+  {
+    "abbreviation": "RFID",
+    "expansion": "Radio Frequency Identification"
+  },
+  {
+    "abbreviation": "RDS",
+    "expansion": "Relational Database Service",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
+    "abbreviation": "RMF",
+    "expansion": "Risk Management Framework",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "S3",
+    "expansion": "Simple Storage Service",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
+    "abbreviation": "SaaS",
+    "expansion": "Software as a Service",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "SM",
+    "expansion": "Scrum Master",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "SOA",
+    "expansion": "Service Oriented Architecture"
+  },
+  {
+    "abbreviation": "SoS",
+    "expansion": "Scrum of Scrums",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "SRE",
+    "expansion": "Site Reliability Engineering",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "STEM",
+    "expansion": "Science,Technology, Engineering, and Math",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "SSM",
+    "expansion": "System Security Manager",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
+    "abbreviation": "SSO",
+    "expansion": "Single sign-on"
+  },
+  {
+    "abbreviation": "TDD",
+    "expansion": "Test Driven Development",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "UI",
+    "expansion": "User Interface",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "UX",
+    "expansion": "User Experience",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "VM",
+    "expansion": "Virtual Machine",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "VPN",
+    "expansion": "Virtual Private Network"
+  },
+  {
+    "abbreviation": "VS",
+    "expansion": "Visual Studio",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "WIP",
+    "expansion": "Work in Progress",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "XML",
+    "expansion": "Extensible Markup Language"
+  },
+  {
+    "abbreviation": "XP",
+    "expansion": "Extreme Programming",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "XSS",
+    "expansion": "Cross-Site Scripting",
+    "category": "Software Terms"
+  }
+]
