@@ -40,6 +40,10 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "BC",
+    "title": "Brand and Communications"
+  },
+  {
     "abbreviation": "BCDA",
     "title": "Beneficiary Claims Data API",
     "category": "Projects/Agencies"
@@ -48,6 +52,11 @@
     "abbreviation": "BD",
     "title": "Business Development",
     "category": ["Role Terms", "Business Terms"]
+  },
+  {
+    "abbreviation": "BDEC",
+    "title": "Baltimore Digital Equality Coalition",
+    "category": "Projects/Agencies"
   },
   {
     "abbreviation": "BES",
@@ -114,6 +123,10 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "COI",
+    "title": "Communities of Interest"
+  },
+  {
     "abbreviation": "COO",
     "title": "Chief Operating Officer",
     "category": "Role Terms"
@@ -157,6 +170,10 @@
     "abbreviation": "ET",
     "title": "Executive Team",
     "category": "Role Terms"
+  },
+  {
+    "abbreviation": "FI",
+    "title": "Finance and Infrastructure"
   },
   {
     "abbreviation": "GCDS",
@@ -239,8 +256,16 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "PO",
+    "title": "People Ops"
+  },
+  {
     "abbreviation": "POC",
     "title": "Point of Contact"
+  },
+  {
+    "abbreviation": "PR",
+    "title": "Programs"
   },
   {
     "abbreviation": "PWS",
@@ -299,6 +324,11 @@
   {
     "abbreviation": "USAF",
     "title": "United States Air Force",
+    "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "UTPC",
+    "title": "Unite to Prevent Cancer",
     "category": "Projects/Agencies"
   }
 ]
