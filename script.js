@@ -29,7 +29,8 @@
       )
     ).json();
 
-    return acronyms.push(fearless.concat(software));
+    acronyms = fearless.concat(software);
+    return acronyms;
   };
 
   getAcronyms();
@@ -118,19 +119,9 @@
 
     if (!selectedText) return;
 
-    const matches = [];
-    // iterate over each element in the array
-    for (var i = 0; i < acronyms[0].length; i++) {
-      const ac = acronyms[0][i];
-      const abbrev = ac.abbreviation.toLowerCase();
-      const title = ac.title.toLowerCase();
-      if (
-        abbrev == selectedText.toLowerCase() ||
-        title == selectedText.toLowerCase()
-      ) {
-        matches.push(ac);
-      }
-    }
+    const matches = acronyms.filter(function (tla) {
+      return tla.abbreviation.toLowerCase() === selectedText.toLowerCase();
+    });
 
     if (matches.length > 0) {
       inner = selectionObject.anchorNode.innerHTML;
