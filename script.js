@@ -70,7 +70,7 @@
 
         listTitle.appendChild(titleText);
         //listAction.appendChild(actionText);
-        listTitle.appendChild(listAction);
+        //listTitle.appendChild(listAction);
         listElem.appendChild(listTitle);
 
         if (def.priority == 1 || this.defs.length == 1) {
