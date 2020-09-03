@@ -63,9 +63,7 @@
       for (var def of this.defs) {
         const listElem = document.createElement("li");
         const listTitle = document.createElement("p");
-        const titleText = document.createTextNode(
-          `${def.title}${def.abbreviation ? " (" + def.abbreviation + ")" : ""}`
-        );
+        const titleText = document.createTextNode(`${def.title}`);
         const listAction = document.createElement("a");
         const actionText = document.createTextNode("more");
 
