@@ -1,4 +1,27 @@
 (() => {
+  const fileReference = [
+    {
+      ref: "default",
+      url:
+        "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/fearless.json",
+    },
+    {
+      ref: "cms",
+      url:
+        "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/cms.json",
+    },
+    {
+      ref: "software",
+      url:
+        "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/software.json",
+    },
+  ];
+
+  // urls for user selection options
+  let urls = [];
+  // list of available TLAs based on user selections
+  let acronyms = [];
+
   /*GLOBAL FUNCTIONS*/
   /******************************/
   //HANDLE ADDING EVENTS IN OLDER BROWSERS (IE)
@@ -13,23 +36,33 @@
     else return element.removeEventListener(evnt, funct, false);
   };
 
+  // Get user settings
+  chrome.storage.sync.get(
+    {
+      acronym_files: [],
+    },
+    function (items) {
+      for (var i = 0; i < items.acronym_files.length; i++) {
+        const result = fileReference.find(
+          ({ ref }) => ref === items.acronym_files[i]
+        );
+        if (result) {
+          urls.push(result.url);
+        }
+      }
+    }
+  );
+
   /*FETCH ACRONYM*/
-  let acronyms = [];
-
   const getAcronyms = async () => {
-    const fearless = await (
-      await fetch(
-        "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/fearless.json"
-      )
+    acronyms = await (
+      await fetch(fileReference.find(({ ref }) => ref === "default").url)
     ).json();
 
-    const software = await (
-      await fetch(
-        "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/software.json"
-      )
-    ).json();
-
-    acronyms = fearless.concat(software);
+    for (var i = 0; i < urls.length; i++) {
+      var tmpData = await (await fetch(urls[i])).json();
+      acronyms = acronyms.concat(tmpData);
+    }
     return acronyms;
   };
 
