@@ -36,6 +36,40 @@
     else return element.removeEventListener(evnt, funct, false);
   };
 
+  // Search input box functionality
+  // display the results of the search in the extension dropdown
+  function display_results() {
+    event.preventDefault();
+    var resultsElem = document.getElementById("fearless_tla_results");
+    resultsElem.innerHTML = "";
+    var searchTerm = document.getElementById("fearless_tla_input").value;
+    if (searchTerm && searchTerm.length > 1) {
+      searchTerm = searchTerm.toUpperCase();
+
+      for (var i = 0; i < acronyms.length; i++) {
+        let a = acronyms[i].abbreviation;
+        if (a.toUpperCase().includes(searchTerm)) {
+          var node = document.createElement("li");
+          var style = document.createElement("strong");
+          var styleTextNode = document.createTextNode(acronyms[i].abbreviation);
+          var textnode = document.createTextNode(`: ${acronyms[i].title}`);
+          style.appendChild(styleTextNode);
+          node.appendChild(style);
+          node.appendChild(textnode);
+          resultsElem.appendChild(node);
+        }
+      }
+    } else {
+      var node = document.createElement("li");
+      var textnode = document.createTextNode("No Matches");
+      node.appendChild(textnode);
+      resultsElem.appendChild(node);
+    }
+  }
+  document
+    .getElementById("fearless_tla_submit")
+    .addEventListener("click", display_results);
+
   // Get user settings
   chrome.storage.sync.get(
     {
@@ -87,7 +121,7 @@
 
     create() {
       const header = document.createElement("span");
-      const headerText = document.createTextNode(`MACStack (${this.length})`);
+      const headerText = document.createTextNode(`Fearless (${this.length})`);
       header.appendChild(headerText);
       //tooltip.appendChild(header);
 
@@ -111,6 +145,7 @@
           listWrap.prepend(listElem);
 
           if (def.description) {
+            //TODO: this isn't dislaying where there is more than one result
             const listDesc = document.createElement("p");
             listDesc.classList.add("desc");
             const descText = document.createTextNode(def.description);

@@ -5,10 +5,11 @@
   "manifest_version": 2,
 
   "browser_action": {
-    "default_icon": "fearless-logo307.png"
+    "default_icon": "fearless-logo307.png",
+    "default_popup": "search.html"
   },
 
-  "permissions": ["activeTab", "storage"],
+  "permissions": ["activeTab", "contextMenus", "storage"],
 
   "content_scripts": [
     {
