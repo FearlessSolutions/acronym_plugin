@@ -15,13 +15,3 @@ When a user highlights a term (in browser) that exists in the glossary, a toolti
 4. Select the acronym project.
 
 5. Highlight an acronym. If it exists in the glossary, a tooltip will display more information.
-
-## NASA Acronyms
-
-[Original Code](https://github.com/nasa/NASA-Acronyms)
-
-Authors: Joel Malissa & Logan Stafman
-
-- [Chrome](https://chrome.google.com/webstore/detail/nasa-acronyms/anpbkdhjbebjjkgdbglbcfaenjldbinf)
-- [Firefox](https://addons.mozilla.org/addon/nasa-acronyms)
-- [Search Engine](https://nasaacronyms.com)
