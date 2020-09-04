@@ -37,7 +37,8 @@
   {
     "abbreviation": "BB",
     "title": "Blue Button",
-    "category": "Projects/Agencies"
+    "category": "Projects/Agencies",
+    "description": "CMS Portfolio"
   },
   {
     "abbreviation": "BC",
@@ -46,7 +47,8 @@
   {
     "abbreviation": "BCDA",
     "title": "Beneficiary Claims Data API",
-    "category": "Projects/Agencies"
+    "category": "Projects/Agencies",
+    "description": "CMS Portfolio"
   },
   {
     "abbreviation": "BD",
@@ -105,7 +107,8 @@
   },
   {
     "abbreviation": "CMS",
-    "title": "Centers for Medicare and Medicaid Services"
+    "title": "Centers for Medicare and Medicaid Services",
+    "description": "CMS Portfolio"
   },
   {
     "abbreviation": "CMS OIT HCD",
