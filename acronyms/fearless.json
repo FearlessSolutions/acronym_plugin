@@ -323,6 +323,14 @@
     "title": "Three Letter Acronym"
   },
   {
+    "abbreviation": "TLDR",
+    "title": "Too Long; Didn't Read"
+  },
+  {
+    "abbreviation": "TL;DR",
+    "title": "Too Long; Didn't Read"
+  },
+  {
     "abbreviation": "TO",
     "title": "Task Order",
     "category": "Business Terms"
@@ -341,5 +349,9 @@
     "abbreviation": "UTPC",
     "title": "Unite to Prevent Cancer",
     "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "V/R",
+    "title": "Very Respectfully"
   }
 ]
