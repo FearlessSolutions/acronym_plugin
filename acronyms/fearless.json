@@ -66,6 +66,11 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "BDSO",
+    "title": "Biometrics Development, Security Operations or Biometrics DevSecOps",
+    "category": "Projects/Agencies"
+  },
+  {
     "abbreviation": "BESPIN",
     "title": "Business and Enterprise Systems Programming Innovation Program",
     "category": "Projects/Agencies"
@@ -143,6 +148,11 @@
     "abbreviation": "COTS",
     "title": "Commercial Off-The-Shelf",
     "category": "Government Terms"
+  },
+  {
+    "abbreviation": "CPMS",
+    "title": "Customer Profile Management System",
+    "category": "Projects/Agencies"
   },
   {
     "abbreviation": "CRM",
@@ -227,6 +237,11 @@
     "abbreviation": "NAICS",
     "title": "North American Industry Classification System",
     "category": "Business Terms"
+  },
+  {
+    "abbreviation": "NASS",
+    "title": "National Appointment Scheduling System",
+    "category": "Projects/Agencies"
   },
   {
     "abbreviation": "NLT",
@@ -363,5 +378,9 @@
   {
     "abbreviation": "V/R",
     "title": "Very Respectfully"
+  },
+  {
+    "abbreviation": "WRT",
+    "title": "With Respect To"
   }
 ]
