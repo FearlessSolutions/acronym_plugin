@@ -66,6 +66,11 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "BDSO",
+    "title": "Biometrics Development, Security Operations or Biometrics DevSecOps",
+    "category": "Projects/Agencies"
+  },
+  {
     "abbreviation": "BESPIN",
     "title": "Business and Enterprise Systems Programming Innovation Program",
     "category": "Projects/Agencies"
@@ -143,6 +148,11 @@
     "abbreviation": "COTS",
     "title": "Commercial Off-The-Shelf",
     "category": "Government Terms"
+  },
+  {
+    "abbreviation": "CPMS",
+    "title": "Customer Profile Management System",
+    "category": "Projects/Agencies"
   },
   {
     "abbreviation": "CRM",
@@ -229,6 +239,11 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "NASS",
+    "title": "National Appointment Scheduling System",
+    "category": "Projects/Agencies"
+  },
+  {
     "abbreviation": "NLT",
     "title": "No later than"
   },
@@ -254,7 +269,12 @@
   },
   {
     "abbreviation": "PM",
-    "title": "Program Manager / Portfolio Manager",
+    "title": "Program Manager",
+    "category": "Role Terms"
+  },
+  {
+    "abbreviation": "PM",
+    "title": "Portfolio Manager",
     "category": "Role Terms"
   },
   {
@@ -269,6 +289,11 @@
   {
     "abbreviation": "POC",
     "title": "Point of Contact"
+  },
+  {
+    "abbreviation": "PPM",
+    "title": "Project Portfolio Manager",
+    "category": "Role Terms"
   },
   {
     "abbreviation": "PR",
@@ -323,6 +348,14 @@
     "title": "Three Letter Acronym"
   },
   {
+    "abbreviation": "TLDR",
+    "title": "Too Long; Didn't Read"
+  },
+  {
+    "abbreviation": "TL;DR",
+    "title": "Too Long; Didn't Read"
+  },
+  {
     "abbreviation": "TO",
     "title": "Task Order",
     "category": "Business Terms"
@@ -341,5 +374,13 @@
     "abbreviation": "UTPC",
     "title": "Unite to Prevent Cancer",
     "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "V/R",
+    "title": "Very Respectfully"
+  },
+  {
+    "abbreviation": "WRT",
+    "title": "With Respect To"
   }
 ]

@@ -251,6 +251,11 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "SAFe",
+    "title": "Scaled Agile Framework",
+    "category": "Agile Terms"
+  },
+  {
     "abbreviation": "SM",
     "title": "Scrum Master",
     "category": "Agile Terms"
@@ -263,6 +268,11 @@
     "abbreviation": "SoS",
     "title": "Scrum of Scrums",
     "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "SPA",
+    "title": "Single Page Application",
+    "category": "Software Terms"
   },
   {
     "abbreviation": "SRE",
