@@ -270,6 +270,11 @@
     "category": "Agile Terms"
   },
   {
+    "abbreviation": "SPA",
+    "title": "Single Page Application",
+    "category": "Software Terms"
+  },
+  {
     "abbreviation": "SRE",
     "title": "Site Reliability Engineering",
     "category": "Software Terms"
