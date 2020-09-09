@@ -254,7 +254,12 @@
   },
   {
     "abbreviation": "PM",
-    "title": "Program Manager / Portfolio Manager",
+    "title": "Program Manager",
+    "category": "Role Terms"
+  },
+  {
+    "abbreviation": "PM",
+    "title": "Portfolio Manager",
     "category": "Role Terms"
   },
   {
@@ -273,7 +278,7 @@
   {
     "abbreviation": "PPM",
     "title": "Project Portfolio Manager",
-    "category": "Business Terms"
+    "category": "Role Terms"
   },
   {
     "abbreviation": "PR",
