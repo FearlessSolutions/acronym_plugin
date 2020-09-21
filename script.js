@@ -46,10 +46,8 @@
         const result = fileReference.find(
           ({ ref }) => ref === items.acronym_files[i]
         );
-        if (result) {
-          if (result.ref !== "default") {
-            urls.push(result.url);
-          }
+        if (result && result.ref !== "default") {
+          urls.push(result.url);
         }
       }
     }
