@@ -175,6 +175,10 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "DSC",
+    "title": "Digital Services Coalition"
+  },
+  {
     "abbreviation": "EOD",
     "title": "End of Day",
     "category": "Business Terms"
@@ -256,6 +260,10 @@
     "abbreviation": "OCIO",
     "title": "Office of the Chief Information Officer",
     "category": "Government Terms"
+  },
+  {
+    "abbreviation": "OSM",
+    "title": "Organizational Strength Measure"
   },
   {
     "abbreviation": "PC",
