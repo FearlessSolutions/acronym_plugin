@@ -81,7 +81,9 @@
           ({ ref }) => ref === items.acronym_files[i]
         );
         if (result) {
-          urls.push(result.url);
+          if (result.ref !== "default") {
+            urls.push(result.url);
+          }
         }
       }
     }
