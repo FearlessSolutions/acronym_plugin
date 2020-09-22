@@ -1,103 +1,95 @@
-/*TOOL TIP*/
-#fearless_tooltip {
+.fearless_tla_extension {
+  color: #494f56;
+  font-family: Montserrat, Open Sans, sans-serif;
+  font-weight: 700;
+  font-size: 10pt;
+  margin: 0;
+}
+
+.fearless_tla_submit {
+  color: #fff;
   background: #5c3977;
-  border-radius: 0.25rem;
-  box-sizing: border-box;
-  color: rgba(255, 255, 255, 1);
-  display: none;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 62.5%;
-  opacity: 0;
-  max-width: 250px;
-  min-width: 200px;
-  padding: 1rem;
-  pointer-events: none;
-  position: absolute;
-  width: 100%;
-  z-index: 9999999999;
-}
-
-#fearless_tooltip.active {
-  display: block;
-  opacity: 1;
-  pointer-events: all;
-}
-
-#fearless_tooltip span {
-  background: lavender;
-  border-radius: 20px;
-  color: rgba(0, 0, 0, 0.8);
-  display: inline-block;
-  font-size: 1rem;
-  font-weight: bold;
-  margin: 0;
-  padding: 0.2rem 0.5rem;
-}
-
-#fearless_tooltip ul {
-  margin: 0;
-  padding: 0;
-}
-
-#fearless_tooltip li {
-  align-items: flex-start;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-  display: flex;
-  flex-wrap: wrap;
-  /*font-size: 0.5rem;*/
-  justify-content: space-between;
-  padding: 1rem 0;
-}
-
-#fearless_tooltip li.top {
-  border-bottom: 2px solid rgba(255, 255, 255, 0.5);
-  /*font-size: 0.5rem;*/
-  font-weight: bold;
+  font-family: Montserrat, Open Sans, sans-serif;
+  font-weight: 700;
+  outline: none;
+  border: none;
+  margin: 3px;
+  padding: 5px 10px;
   position: relative;
+  overflow: hidden;
+  float: right;
 }
 
-#fearless_tooltip li.top:not(:only-child):before {
-  color: rgba(255, 255, 255, 0.5);
-  content: ""; /*80% Match; Top Definition*/
-  /*font-size: 0.2rem;*/
-  position: absolute;
-  text-transform: uppercase;
-  top: -0.5rem;
+.fearless_tla_submit:hover {
+  background: #ee5340;
+  text-decoration: none;
 }
 
-#fearless_tooltip li.top:only-child,
-#fearless_tooltip li:last-child {
-  border-bottom: none;
-  margin: 0;
-  padding-bottom: 0;
+/* Settings popup specific */
+#fearless_tla_file_settings {
+  padding: 10px;
 }
 
-#fearless_tooltip li.top:only-child,
-#fearless_tooltip li:first-child {
-  padding-top: 0;
+.fearless_tla_options {
+  color: #fff;
+  background: #5c3977;
+  padding: 4px;
 }
 
-#fearless_tooltip li p {
-  font-size: 1rem;
-  display: flex;
-  margin: 0;
+.fearless_tla_options label {
+  font-size: 14px;
+}
+
+#fearless_tla_file_settings #addl_files {
   width: 100%;
+  margin-top: 4px;
 }
 
-#fearless_tooltip a {
-  color: rgba(255, 255, 255, 0.5);
-  cursor: pointer;
-  flex: 1;
-  font-size: 0.5rem;
-  font-weight: normal;
+#fearless_tla_file_settings #addl_files option:hover {
+  box-shadow: 0 0 10px 10px #ee5340 inset;
+  color: #fff;
+}
+
+#fearless_tla_file_settings #addl_files option:focus,
+#fearless_tla_file_settings #addl_files option:active {
+  background: linear-gradient(#ee5340, #ee5340);
+  color: #fff;
+}
+
+#fearless_tla_file_settings #addl_files option:checked {
+  background: linear-gradient(#d6d6d6, #d6d6d6);
+}
+
+#fearless_tla_file_settings #status {
+  color: #ee5340;
+}
+
+/* Extension dropdown specific */
+
+#fearless_tla_title {
+  color: #fff;
+  background: #5c3977;
+  font-size: 14pt;
+  text-align: center;
+  padding: 10px;
   margin: 0;
-  text-align: right;
-  width: 50px;
 }
 
-#fearless_tooltip p.desc {
-  font-weight: 300;
-  line-height: 1.2rem;
-  margin: 0.5rem;
-  padding-left: 10px;
+#fearless_tla_search_form {
+  padding: 8px;
+}
+
+#fearless_tla_search_form input {
+  margin: 6px 3px;
+}
+
+#fearless_tla_results {
+  font-weight: 500;
+  margin: 0;
+  padding: 8px;
+  clear: both;
+}
+
+#fearless_tla_results li {
+  padding: 6px 0px;
 }
