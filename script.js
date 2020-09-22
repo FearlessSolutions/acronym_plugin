@@ -25,6 +25,7 @@
   // Search input box functionality
   // display the results of the search in the extension dropdown
   function display_results() {
+    let numResults = 0;
     event.preventDefault();
     var resultsElem = document.getElementById("fearless_tla_results");
     resultsElem.innerHTML = "";
@@ -43,15 +44,27 @@
           node.appendChild(style);
           node.appendChild(textnode);
           resultsElem.appendChild(node);
+          numResults++;
         }
       }
     } else {
       var node = document.createElement("li");
-      var textnode = document.createTextNode("No Matches");
+      var textnode = document.createTextNode(
+        "Please enter 2 or more characters"
+      );
+      node.appendChild(textnode);
+      resultsElem.appendChild(node);
+      numResults++;
+    }
+
+    if (numResults < 1) {
+      var node = document.createElement("li");
+      var textnode = document.createTextNode("No Matches Found");
       node.appendChild(textnode);
       resultsElem.appendChild(node);
     }
   }
+
   document
     .getElementById("fearless_tla_submit")
     .addEventListener("click", display_results);
