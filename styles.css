@@ -6,6 +6,24 @@
   margin: 0;
 }
 
+.fearless_tla_submit {
+  color: #fff;
+  background: #5c3977;
+  font-family: Montserrat, Open Sans, sans-serif;
+  font-weight: 700;
+  outline: none;
+  border: none;
+  margin: 3px;
+  padding: 5px 10px;
+  position: relative;
+  overflow: hidden;
+  float: right;
+}
+
+.fearless_tla_submit:hover {
+  background: #ee5340;
+  text-decoration: none;
+}
 #fearless_tla_title {
   color: #fff;
   background: #5c3977;
@@ -21,25 +39,6 @@
 
 #fearless_tla_search_form input {
   margin: 6px 3px;
-}
-
-#fearless_tla_submit {
-  color: #fff;
-  background: #5c3977;
-  font-family: Montserrat Alternates, sans-serif;
-  font-weight: 700;
-  outline: none;
-  border: none;
-  margin: 3px;
-  padding: 5px 10px;
-  position: relative;
-  overflow: hidden;
-  float: right;
-}
-
-#fearless_tla_submit:hover {
-  background: #ee5340;
-  text-decoration: none;
 }
 
 #fearless_tla_results {
