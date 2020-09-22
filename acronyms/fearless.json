@@ -15,6 +15,10 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "AMA",
+    "title": "Ask Me Anything"
+  },
+  {
     "abbreviation": "ARMS",
     "title": "Aviation Resource Management System",
     "category": "Projects/Agencies"
@@ -67,7 +71,7 @@
   },
   {
     "abbreviation": "BDSO",
-    "title": "Biometrics Development, Security Operations or Biometrics DevSecOps",
+    "title": "Biometrics Development, Security Operations (Biometrics DevSecOps)",
     "category": "Projects/Agencies"
   },
   {
