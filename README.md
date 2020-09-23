@@ -14,7 +14,7 @@ When a user highlights a term (in browser) that exists in the glossary, a toolti
 
 4. Select the acronym project. This will load the extension into your browser
 
-## Settings
+## Extension Options
 
 1. To select which acronyms are used in the extension, navigate to the Extentions page (Window > Extensions)
 
@@ -22,7 +22,7 @@ When a user highlights a term (in browser) that exists in the glossary, a toolti
 
 3. Select the appropriate acronym sets for your use case
 
-## Usage
+## Using the extension
 
 1. Click on the Fearless logo in the browser extensions, a dropdown with an input box should display.
 
