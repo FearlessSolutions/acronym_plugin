@@ -1,0 +1,27 @@
+#fearless_tla_title {
+  color: #fff;
+  background: #5c3977;
+  font-size: 14pt;
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+}
+
+#fearless_tla_search_form {
+  padding: 8px;
+}
+
+#fearless_tla_search_form input {
+  margin: 6px 3px;
+}
+
+#fearless_tla_results {
+  font-weight: 500;
+  margin: 0;
+  padding: 8px;
+  clear: both;
+}
+
+#fearless_tla_results li {
+  padding: 6px 0px;
+}

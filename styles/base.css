@@ -1,0 +1,26 @@
+.fearless_tla_extension {
+  color: #494f56;
+  font-family: Montserrat, Open Sans, sans-serif;
+  font-weight: 700;
+  font-size: 10pt;
+  margin: 0;
+}
+
+.fearless_tla_submit {
+  color: #fff;
+  background: #5c3977;
+  font-family: Montserrat, Open Sans, sans-serif;
+  font-weight: 700;
+  outline: none;
+  border: none;
+  margin: 3px;
+  padding: 5px 10px;
+  position: relative;
+  overflow: hidden;
+  float: right;
+}
+
+.fearless_tla_submit:hover {
+  background: #ee5340;
+  text-decoration: none;
+}
