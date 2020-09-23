@@ -1,4 +1,4 @@
-#fearless_tla_file_settings {
+#fearless_tla_extension_options {
   padding: 10px;
 }
 
@@ -12,26 +12,26 @@
   font-size: 14px;
 }
 
-#fearless_tla_file_settings #addl_files {
+#fearless_tla_extension_options #addl_files {
   width: 100%;
   margin-top: 4px;
 }
 
-#fearless_tla_file_settings #addl_files option:hover {
+#fearless_tla_extension_options #addl_files option:hover {
   box-shadow: 0 0 10px 10px #ee5340 inset;
   color: #fff;
 }
 
-#fearless_tla_file_settings #addl_files option:focus,
-#fearless_tla_file_settings #addl_files option:active {
+#fearless_tla_extension_options #addl_files option:focus,
+#fearless_tla_extension_options #addl_files option:active {
   background: linear-gradient(#ee5340, #ee5340);
   color: #fff;
 }
 
-#fearless_tla_file_settings #addl_files option:checked {
+#fearless_tla_extension_options #addl_files option:checked {
   background: linear-gradient(#d6d6d6, #d6d6d6);
 }
 
-#fearless_tla_file_settings #status {
+#fearless_tla_extension_options #status {
   color: #ee5340;
 }
