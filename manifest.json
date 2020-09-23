@@ -12,7 +12,7 @@
   "permissions": ["contextMenus", "storage"],
 
   "options_ui": {
-    "page": "/settings-menu/options.html",
+    "page": "/extension-options/options.html",
     "open_in_tab": false
   },
 
