@@ -6,13 +6,13 @@
 
   "browser_action": {
     "default_icon": "fearless-logo128.png",
-    "default_popup": "search.html"
+    "default_popup": "/search-dropdown/search.html"
   },
 
   "permissions": ["contextMenus", "storage"],
 
   "options_ui": {
-    "page": "options.html",
+    "page": "/settings-menu/options.html",
     "open_in_tab": false
   },
 
