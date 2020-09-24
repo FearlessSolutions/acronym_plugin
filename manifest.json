@@ -5,8 +5,8 @@
   "manifest_version": 2,
 
   "browser_action": {
-    "default_icon": "fearless-logo128.png",
     "default_popup": "/search-dropdown/search.html"
+    "default_icon": "./images/fearless-logo128.png",
   },
 
   "permissions": ["contextMenus", "storage"],
@@ -17,8 +17,8 @@
   },
 
   "icons": {
-    "16": "fearless-logo16.png",
-    "48": "fearless-logo48.png",
-    "128": "fearless-logo128.png"
+    "16": "./images/fearless-logo16.png",
+    "48": "./images/fearless-logo48.png",
+    "128": "./images/fearless-logo128.png"
   }
 }
