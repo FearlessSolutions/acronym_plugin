@@ -1,22 +1,6 @@
-(() => {
-  const fileReference = [
-    {
-      ref: "default",
-      url:
-        "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/fearless.json",
-    },
-    {
-      ref: "cms",
-      url:
-        "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/cms.json",
-    },
-    {
-      ref: "software",
-      url:
-        "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/software.json",
-    },
-  ];
+import { fileReference } from "../base.js";
 
+(() => {
   // urls for user selection options
   let urls = [];
   // list of available TLAs based on user selections

@@ -1,3 +1,15 @@
+import { fileReference } from "../base.js";
+
+// populate the select box based on the file array defined in the base file
+var select = document.getElementById("addl_files");
+for (var index in fileReference) {
+  select.options[select.options.length] = new Option(
+    fileReference[index].name,
+    fileReference[index].ref,
+    fileReference[index].default
+  );
+}
+
 // Saves options to chrome.storage
 function save_options() {
   let selectedOptions = document.getElementById("addl_files").selectedOptions;
