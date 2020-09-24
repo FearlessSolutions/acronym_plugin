@@ -1,9 +1,5 @@
 # Fearless Acronym Extension
 
-This extension is forked from the [NASA acronyms](https://github.com/nasa/NASA-Acronyms) functionality and altered for use with Fearless acronyms.
-
-When a user highlights a term (in browser) that exists in the glossary, a tooltip will appear with additional information.
-
 ## Setup
 
 1. Clone or download the [acronym project](https://github.com/FearlessSolutions/acronym_plugin).
