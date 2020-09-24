@@ -5,14 +5,14 @@
   "manifest_version": 2,
 
   "browser_action": {
-    "default_popup": "/search-dropdown/search.html"
     "default_icon": "./images/fearless-logo128.png",
+    "default_popup": "./search-dropdown/search.html"
   },
 
   "permissions": ["contextMenus", "storage"],
 
   "options_ui": {
-    "page": "/extension-options/options.html",
+    "page": "./extension-options/options.html",
     "open_in_tab": false
   },
 
