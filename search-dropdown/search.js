@@ -59,9 +59,9 @@ import { fileReference } from "../base.js";
       acronym_files: [],
     },
     function (items) {
-      for (var i = 0; i < items.acronym_files.length; i++) {
+      for (var index in items.acronym_files) {
         const result = fileReference.find(
-          ({ ref }) => ref === items.acronym_files[i]
+          ({ ref }) => ref === items.acronym_files[index]
         );
         if (result && result.ref !== "default") {
           urls.push(result.url);

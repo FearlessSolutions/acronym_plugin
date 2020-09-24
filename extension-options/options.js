@@ -29,8 +29,8 @@ function save_options() {
   let selectedOptions = document.getElementById("addl_files").selectedOptions;
   let selectedValues = [];
 
-  for (let i = 0; i < selectedOptions.length; i++) {
-    selectedValues.push(selectedOptions[i].value);
+  for (var index in selectedOptions) {
+    selectedValues.push(selectedOptions[index].value);
   }
 
   chrome.storage.sync.set(
