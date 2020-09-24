@@ -2,7 +2,7 @@
 const fileReference = [
   {
     ref: "default",
-    name: "None (only include the default)",
+    name: "Fearless Default (always included)",
     default: true,
     url:
       "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/fearless.json",
