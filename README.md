@@ -8,7 +8,7 @@ This extension adds an icon to the browser bar that, when clicked, displays a se
 
 1. Clone or [download](https://github.com/FearlessSolutions/acronym_plugin/archive/master.zip) the acronym project
 
-`https://github.com/FearlessSolutions/acronym_plugin.git`
+`git clone https://github.com/FearlessSolutions/acronym_plugin.git`
 
 2. In Chrome, navigate to the Extentions page (Window > Extensions).
 
