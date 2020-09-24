@@ -317,6 +317,11 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "RACI",
+    "title": "Responsible, Accountable, Consulted, Informed",
+    "description": "A matrix of all the activities or decision making authorities undertaken in an organisation set against all the people or roles"
+  },
+  {
     "abbreviation": "RFP",
     "title": "Request for Proposal",
     "category": "Business Terms"
