@@ -1,14 +1,28 @@
 import { fileReference } from "../base.js";
 
-// populate the select box based on the file array defined in the base file
-var select = document.getElementById("addl_files");
-for (var index in fileReference) {
-  select.options[select.options.length] = new Option(
-    fileReference[index].name,
-    fileReference[index].ref,
-    fileReference[index].default
-  );
-}
+// Restores input state using the preferences stored in chrome.storage
+chrome.storage.sync.get(
+  {
+    acronym_files: [],
+  },
+  function (items) {
+    var select = document.getElementById("addl_files");
+    for (var index in fileReference) {
+      let highlight = fileReference[index].default;
+      if (items.acronym_files.indexOf(fileReference[index].ref) > -1) {
+        highlight = true;
+      }
+
+      // populate the select box based on the file array defined in the base file
+      select.options[select.options.length] = new Option(
+        fileReference[index].name,
+        fileReference[index].ref,
+        fileReference[index].default,
+        highlight
+      );
+    }
+  }
+);
 
 // Saves options to chrome.storage
 function save_options() {
@@ -38,25 +52,4 @@ function save_options() {
   );
 }
 
-// Restores input state using the preferences stored in chrome.storage
-function restore_options() {
-  chrome.storage.sync.get(
-    {
-      acronym_files: [],
-    },
-    function (items) {
-      let options = document.getElementById("addl_files");
-
-      for (let i = 0; i < options.length; i++) {
-        let tmp = options[i].value;
-        if (items.acronym_files.indexOf(tmp) > -1) {
-          options[i].selected = true;
-        }
-      }
-    }
-  );
-}
-document.addEventListener("DOMContentLoaded", restore_options, {
-  passive: true,
-});
 document.getElementById("save").addEventListener("click", save_options);
