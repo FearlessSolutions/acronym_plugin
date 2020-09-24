@@ -30,10 +30,6 @@ function save_options() {
   let selectedValues = [];
 
   for (let i = 0; i < selectedOptions.length; i++) {
-    if (selectedOptions[i].value === "default") {
-      selectedValues = [selectedOptions[i].value];
-      break;
-    }
     selectedValues.push(selectedOptions[i].value);
   }
 

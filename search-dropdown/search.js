@@ -67,6 +67,19 @@ import { fileReference } from "../base.js";
           urls.push(result.url);
         }
       }
+
+      let defaults = fileReference.filter(function (el) {
+        return el.default === true;
+      });
+      for (var index in defaults) {
+        console.log(defaults[index].url);
+        if (
+          defaults[index].ref !== "default" &&
+          urls.indexOf(defaults[index].url) < 0
+        ) {
+          urls.push(defaults[index].url);
+        }
+      }
     }
   );
 
