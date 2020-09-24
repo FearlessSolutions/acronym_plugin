@@ -138,7 +138,12 @@
   },
   {
     "abbreviation": "IA",
-    "title": "Information Architecture, Information Assurance",
+    "title": "Information Architecture",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "IA",
+    "title": "Information Assurance",
     "category": "Software Terms"
   },
   {
@@ -189,7 +194,12 @@
   },
   {
     "abbreviation": "OCI",
-    "title": "Open Container Image, Open Container Initiative",
+    "title": "Open Container Initiative",
+    "category": "Software Terms"
+  },
+  {
+    "abbreviation": "OCI",
+    "title": "Open Container Image",
     "category": "Software Terms"
   },
   {
