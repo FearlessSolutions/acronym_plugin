@@ -6,7 +6,7 @@ When a user highlights a term (in browser) that exists in the glossary, a toolti
 
 ## Setup
 
-1. Download the [acronym project](https://github.com/FearlessSolutions/acronym_plugin).
+1. Clone or download the [acronym project](https://github.com/FearlessSolutions/acronym_plugin).
 
 2. In Chrome, navigate to the Extentions page (Window > Extensions).
 
