@@ -265,6 +265,11 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "NGIC",
+    "title": "National Ground Intelligence Center",
+    "description": "Part of the United States Army Intelligence and Security Command"
+  },
+  {
     "abbreviation": "NLT",
     "title": "No later than"
   },
@@ -350,6 +355,10 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "SCIF",
+    "title": "Sensitive Compartmented Information Facility"
+  },
+  {
     "abbreviation": "SM",
     "title": "Scrum Master",
     "category": "Role Terms"
@@ -408,6 +417,10 @@
   {
     "abbreviation": "V/R",
     "title": "Very Respectfully"
+  },
+  {
+    "abbreviation": "VTC",
+    "title": "Video Tele-Conferencing"
   },
   {
     "abbreviation": "WRT",
