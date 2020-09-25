@@ -115,6 +115,11 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "CMMC",
+    "title": "Cybersecurity Maturity Model Certification",
+    "description": "Department of Defense's (DoD) newest verification mechanism designed to ensure that cybersecurity controls and processes adequately protect Controlled Unclassified Information (CUI) that resides on Defense Industrial Base (DIB) systems and networks"
+  },
+  {
     "abbreviation": "CMS",
     "title": "Centers for Medicare and Medicaid Services",
     "description": "CMS Portfolio"
@@ -164,9 +169,17 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "CUI",
+    "title": "Controlled Unclassified Information"
+  },
+  {
     "abbreviation": "DIA",
     "title": "Defense Intelligence Agency",
     "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "DIB",
+    "title": "Defense Industrial Base"
   },
   {
     "abbreviation": "DoD",
