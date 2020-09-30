@@ -245,13 +245,13 @@
     "title": "Quality Assurance"
   },
   {
-    "abbreviation": "RFID",
-    "title": "Radio Frequency Identification"
-  },
-  {
     "abbreviation": "RDS",
     "title": "Relational Database Service",
     "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
+    "abbreviation": "RFID",
+    "title": "Radio Frequency Identification"
   },
   {
     "abbreviation": "RMF",
