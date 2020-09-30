@@ -62,7 +62,7 @@
   },
   {
     "abbreviation": "DAM",
-    "title": "Data-Access Module"
+    "title": "Digital Asset Management"
   },
   {
     "abbreviation": "DB",
@@ -225,6 +225,10 @@
   {
     "abbreviation": "LESS",
     "title": "Leaner Style Sheets"
+  },
+  {
+    "abbreviation": "LMS",
+    "title": "Learning Management Software"
   },
   {
     "abbreviation": "Mbps",
