@@ -25,6 +25,10 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "CRUD",
+    "title": "Create, Read, Update, Delete"
+  },
+  {
     "abbreviation": "CSM",
     "title": "Certified Scrum Master",
     "category": "Agile Terms"
@@ -51,6 +55,10 @@
   {
     "abbreviation": "DAM",
     "title": "Data-Access Module"
+  },
+  {
+    "abbreviation": "DB",
+    "title": "Database"
   },
   {
     "abbreviation": "DDI",
@@ -112,6 +120,14 @@
     "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
+    "abbreviation": "EOL",
+    "title": "End Of Life"
+  },
+  {
+    "abbreviation": "ES",
+    "title": "Elasticsearch"
+  },
+  {
     "abbreviation": "FaaS",
     "title": "Function as a Service",
     "category": "Software Terms"
@@ -156,6 +172,22 @@
     "title": "Independent, Negotiable, Valuable, Estimable, Small, Testable",
     "description": "Independent of all others, Negotiable - not a specific contract for features, Valuable or vertical, Estimable to a good approximation, Small so as to fit within an iteration, Testable in principle, even if there isn’t a test for it yet",
     "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "JPA",
+    "title": "Java Persistence API"
+  },
+  {
+    "abbreviation": "JSON",
+    "title": "Javascript Object Notation"
+  },
+  {
+    "abbreviation": "JVM",
+    "title": "Java Virtual Machine"
+  },
+  {
+    "abbreviation": "JWT",
+    "title": "JSON Web Tokens"
   },
   {
     "abbreviation": "LESS",
@@ -241,6 +273,10 @@
     "description": "Verifying that some concept or theory has practical potential. It is usually small and may or may not be complete."
   },
   {
+    "abbreviation": "POJO",
+    "title": "Plain Old Java Object"
+  },
+  {
     "abbreviation": "QA",
     "title": "Quality Assurance"
   },
@@ -248,6 +284,11 @@
     "abbreviation": "RDS",
     "title": "Relational Database Service",
     "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
+    "abbreviation": "REST",
+    "title": "REpresentational State Transfer",
+    "description": "An architectural style whose guiding principals follow 6 rules: client-server, stateless, cacheable, uniform interface, layered system, code on demand (optional)"
   },
   {
     "abbreviation": "RFID",
@@ -280,6 +321,22 @@
   {
     "abbreviation": "SCSS",
     "title": "Sassy CSS"
+  },
+  {
+    "abbreviation": "SDLC",
+    "title": "Systems Development Life Cycle"
+  },
+  {
+    "abbreviation": "SES",
+    "title": "Simple Email Service"
+  },
+  {
+    "abbreviation": "SHA",
+    "title": "Secure Hash Algorithm"
+  },
+  {
+    "abbreviation": "SMTP",
+    "title": "Simple Mail Transfer Protocol"
   },
   {
     "abbreviation": "SM",

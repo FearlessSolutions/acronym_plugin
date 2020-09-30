@@ -250,6 +250,10 @@
     "category": "Government Terms"
   },
   {
+    "abbreviation": "LOC",
+    "title": "Library of Congress"
+  },
+  {
     "abbreviation": "MPSM",
     "title": "Medicare Payment System Modernization",
     "category": "Projects/Agencies"
@@ -277,6 +281,10 @@
     "abbreviation": "NPS",
     "title": "Net Promoter Score",
     "category": "Business Terms"
+  },
+  {
+    "abbreviation": "NTE",
+    "title": "Not To Exceed"
   },
   {
     "abbreviation": "OCIO",
