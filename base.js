@@ -1,4 +1,5 @@
-//reference location for acronym files for the entire extension
+// reference location for acronym files for the entire extension
+// organize alphabetically by 'name'
 const fileReference = [
   {
     ref: "cms",
