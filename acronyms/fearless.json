@@ -115,6 +115,11 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "CMMC",
+    "title": "Cybersecurity Maturity Model Certification",
+    "description": "Department of Defense's (DoD) newest verification mechanism designed to ensure that cybersecurity controls and processes adequately protect Controlled Unclassified Information (CUI) that resides on Defense Industrial Base (DIB) systems and networks"
+  },
+  {
     "abbreviation": "CMS",
     "title": "Centers for Medicare and Medicaid Services",
     "description": "CMS Portfolio"
@@ -164,9 +169,17 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "CUI",
+    "title": "Controlled Unclassified Information"
+  },
+  {
     "abbreviation": "DIA",
     "title": "Defense Intelligence Agency",
     "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "DIB",
+    "title": "Defense Industrial Base"
   },
   {
     "abbreviation": "DoD",
@@ -250,6 +263,11 @@
     "abbreviation": "NASS",
     "title": "National Appointment Scheduling System",
     "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "NGIC",
+    "title": "National Ground Intelligence Center",
+    "description": "Part of the United States Army Intelligence and Security Command"
   },
   {
     "abbreviation": "NLT",
@@ -337,6 +355,10 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "SCIF",
+    "title": "Sensitive Compartmented Information Facility"
+  },
+  {
     "abbreviation": "SM",
     "title": "Scrum Master",
     "category": "Role Terms"
@@ -359,6 +381,10 @@
     "abbreviation": "SOW",
     "title": "Statement of Work",
     "category": "Business Terms"
+  },
+  {
+    "abbreviation": "TIL",
+    "title": "Today I Learned"
   },
   {
     "abbreviation": "TLA",
@@ -395,6 +421,10 @@
   {
     "abbreviation": "V/R",
     "title": "Very Respectfully"
+  },
+  {
+    "abbreviation": "VTC",
+    "title": "Video Tele-Conferencing"
   },
   {
     "abbreviation": "WRT",
