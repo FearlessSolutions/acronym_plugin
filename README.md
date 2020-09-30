@@ -33,3 +33,57 @@ This extension adds an icon to the browser bar that, when clicked, displays a se
 1. Click on the Fearless logo in the browser extension toolbar, a dropdown with an input box should display.
 
 2. Enter the acronym into the input box, the results will return full and partial matches.
+
+## Adding new acronym sets
+
+1. Add the JSON file to the `acronyms` project directory. Be sure to format it with consideration to the following information.
+
+   _Note that when there are multiple meanings for the same acronym, a new entry should be created_
+
+   `abbreviation` Acronym
+
+   `title` An individual meaning of the acronym
+
+   `description` (optional) in future functionality, it would be nice to have additional or contextual information to include
+
+   `category` (optional) in future functionality, it could be helpful to have more granular classification of the terms
+
+Example:
+
+```
+{
+    "abbreviation": "TLA",
+    "title": "Three Letter Acronym",
+    "description": "This is a longer description of the TLA"
+    "category": "Base"
+}
+```
+
+2. Update `base.js` by adding an entry referencing the new file
+
+   `ref` id used in the html of the Extension Options setting
+
+   `name` display name used to reference the acronym set in the Extension Options setting
+
+   `default` whether to always include the acroynym set in searches. This should more than likely be set to false.
+
+   `url` absolute URL for the JSON file
+
+Example:
+
+```
+{
+    ref: "new-file",
+    name: "Display name",
+    default: false,
+    url:
+      "https://URL_TO_FILE/FILENAME.json",
+}
+```
+
+3. Verify!
+
+   - File name displays in the list of Extension Options
+   - File can be selected and saved in the Extension Options
+   - Acronyms return in the search results when the file _is_ selected in the Extension Options
+   - Acronyms _do not_ return when the file _is not_ selected in the Extension Options
