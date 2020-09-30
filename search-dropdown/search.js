@@ -72,7 +72,6 @@ import { fileReference } from "../base.js";
         return el.default === true;
       });
       for (var index in defaults) {
-        console.log(defaults[index].url);
         if (
           defaults[index].ref !== "default" &&
           urls.indexOf(defaults[index].url) < 0
