@@ -13,9 +13,15 @@ chrome.storage.sync.get(
         highlight = true;
       }
 
+      // let users know that this file will always be selected
+      let displayName = fileReference[index].name;
+      if (fileReference[index].default) {
+        displayName += " (always included)";
+      }
+
       // populate the select box based on the file array defined in the base file
       select.options[select.options.length] = new Option(
-        fileReference[index].name,
+        displayName,
         fileReference[index].ref,
         fileReference[index].default,
         highlight

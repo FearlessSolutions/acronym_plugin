@@ -10,14 +10,14 @@ const fileReference = [
   },
   {
     ref: "default",
-    name: "Fearless (always included)",
+    name: "Fearless",
     default: true,
     url:
       "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/fearless.json",
   },
   {
     ref: "software",
-    name: "Software (always included)",
+    name: "Software",
     default: true,
     url:
       "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/software.json",
