@@ -36,6 +36,8 @@ This extension adds an icon to the browser bar that, when clicked, displays a se
 
 ## Adding new acronym sets
 
+Before adding new files, try to remove duplicates between the new project specific file and the baseline files (fearless.json and software.json).
+
 1. Add the JSON file to the `acronyms` project directory. Be sure to format it with consideration to the following information.
 
    _Note that when there are multiple meanings for the same acronym, a new entry should be created_
