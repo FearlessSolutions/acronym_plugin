@@ -286,6 +286,11 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "OWASP",
+    "title": "Open Web Application Security Project",
+    "description": "online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security"
+  },
+  {
     "abbreviation": "PaaS",
     "title": "Platform as a Service",
     "category": "Software Terms"
