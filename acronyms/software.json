@@ -120,6 +120,11 @@
     "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
+    "abbreviation": "ELK",
+    "title": "Elasticsearch, Logstash, and Kibana",
+    "description": "With the introduction of Beats, the more updates reference is for Elastic Stack over 'ELK'"
+  },
+  {
     "abbreviation": "EOL",
     "title": "End Of Life"
   },
