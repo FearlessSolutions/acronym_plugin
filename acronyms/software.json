@@ -165,6 +165,10 @@
     "title": "Hyper Text Markup Language"
   },
   {
+    "abbreviation": "i18n",
+    "title": "Internationalization"
+  },
+  {
     "abbreviation": "IaaS",
     "title": "Infrastructure as a Service",
     "category": "Software Terms"
@@ -209,6 +213,14 @@
   {
     "abbreviation": "JWT",
     "title": "JSON Web Tokens"
+  },
+  {
+    "abbreviation": "K8s",
+    "title": "Kubernetes"
+  },
+  {
+    "abbreviation": "l10n",
+    "title": "Localization"
   },
   {
     "abbreviation": "LESS",
