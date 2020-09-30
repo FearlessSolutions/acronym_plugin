@@ -1,0 +1,461 @@
+[
+    {
+        "abbreviation": "AAD",
+        "title": "Access to Archival Databases"
+    },
+    {
+        "abbreviation": "AC Memos",
+        "title": "Memos to Agency Records Officers"
+    },
+    {
+        "abbreviation": "ALIC",
+        "title": "Archives Library Information Center"
+    },
+    {
+        "abbreviation": "API",
+        "title": "Application Program Interface",
+        "link": "https://www.notion.so/Application-Program-Interface-API-ea5d691ef7594b80944d818f872f65fc"
+    },
+    {
+        "abbreviation": "ARCIS",
+        "title": "Archives Records Center Information System",
+        "link": "https://www.notion.so/Archives-Records-Center-Information-System-ARCIS-beb45e3cf3b847f2b004bc5253fde9c6"
+    },
+    {
+        "abbreviation": "ARO",
+        "title": "Agency Records Officer",
+        "link": "https://www.notion.so/Agency-Records-Officer-ARO-98ba348b11b341e881421c7c4d72c7f2"
+    },
+    {
+        "abbreviation": "BIA",
+        "title": "Business Impact Analysis"
+    },
+    {
+        "abbreviation": "BPA",
+        "title": "Business Process Analysis",
+        "link": "https://www.notion.so/Business-Process-Analysis-BPA-70a9e0b56e304415a9e51a9d8040d582"
+    },
+    {
+        "abbreviation": "ca.",
+        "title": "Circa"
+    },
+    {
+        "abbreviation": "CFR",
+        "title": "Code of Federal Regulations"
+    },
+    {
+        "abbreviation": "CLIN",
+        "title": "Contract Line Item",
+        "link": "https://www.notion.so/Contract-Line-Item-CLIN-e6d4a1d50ab44304a8e66a9bf9454c43"
+    },
+    {
+        "abbreviation": "CM/ECF",
+        "title": "Case Management Electronic Case Filing System",
+        "link": "https://www.notion.so/Case-Management-Electronic-Case-Filing-System-CM-ECF-e6380e12cf8e41bfa6cc0ec5fe019b81"
+    },
+    {
+        "abbreviation": "CO",
+        "title": "Contracting Officer",
+        "link": "https://www.notion.so/Contracting-Officer-CO-982424497e0c43d7a743569adf611279"
+    },
+    {
+        "abbreviation": "CPIC",
+        "title": "Capital Planning and Investment Control"
+    },
+    {
+        "abbreviation": "CRUD",
+        "title": "Create Read Update and Delete",
+        "link": "https://www.notion.so/Create-Read-Update-and-Delete-CRUD-ae4c76dadd8c4613b160472fa8669f4a"
+    },
+    {
+        "abbreviation": "CUI",
+        "title": "Controlled Unclassified Information"
+    },
+    {
+        "abbreviation": "DAA",
+        "title": "Disposition Authority Agency",
+        "link": "https://www.notion.so/Disposition-Authority-Agency-DAA-21f497cc04094b6b8a27592becd15eed"
+    },
+    {
+        "abbreviation": "DAL",
+        "title": "Disposition Authority Legacy",
+        "link": "https://www.notion.so/Disposition-Authority-Legacy-DAL-195bee403d4c4cbb96951cf64d8d37d3"
+    },
+    {
+        "abbreviation": "DAS",
+        "title": "Description and Authority Services",
+        "link": "https://www.notion.so/Description-and-Authority-Services-DAS-a36b135bb370446f8efe440ff224eb60"
+    },
+    {
+        "abbreviation": "DB",
+        "title": "Database",
+        "link": "https://www.notion.so/Database-DB-7db455145cf14036bf604cb77dd175cc"
+    },
+    {
+        "abbreviation": "DDL",
+        "title": "Data Definition Language",
+        "link": "https://www.notion.so/Data-Definition-Language-DDL-03ca5bff124740408b3dfc7cd45053e9"
+    },
+    {
+        "abbreviation": "DMA",
+        "title": "Document Management Application",
+        "link": "https://www.notion.so/Document-Management-Application-DMA-52346f69a8aa4d4ebebf44581889bafc"
+    },
+    {
+        "abbreviation": "DoD",
+        "title": "Department of Defense"
+    },
+    {
+        "abbreviation": "DPLA",
+        "title": "Digital Public Library of America"
+    },
+    {
+        "abbreviation": "EDMS",
+        "title": "Electronic Document Management Systems",
+        "link": "https://www.notion.so/Electronic-Document-Management-Systems-EDMS-c3eaa06595844a10b62f7e1a0c67d696"
+    },
+    {
+        "abbreviation": "EEO",
+        "title": "Equal Employment Opportunity"
+    },
+    {
+        "abbreviation": "EIS",
+        "title": "Electronic Information System",
+        "link": "https://www.notion.so/Electronic-Information-System-EIS-c3dd7a73eab249d4acb22adf75a6d3b2"
+    },
+    {
+        "abbreviation": "EMF",
+        "title": "Employee Medical Folders",
+        "link": "https://www.notion.so/Employee-Medical-Folders-EMF-d43a5b5b8aad497b85e65e076575c568"
+    },
+    {
+        "abbreviation": "EOL",
+        "title": "End Of Life",
+        "link": "https://www.notion.so/End-Of-Life-EOL-21f2cbd7b9324ac9b93de1260487591d"
+    },
+    {
+        "abbreviation": "ERA",
+        "title": "Electronic Records Archives",
+        "link": "https://www.notion.so/Electronic-Records-Archives-ERA-6030aad540774574af1e52d72e84165f"
+    },
+    {
+        "abbreviation": "ERK",
+        "title": "Electronic Recordkeeping",
+        "link": "https://www.notion.so/Electronic-Recordkeeping-ERK-93cfba9f11784188afdb89eaa6b686e4"
+    },
+    {
+        "abbreviation": "ERKS",
+        "title": "Electronic Recordkeeping System",
+        "link": "https://www.notion.so/Electronic-Recordkeeping-System-ERKS-6afd769897c743f99b4267917f912c47"
+    },
+    {
+        "abbreviation": "ERM",
+        "title": "Electronic Records Management",
+        "link": "https://www.notion.so/Electronic-Records-Management-ERM-a2bcb625994e4c5597e359bd66e8369e"
+    },
+    {
+        "abbreviation": "ERMS",
+        "title": "Electronic Records Management System",
+        "link": "https://www.notion.so/Electronic-Records-Management-System-ERMS-8b216faa9667487c9785de2522866c1f"
+    },
+    {
+        "abbreviation": "ES",
+        "title": "Elasticsearch",
+        "link": "https://www.notion.so/Elasticsearch-ES-bed7a15b01594d9aae974a566db7104a"
+    },
+    {
+        "abbreviation": "FEA",
+        "title": "Federal Enterprise Architecture",
+        "link": "https://www.notion.so/Federal-Enterprise-Architecture-FEA-78e4d4791fd743e297da381e03caf78f"
+    },
+    {
+        "abbreviation": "FERMI",
+        "title": "Federal Electronic Records Modernization Initiative"
+    },
+    {
+        "abbreviation": "FFP",
+        "title": "Firm Fixed Price"
+    },
+    {
+        "abbreviation": "FOIA",
+        "title": "Freedom of Information Act",
+        "link": "https://www.notion.so/Freedom-of-Information-Act-FOIA-36dfb8f40b2449db980b42ccb0e1f6c5"
+    },
+    {
+        "abbreviation": "FRA",
+        "title": "Federal Records Act",
+        "link": "https://www.notion.so/Federal-Records-Act-FRA-24eb3c5ce1c547ff9f348f700fee54d1"
+    },
+    {
+        "abbreviation": "FRC",
+        "title": "Federal Records Center",
+        "link": "https://www.notion.so/Federal-Records-Center-FRC-27b98f74b0df450a9a7468b5ca1df215"
+    },
+    {
+        "abbreviation": "FRCP",
+        "title": "Federal Records Center Program",
+        "link": "https://www.notion.so/Federal-Records-Center-Program-FRCP-a1a1468a19f4444a89fe3d975dd15714"
+    },
+    {
+        "abbreviation": "FRMC",
+        "title": "Federal Records Management Council"
+    },
+    {
+        "abbreviation": "GRS",
+        "title": "General Records Schedules",
+        "link": "https://www.notion.so/General-Records-Schedules-04ca359a941f4a03ae3c09e1d3ece75e"
+    },
+    {
+        "abbreviation": "IIIF",
+        "title": "International Image Interoperability Framework",
+        "link": "https://www.notion.so/International-Image-Interoperability-Framework-IIIF-31d082abefdd4bd8b8aa0fdc1e03488b"
+    },
+    {
+        "abbreviation": "InterPARES",
+        "title": "International Research on Permanent Authentic Records in Electronic Systems",
+        "link": "https://www.notion.so/International-Research-on-Permanent-Authentic-Records-in-Electronic-Systems-8b07ee996b864ca4bce06468dcd9e552"
+    },
+    {
+        "abbreviation": "ISOO",
+        "title": "Information Security Oversight Office"
+    },
+    {
+        "abbreviation": "JPA",
+        "title": "Java Persistence API",
+        "link": "https://www.notion.so/Java-Persistence-API-5d46740accd246588f06b24803c71d0e"
+    },
+    {
+        "abbreviation": "JSON",
+        "title": "Javascript Object Notation",
+        "link": "https://www.notion.so/Javascript-Object-Notation-19ab6ef9cc6543f1a40181b8a77ea455"
+    },
+    {
+        "abbreviation": "JVM",
+        "title": "Java Virtual Machine"
+    },
+    {
+        "abbreviation": "JWT",
+        "title": "JSON Web Tokens",
+        "link": "https://www.notion.so/JSON-Web-Tokens-caa7b034798c4080bf6ea0235849512f"
+    },
+    {
+        "abbreviation": "LOC",
+        "title": "Library of Congress",
+        "link": "https://www.notion.so/Library-of-Congress-LOC-9d820a5b7ba24544bdfa124a9f3e9237"
+    },
+    {
+        "abbreviation": "LS",
+        "title": "Legacy Records Schedule",
+        "link": "https://www.notion.so/Legacy-Records-Schedule-fba2d650dc1c48d8ba11e5e359a3d8ef"
+    },
+    {
+        "abbreviation": "LSI",
+        "title": "Legacy Records Schedule Item",
+        "link": "https://www.notion.so/Legacy-Records-Schedule-Item-a995a8cc92e94b24a8d08d82303c2598"
+    },
+    {
+        "abbreviation": "LTI",
+        "title": "Legal Transfer Instrument",
+        "link": "https://www.notion.so/Legal-Transfer-Instrument-e03eb2f555ea4ac4ba0db380c510313d"
+    },
+    {
+        "abbreviation": "NAC",
+        "title": "National Archives Catalog"
+    },
+    {
+        "abbreviation": "NAID",
+        "title": "National Archives Identification Number"
+    },
+    {
+        "abbreviation": "NARA",
+        "title": "The National Archives and Records Administration"
+    },
+    {
+        "abbreviation": "NATF",
+        "title": "North American Transmission Forum"
+    },
+    {
+        "abbreviation": "NHPRC",
+        "title": "National Historical Publications and Records Commission"
+    },
+    {
+        "abbreviation": "NLT",
+        "title": "No Later Than"
+    },
+    {
+        "abbreviation": "NPRC",
+        "title": "National Personnel Records Center",
+        "link": "https://www.notion.so/National-Personnel-Records-Center-NPRC-b0fff418f2fc4ed281dd09f9a5098ebb"
+    },
+    {
+        "abbreviation": "NRMP",
+        "title": "National Records Management Program",
+        "link": "https://www.notion.so/National-Records-Management-Program-c5c20b10d3494711a519569c5a1babe7"
+    },
+    {
+        "abbreviation": "NTE",
+        "title": "Not To Exceed",
+        "link": "https://www.notion.so/Not-To-Exceed-NTE-9578630123964b6db4d83b6b86f08dbd"
+    },
+    {
+        "abbreviation": "OCR",
+        "title": "Optical Character Recognition",
+        "link": "https://www.notion.so/Optical-Character-Recognition-0371225aa1a1436c8ec6b459af1941cc"
+    },
+    {
+        "abbreviation": "ODC",
+        "title": "Other Direct Cost",
+        "link": "https://www.notion.so/Other-Direct-Cost-ODC-199333d8e47b4e3aa2560b7d6d591f04"
+    },
+    {
+        "abbreviation": "OIG",
+        "title": "Office of Inspector General"
+    },
+    {
+        "abbreviation": "OMB",
+        "title": "Office of Management and Budget"
+    },
+    {
+        "abbreviation": "OMPF",
+        "title": "Official Military Personnel Files",
+        "link": "https://www.notion.so/Official-Military-Personnel-Files-OMPF-f98efea11ca14206a405fa1b68ef92ac"
+    },
+    {
+        "abbreviation": "OPA",
+        "title": "Online Public Access",
+        "link": "https://www.notion.so/Online-Public-Access-6ebd4d9274a4441aa1d5b32a37ce5ae7"
+    },
+    {
+        "abbreviation": "OPF",
+        "title": "Official Personnel Folders",
+        "link": "https://www.notion.so/Official-Personnel-Folders-OPF-c91d52dff755411a99fb9a78a5f8ab2a"
+    },
+    {
+        "abbreviation": "POJO",
+        "title": "Plain Old Java Object",
+        "link": "https://www.notion.so/Plain-Old-Java-Object-0d551c06ec2e4001868d34274e10822b"
+    },
+    {
+        "abbreviation": "POP",
+        "title": "Period of Performance",
+        "link": "https://www.notion.so/Period-of-Performance-POP-a70310d16ed840a4b1aa89b42b9d61fa"
+    },
+    {
+        "abbreviation": "PWS",
+        "title": "Performance Work Statement",
+        "link": "https://www.notion.so/Performance-Work-Statement-3da9468fbeb84044a98da897c2f9c931"
+    },
+    {
+        "abbreviation": "QTY",
+        "title": "Quantity",
+        "link": "https://www.notion.so/Quantity-QTY-71bc3e43bae042ff98c6b353cbbde984"
+    },
+    {
+        "abbreviation": "RCS",
+        "title": "Records Control Schedules"
+    },
+    {
+        "abbreviation": "RDS",
+        "title": "Relational Database Service",
+        "link": "https://www.notion.so/Relational-Database-Service-3d0df1e8b58443b4b450698e8e52ead2"
+    },
+    {
+        "abbreviation": "REST",
+        "title": "Representational State Transfer",
+        "link": "https://www.notion.so/Representational-State-Transfer-189f23885193462fab22e9a0a44fe60a"
+    },
+    {
+        "abbreviation": "RFP",
+        "title": "Request for Proposal"
+    },
+    {
+        "abbreviation": "RFQ",
+        "title": "Request for Quote"
+    },
+    {
+        "abbreviation": "RG",
+        "title": "Record Group",
+        "link": "https://www.notion.so/Record-Group-7ebad6ccb99a465da27b5573e5320799"
+    },
+    {
+        "abbreviation": "RMA",
+        "title": "Records Management Application",
+        "link": "https://www.notion.so/Records-Management-Application-51c4865a85554df897789bac7f2dc3d7"
+    },
+    {
+        "abbreviation": "RMSA",
+        "title": "Records Management Self Assessment"
+    },
+    {
+        "abbreviation": "RVTM",
+        "title": "Requirements Verification and Traceability Matrix",
+        "link": "https://www.notion.so/Requirements-Verification-and-Traceability-Matrix-3d4c1cb3343f4dee976ba1265da4c33f"
+    },
+    {
+        "abbreviation": "S3",
+        "title": "Amazon Simple Storage Service",
+        "link": "https://www.notion.so/Amazon-Simple-Storage-Service-e777db5c91b44a4d96b998a890e3474f"
+    },
+    {
+        "abbreviation": "SAO",
+        "title": "Senior Agency Official",
+        "link": "https://www.notion.so/Senior-Agency-Official-c625d29893684596a4535dc0da34ce1e"
+    },
+    {
+        "abbreviation": "SDLC",
+        "title": "Systems Development Life Cycle",
+        "link": "https://www.notion.so/Systems-Development-Life-Cycle-SDLC-fca31dbb02744a04a00767c60a45ecf5"
+    },
+    {
+        "abbreviation": "SES",
+        "title": "Simple Email Service",
+        "link": "https://www.notion.so/Simple-Email-Service-021f2cfd5e0f47f8ae4a4445ed155724"
+    },
+    {
+        "abbreviation": "SF",
+        "title": "Standard Form"
+    },
+    {
+        "abbreviation": "SHA",
+        "title": "Secure Hash Algorithm",
+        "link": "https://www.notion.so/Secure-Hash-Algorithm-7b602c09c7634a6a9d4b042878489472"
+    },
+    {
+        "abbreviation": "SLA",
+        "title": "Service Level Agreement?"
+    },
+    {
+        "abbreviation": "SMTP",
+        "title": "Simple Mail Transfer Protocol",
+        "link": "https://www.notion.so/Simple-Mail-Transfer-Protocol-b3675f5d04904fe58b4ca9bee0f817c0"
+    },
+    {
+        "abbreviation": "SOW",
+        "title": "",
+        "link": "https://www.notion.so/Statement-Of-Work-87c4c32f2ded45a4b1afa23875c8638f"
+    },
+    {
+        "abbreviation": "T&M",
+        "title": "Time and Materials",
+        "link": "https://www.notion.so/Time-and-materials-T-M-b050261b102448218ba245567db8512f"
+    },
+    {
+        "abbreviation": "TO8",
+        "title": "",
+        "link": "https://www.notion.so/Task-Order-8-f30c025db9f24b4bb7c582b4a1656248"
+    },
+    {
+        "abbreviation": "UI",
+        "title": "User Interface",
+        "link": "https://www.notion.so/User-Interface-484488ebdd914a65b702e31e134d1e8b"
+    },
+    {
+        "abbreviation": "VSO",
+        "title": "Veterans Service Officer"
+    },
+    {
+        "abbreviation": "XML",
+        "title": "Extensible Markup Language",
+        "link": "https://www.notion.so/Extensible-Markup-Language-519a20bf66994385a21b6695a09984d6"
+    }
+]
