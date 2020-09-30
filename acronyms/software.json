@@ -161,6 +161,10 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "HTML",
+    "title": "Hyper Text Markup Language"
+  },
+  {
     "abbreviation": "IaaS",
     "title": "Infrastructure as a Service",
     "category": "Software Terms"
@@ -185,6 +189,10 @@
     "title": "Independent, Negotiable, Valuable, Estimable, Small, Testable",
     "description": "Independent of all others, Negotiable - not a specific contract for features, Valuable or vertical, Estimable to a good approximation, Small so as to fit within an iteration, Testable in principle, even if there isn’t a test for it yet",
     "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "IT",
+    "title": "Information Technology"
   },
   {
     "abbreviation": "JPA",
