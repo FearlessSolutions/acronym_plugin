@@ -220,6 +220,10 @@
     "category": "Government Terms"
   },
   {
+    "abbreviation": "HHS",
+    "title": "Health and Human Services"
+  },
+  {
     "abbreviation": "HR",
     "title": "Human Resources",
     "category": "Business Terms"
@@ -268,6 +272,10 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "NARA",
+    "title": "The National Archives and Records Administration"
+  },
+  {
     "abbreviation": "NASS",
     "title": "National Appointment Scheduling System",
     "category": "Projects/Agencies"
@@ -280,6 +288,10 @@
   {
     "abbreviation": "NLT",
     "title": "No Later Than"
+  },
+  {
+    "abbreviation": "NMAAHC",
+    "title": "National Museum of African American History and Culture"
   },
   {
     "abbreviation": "NPS",
