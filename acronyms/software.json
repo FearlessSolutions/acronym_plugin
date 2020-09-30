@@ -20,6 +20,14 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "CI/CD",
+    "title": "Continuous Integration, Continuous Delivery"
+  },
+  {
+    "abbreviation": "CI/CD",
+    "title": "Continuous Integration, Continuous Deployment"
+  },
+  {
     "abbreviation": "CMS",
     "title": "Content Management System",
     "category": "Software Terms"
