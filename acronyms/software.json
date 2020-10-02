@@ -79,6 +79,10 @@
     "title": "Central Processing Unit"
   },
   {
+    "abbreviation": "CQRS",
+    "title": "Command Query Responsibility Segregation"
+  },
+  {
     "abbreviation": "CRON",
     "title": "Command Run ON"
   },
