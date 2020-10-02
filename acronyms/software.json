@@ -323,6 +323,10 @@
     "title": "Plain Old Java Object"
   },
   {
+    "abbreviation": "PYPI",
+    "title": "PYthon Package Index"
+  },
+  {
     "abbreviation": "QA",
     "title": "Quality Assurance"
   },
