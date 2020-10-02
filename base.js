@@ -22,6 +22,13 @@ const fileReference = [
     url:
       "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/software.json",
   },
+  {
+    ref: "phrase",
+    name: "Terms and Phrases",
+    default: false,
+    url:
+      "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/phrase.json",
+  },
 ];
 
 export { fileReference };

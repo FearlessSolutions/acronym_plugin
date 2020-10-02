@@ -15,10 +15,6 @@
     "category": "Projects/Agencies"
   },
   {
-    "abbreviation": "AMA",
-    "title": "Ask Me Anything"
-  },
-  {
     "abbreviation": "ARMS",
     "title": "Aviation Resource Management System",
     "category": "Projects/Agencies"
@@ -135,11 +131,6 @@
     "category": "Government Terms"
   },
   {
-    "abbreviation": "COB",
-    "title": "Close of Business",
-    "category": "Business Terms"
-  },
-  {
     "abbreviation": "COI",
     "title": "Communities of Interest"
   },
@@ -194,11 +185,6 @@
   {
     "abbreviation": "DSC",
     "title": "Digital Services Coalition"
-  },
-  {
-    "abbreviation": "EOD",
-    "title": "End of Day",
-    "category": "Business Terms"
   },
   {
     "abbreviation": "ET",
@@ -286,10 +272,6 @@
     "description": "Part of the United States Army Intelligence and Security Command"
   },
   {
-    "abbreviation": "NLT",
-    "title": "No Later Than"
-  },
-  {
     "abbreviation": "NMAAHC",
     "title": "National Museum of African American History and Culture"
   },
@@ -297,10 +279,6 @@
     "abbreviation": "NPS",
     "title": "Net Promoter Score",
     "category": "Business Terms"
-  },
-  {
-    "abbreviation": "NTE",
-    "title": "Not To Exceed"
   },
   {
     "abbreviation": "OCIO",
@@ -416,20 +394,8 @@
     "category": "Business Terms"
   },
   {
-    "abbreviation": "TIL",
-    "title": "Today I Learned"
-  },
-  {
     "abbreviation": "TLA",
     "title": "Three Letter Acronym"
-  },
-  {
-    "abbreviation": "TLDR",
-    "title": "Too Long; Didn't Read"
-  },
-  {
-    "abbreviation": "TL;DR",
-    "title": "Too Long; Didn't Read"
   },
   {
     "abbreviation": "TO",
@@ -452,15 +418,7 @@
     "category": "Projects/Agencies"
   },
   {
-    "abbreviation": "V/R",
-    "title": "Very Respectfully"
-  },
-  {
     "abbreviation": "VTC",
     "title": "Video Tele-Conferencing"
-  },
-  {
-    "abbreviation": "WRT",
-    "title": "With Respect To"
   }
 ]
