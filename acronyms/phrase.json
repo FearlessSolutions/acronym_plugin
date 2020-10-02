@@ -1,0 +1,52 @@
+[
+  {
+    "abbreviation": "AMA",
+    "title": "Ask Me Anything"
+  },
+  {
+    "abbreviation": "COB",
+    "title": "Close of Business",
+    "category": "Business Terms"
+  },
+  {
+    "abbreviation": "EOD",
+    "title": "End of Day",
+    "category": "Business Terms"
+  },
+  {
+    "abbreviation": "EOL",
+    "title": "End Of Life"
+  },
+  {
+    "abbreviation": "NLT",
+    "title": "No Later Than"
+  },
+  {
+    "abbreviation": "NTE",
+    "title": "Not To Exceed"
+  },
+  {
+    "abbreviation": "PEBKAC",
+    "title": "Problem Exists Between Keyboard And Chair"
+  },
+  {
+    "abbreviation": "TIL",
+    "title": "Today I Learned"
+  },
+  {
+    "abbreviation": "TLDR",
+    "title": "Too Long; Didn't Read"
+  },
+  {
+    "abbreviation": "TL;DR",
+    "title": "Too Long; Didn't Read"
+  },
+  {
+    "abbreviation": "V/R",
+    "title": "Very Respectfully"
+  },
+  {
+    "abbreviation": "WRT",
+    "title": "With Respect To"
+  }
+]
