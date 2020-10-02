@@ -270,6 +270,16 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "NPM",
+    "title": "Node Package Manager",
+    "description": "Tool that allows you to install javascript packages"
+  },
+  {
+    "abbreviation": "NVM",
+    "title": "Node Version Manager",
+    "description": "Tool that allows you to download and install different versions of NodeJS"
+  },
+  {
     "abbreviation": "OCI",
     "title": "Open Container Initiative",
     "category": "Software Terms"
@@ -425,6 +435,15 @@
   {
     "abbreviation": "SSO",
     "title": "Single Sign-On"
+  },
+  {
+    "abbreviation": "SVN",
+    "title": "Subversion",
+    "description": "A software versioning and revision control system"
+  },
+  {
+    "abbreviation": "Tcl",
+    "title": "Tool Command Language"
   },
   {
     "abbreviation": "TDD",
