@@ -175,6 +175,11 @@
     "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
+    "abbreviation": "EFS",
+    "title": "Elastic File System",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
     "abbreviation": "EIS",
     "title": "Enterprise Information Systems",
     "category": "Software Terms"
@@ -202,6 +207,10 @@
   {
     "abbreviation": "ES",
     "title": "Elasticsearch"
+  },
+  {
+    "abbreviation": "ETL",
+    "title": "Extract, Transform, Load"
   },
   {
     "abbreviation": "FaaS",
@@ -386,8 +395,20 @@
     "title": "Multi-Factor Authentication"
   },
   {
+    "abbreviation": "MIME",
+    "title": "Multipurpose Internet Mail Extensions"
+  },
+  {
     "abbreviation": "MITM",
     "title": "Man in the Middle Attack"
+  },
+  {
+    "abbreviation": "ML",
+    "title": "Machine Learning"
+  },
+  {
+    "abbreviation": "MTA",
+    "title": "Mail Transfer Agent"
   },
   {
     "abbreviation": "MVC",
@@ -398,6 +419,10 @@
     "title": "Minimum Viable Product",
     "description": "Version of a product with just enough features to satisfy early customers and provide feedback for future product development",
     "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "NAT",
+    "title": "Network address translation"
   },
   {
     "abbreviation": "NFS",
@@ -554,6 +579,14 @@
     "title": "Syntactically Awesome Style Sheets"
   },
   {
+    "abbreviation": "SCP",
+    "title": "Secure Copy Protocol"
+  },
+  {
+    "abbreviation": "SCP",
+    "title": "Service Control Policy"
+  },
+  {
     "abbreviation": "SCSS",
     "title": "Sassy CSS"
   },
@@ -564,6 +597,10 @@
   {
     "abbreviation": "SDLC",
     "title": "Software Development Life Cycle"
+  },
+  {
+    "abbreviation": "SEO",
+    "title": "Search Engine Optimization"
   },
   {
     "abbreviation": "SES",
@@ -605,6 +642,11 @@
     "abbreviation": "SPA",
     "title": "Single Page Application",
     "category": "Software Terms"
+  },
+  {
+    "abbreviation": "SQS",
+    "title": "Simple Queue Service",
+    "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
     "abbreviation": "SRE",
@@ -731,6 +773,10 @@
     "abbreviation": "WIP",
     "title": "Work in Progress",
     "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "WSDL",
+    "title": "Web Service Description Language"
   },
   {
     "abbreviation": "WYSIWYG",
