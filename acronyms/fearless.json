@@ -341,6 +341,11 @@
     "title": "People Ops"
   },
   {
+    "abbreviation": "PO",
+    "title": "Product Owner",
+    "category": "Agile Terms"
+  },
+  {
     "abbreviation": "POC",
     "title": "Point of Contact"
   },
@@ -381,6 +386,10 @@
   {
     "abbreviation": "SCIF",
     "title": "Sensitive Compartmented Information Facility"
+  },
+  {
+    "abbreviation": "SLA",
+    "title": "Service Level Agreement"
   },
   {
     "abbreviation": "SM",

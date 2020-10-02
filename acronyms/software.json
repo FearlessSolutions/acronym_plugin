@@ -1,5 +1,26 @@
 [
   {
+    "abbreviation": "AI",
+    "title": "Artificial Intelligence"
+  },
+  {
+    "abbreviation": "ACL",
+    "title": "Access Control List"
+  },
+  {
+    "abbreviation": "AES",
+    "title": "Advanced Encryption System"
+  },
+  {
+    "abbreviation": "AJAX",
+    "title": "Asynchronous JavaScript And XML"
+  },
+  {
+    "abbreviation": "AMI",
+    "title": "Amazon Machine Image",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
     "abbreviation": "API",
     "title": "Application Programming Interface",
     "category": "Software Terms"
@@ -10,14 +31,27 @@
     "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
+    "abbreviation": "ASCII",
+    "title": "American Standard Code for Information Interchange"
+  },
+  {
+    "abbreviation": "ASG",
+    "title": "Auto Scaling Group",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
     "abbreviation": "AWS",
-    "title": "Amazon Web Services",
-    "category": "Software Terms"
+    "title": "Amazon Web Services",,
+    "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
     "abbreviation": "BYOD",
     "title": "Bring Your Own Device",
     "category": "Software Terms"
+  },
+  {
+    "abbreviation": "CDN",
+    "title": "Content Delivery Network"
   },
   {
     "abbreviation": "CI/CD",
@@ -28,9 +62,25 @@
     "title": "Continuous Integration, Continuous Deployment"
   },
   {
+    "abbreviation": "CLI",
+    "title": "Command Line Interface"
+  },
+  {
     "abbreviation": "CMS",
     "title": "Content Management System",
     "category": "Software Terms"
+  },
+  {
+    "abbreviation": "CORS",
+    "title": "Cross Origin Resource Sharing"
+  },
+  {
+    "abbreviation": "CPU",
+    "title": "Central Processing Unit"
+  },
+  {
+    "abbreviation": "CRON",
+    "title": "Command Run ON"
   },
   {
     "abbreviation": "CRUD",
@@ -73,6 +123,10 @@
     "title": "Design, Develop, Implement"
   },
   {
+    "abbreviation": "DDoS",
+    "title": "Distributed Denial of Service"
+  },
+  {
     "abbreviation": "DevOps",
     "title": "Development Operations",
     "category": "Software Terms"
@@ -96,6 +150,10 @@
     "abbreviation": "DoR",
     "title": "Definition of Ready",
     "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "DoS",
+    "title": "Denial of Service"
   },
   {
     "abbreviation": "EC2",
@@ -128,6 +186,11 @@
     "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
+    "abbreviation": "ELB",
+    "title": "Elastic Load Balancer",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
     "abbreviation": "ELK",
     "title": "Elasticsearch, Logstash, and Kibana",
     "description": "With the introduction of Beats, the more updates reference is for Elastic Stack over 'ELK'"
@@ -146,9 +209,21 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "FIFO",
+    "title": "First In First Out"
+  },
+  {
+    "abbreviation": "FTP",
+    "title": "File Transfer Protocol"
+  },
+  {
     "abbreviation": "GCP",
     "title": "Google Cloud Platform",
     "category": "Software Terms"
+  },
+  {
+    "abbreviation": "GIF",
+    "title": "Graphics Interchange Format"
   },
   {
     "abbreviation": "HCD",
@@ -163,6 +238,18 @@
   {
     "abbreviation": "HTML",
     "title": "Hyper Text Markup Language"
+  },
+  {
+    "abbreviation": "HTML5",
+    "title": "Hypertext Markup Language 5"
+  },
+  {
+    "abbreviation": "HTTP",
+    "title": "Hypertext Transfer Protocol"
+  },
+  {
+    "abbreviation": "HTTPS",
+    "title": "Hypertext Transfer Protocol (Secure)"
   },
   {
     "abbreviation": "i18n",
@@ -184,6 +271,11 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "IAM",
+    "title": "Identity and Access Management",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
     "abbreviation": "IDE",
     "title": "Integrated Development Environment",
     "category": "Software Terms"
@@ -195,12 +287,32 @@
     "category": "Agile Terms"
   },
   {
+    "abbreviation": "iOT",
+    "title": "Internet Of Things"
+  },
+  {
+    "abbreviation": "IP",
+    "title": "Internet Protocol"
+  },
+  {
+    "abbreviation": "IPSec",
+    "title": "Internet Protocol Security"
+  },
+  {
+    "abbreviation": "ISP",
+    "title": "Internet Service Provider"
+  },
+  {
     "abbreviation": "IT",
     "title": "Information Technology"
   },
   {
     "abbreviation": "JPA",
     "title": "Java Persistence API"
+  },
+  {
+    "abbreviation": "JS",
+    "title": "Javascript"
   },
   {
     "abbreviation": "JSON",
@@ -219,8 +331,24 @@
     "title": "Kubernetes"
   },
   {
+    "abbreviation": "KMS",
+    "title": "Key Management Service"
+  },
+  {
     "abbreviation": "l10n",
     "title": "Localization"
+  },
+  {
+    "abbreviation": "LAMP",
+    "title": "Linux, Apache, MySQL and PHP Technology Stack"
+  },
+  {
+    "abbreviation": "LAN",
+    "title": "Local Area Network"
+  },
+  {
+    "abbreviation": "LB",
+    "title": "Load Balancer"
   },
   {
     "abbreviation": "LESS",
@@ -254,10 +382,26 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "MFA",
+    "title": "Multi-Factor Authentication"
+  },
+  {
+    "abbreviation": "MITM",
+    "title": "Man in the Middle Attack"
+  },
+  {
+    "abbreviation": "MVC",
+    "title": "Model View Controller"
+  },
+  {
     "abbreviation": "MVP",
     "title": "Minimum Viable Product",
     "description": "Version of a product with just enough features to satisfy early customers and provide feedback for future product development",
     "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "NFS",
+    "title": "Network File System"
   },
   {
     "abbreviation": "NGG",
@@ -275,9 +419,17 @@
     "description": "Tool that allows you to install javascript packages"
   },
   {
+    "abbreviation": "NS",
+    "title": "Name Server"
+  },
+  {
     "abbreviation": "NVM",
     "title": "Node Version Manager",
     "description": "Tool that allows you to download and install different versions of NodeJS"
+  },
+  {
+    "abbreviation": "OAuth",
+    "title": "Open Authentication"
   },
   {
     "abbreviation": "OCI",
@@ -292,6 +444,10 @@
   {
     "abbreviation": "OCR",
     "title": "Optical Character Recognition"
+  },
+  {
+    "abbreviation": "OOP",
+    "title": "Object-Oriented Programming"
   },
   {
     "abbreviation": "OS",
@@ -314,14 +470,17 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "PHP",
+    "title": "PHP Hypertext Preprocessor (previously: Personal Home Page)"
+  },
+  {
     "abbreviation": "PI",
     "title": "Program Increment",
     "category": "Agile Terms"
   },
   {
-    "abbreviation": "PO",
-    "title": "Product Owner",
-    "category": "Agile Terms"
+    "abbreviation": "PNG",
+    "title": "Portable Network Graphics"
   },
   {
     "abbreviation": "POC",
@@ -339,6 +498,14 @@
   {
     "abbreviation": "QA",
     "title": "Quality Assurance"
+  },
+  {
+    "abbreviation": "RAID",
+    "title": "Redundant Array of Independent Disk"
+  },
+  {
+    "abbreviation": "RAM",
+    "title": "Random-access Memory"
   },
   {
     "abbreviation": "RDS",
@@ -360,6 +527,10 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "RoR",
+    "title": "Ruby on Rails"
+  },
+  {
     "abbreviation": "S3",
     "title": "Simple Storage Service",
     "category": "Common AWS (Amazon Web Services) Terms"
@@ -375,6 +546,10 @@
     "category": "Agile Terms"
   },
   {
+    "abbreviation": "SAML",
+    "title": "\tSecurity Assertion Markup Language"
+  },
+  {
     "abbreviation": "SASS",
     "title": "Syntactically Awesome Style Sheets"
   },
@@ -383,29 +558,43 @@
     "title": "Sassy CSS"
   },
   {
+    "abbreviation": "SDK",
+    "title": "Software Development Kit"
+  },
+  {
     "abbreviation": "SDLC",
     "title": "Software Development Life Cycle"
   },
   {
     "abbreviation": "SES",
-    "title": "Simple Email Service"
+    "title": "Simple Email Service",
+    "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
     "abbreviation": "SHA",
     "title": "Secure Hash Algorithm"
   },
   {
+    "abbreviation": "SMS",
+    "title": "Server Migration Service",
+    "category": "Common AWS (Amazon Web Services) Terms"
+  },
+  {
     "abbreviation": "SMTP",
     "title": "Simple Mail Transfer Protocol"
   },
   {
-    "abbreviation": "SM",
-    "title": "Scrum Master",
-    "category": "Agile Terms"
+    "abbreviation": "SNS",
+    "title": "Simple Notification Service",
+    "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
     "abbreviation": "SOA",
     "title": "Service Oriented Architecture"
+  },
+  {
+    "abbreviation": "SOAP",
+    "title": "Simple Object Access Protocol"
   },
   {
     "abbreviation": "SoS",
@@ -421,6 +610,22 @@
     "abbreviation": "SRE",
     "title": "Site Reliability Engineering",
     "category": "Software Terms"
+  },
+  {
+    "abbreviation": "SSE",
+    "title": "Server Side Encryption"
+  },
+  {
+    "abbreviation": "SSH",
+    "title": "Secure Shell"
+  },
+  {
+    "abbreviation": "SSL",
+    "title": "Secure Socket Layer"
+  },
+  {
+    "abbreviation": "SSO",
+    "title": "Single Sign-On"
   },
   {
     "abbreviation": "STEM",
@@ -442,13 +647,37 @@
     "description": "A software versioning and revision control system"
   },
   {
+    "abbreviation": "SQL",
+    "title": "Structure Query Language"
+  },
+  {
     "abbreviation": "Tcl",
     "title": "Tool Command Language"
+  },
+  {
+    "abbreviation": "TCP",
+    "title": "Transmission Control Protocol"
   },
   {
     "abbreviation": "TDD",
     "title": "Test Driven Development",
     "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "TLS",
+    "title": "Transport Layer Security"
+  },
+  {
+    "abbreviation": "TPS",
+    "title": "Transactions Per Second"
+  },
+  {
+    "abbreviation": "TTL",
+    "title": "Time To Live"
+  },
+  {
+    "abbreviation": "UAT",
+    "title": "User Acceptance Testing"
   },
   {
     "abbreviation": "UI",
@@ -469,9 +698,21 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "VCS",
+    "title": "Version Control System"
+  },
+  {
+    "abbreviation": "VLAN",
+    "title": "Virtual Local Area Network"
+  },
+  {
     "abbreviation": "VM",
     "title": "Virtual Machine",
     "category": "Software Terms"
+  },
+  {
+    "abbreviation": "VPC",
+    "title": "Virtual Private Cloud"
   },
   {
     "abbreviation": "VPN",
@@ -483,9 +724,17 @@
     "category": "Software Terms"
   },
   {
+    "abbreviation": "WAF",
+    "title": "Web Application Firewall"
+  },
+  {
     "abbreviation": "WIP",
     "title": "Work in Progress",
     "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "WYSIWYG",
+    "title": "What You See Is What You Get"
   },
   {
     "abbreviation": "XML",
