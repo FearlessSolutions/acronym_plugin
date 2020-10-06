@@ -612,6 +612,10 @@
     "description": "Also sometimes used as the name of the Appian system (MACPRO) supporting eligibility ammendments"
   },
   {
+    "abbreviation": "MACFlow",
+    "title": "Initiative that facilitates communication with states and approval workflows for State Plan Amendments, managed care contracts, and waivers."
+  },
+  {
     "abbreviation": "MAGI",
     "title": "Modified Adjusted Gross Income"
   },
@@ -642,6 +646,10 @@
   {
     "abbreviation": "MD",
     "title": "Medical Doctor"
+  },
+  {
+    "abbreviation": "MDCT",
+    "title": "MACPro Data Collection Tool"
   },
   {
     "abbreviation": "MDR",
