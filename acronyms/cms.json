@@ -97,9 +97,9 @@
     "title": "Business Intelligence"
   },
   {
-    "abbreviation": "BIGMAC",
+    "abbreviation": "bigMAC",
     "title": "BigMAC is the enterprise data bus that allows data to be distributed to any number of applications while enabling in flight transformation, analytics, durability, and data version control."
-  },
+},
   {
     "abbreviation": "BIP",
     "title": "Balancing Incentive Program"
