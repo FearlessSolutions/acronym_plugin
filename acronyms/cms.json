@@ -81,6 +81,10 @@
     "title": "American Recovery and Reinvestment Act"
   },
   {
+    "abbreviation": "AREMAC",
+    "title": " The Analytics and Reporting Environment for Medicaid And CHIP is a data warehouse, designed to support diverse analytic workloads."
+  },
+  {
     "abbreviation": "ATCB",
     "title": "Authorized Testing and Certification Body"
   },
@@ -91,6 +95,10 @@
   {
     "abbreviation": "BI",
     "title": "Business Intelligence"
+  },
+  {
+    "abbreviation": "BIGMAC",
+    "title": "BigMAC is the enterprise data bus that allows data to be distributed to any number of applications while enabling in flight transformation, analytics, durability, and data version control."
   },
   {
     "abbreviation": "BIP",
