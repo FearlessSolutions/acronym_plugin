@@ -183,6 +183,10 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "DPO",
+    "title": "Director of People Ops"
+  },
+  {
     "abbreviation": "DSC",
     "title": "Digital Services Coalition"
   },
@@ -190,6 +194,11 @@
     "abbreviation": "ET",
     "title": "Executive Team",
     "category": "Role Terms"
+  },
+  {
+    "abbreviation": "ERP",
+    "title": "Enterprise Resource Planning",
+    "description": "Integrated management of main business processes, often in real time and mediated by software and technology"
   },
   {
     "abbreviation": "FI",
