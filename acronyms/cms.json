@@ -81,6 +81,10 @@
     "title": "American Recovery and Reinvestment Act"
   },
   {
+    "abbreviation": "AREMAC",
+    "title": " The Analytics and Reporting Environment for Medicaid And CHIP is a data warehouse, designed to support diverse analytic workloads."
+  },
+  {
     "abbreviation": "ATCB",
     "title": "Authorized Testing and Certification Body"
   },
@@ -92,6 +96,10 @@
     "abbreviation": "BI",
     "title": "Business Intelligence"
   },
+  {
+    "abbreviation": "bigMAC",
+    "title": "BigMAC is the enterprise data bus that allows data to be distributed to any number of applications while enabling in flight transformation, analytics, durability, and data version control."
+},
   {
     "abbreviation": "BIP",
     "title": "Balancing Incentive Program"
@@ -604,6 +612,18 @@
     "description": "Also sometimes used as the name of the Appian system (MACPRO) supporting eligibility ammendments"
   },
   {
+    "abbreviation": "MACFlow",
+    "title": "Initiative that facilitates communication with states and approval workflows for State Plan Amendments, managed care contracts, and waivers."
+  },
+  {
+    "abbreviation": "MACStack",
+    "title": "MACStack or MACStacks are teams dedicated to researching, testing, and deploying a unified, modern, and user centered stack for managing Medicaid and Chip State Plans"
+  },
+  {
+    "abbreviation": "MACStacks",
+    "title": "MACStack or MACStacks are teams dedicated to researching, testing, and deploying a unified, modern, and user centered stack for managing Medicaid and Chip State Plans"
+  },
+  {
     "abbreviation": "MAGI",
     "title": "Modified Adjusted Gross Income"
   },
@@ -634,6 +654,10 @@
   {
     "abbreviation": "MD",
     "title": "Medical Doctor"
+  },
+  {
+    "abbreviation": "MDCT",
+    "title": "MACPro Data Collection Tool"
   },
   {
     "abbreviation": "MDR",
