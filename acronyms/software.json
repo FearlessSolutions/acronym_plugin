@@ -45,6 +45,10 @@
     "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
+    "abbreviation": "BLE",
+    "title": "Bluetooth Low Energy"
+  },
+  {
     "abbreviation": "BYOD",
     "title": "Bring Your Own Device",
     "category": "Software Terms"
@@ -716,6 +720,10 @@
   {
     "abbreviation": "TTL",
     "title": "Time To Live"
+  },
+  {
+    "abbreviation": "UART",
+    "title": "Universal Asynchronous Receiver Transmitter"
   },
   {
     "abbreviation": "UAT",
