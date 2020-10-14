@@ -505,7 +505,8 @@
   {
     "abbreviation": "PI",
     "title": "Program Increment",
-    "category": "Agile Terms"
+    "category": "Agile Terms",
+    "description": "A timeboxed planning interval during which an Agile Release Train plans and delivers incremental value in the form of working, tested software and systems"
   },
   {
     "abbreviation": "PNG",
