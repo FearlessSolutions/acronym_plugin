@@ -31,6 +31,11 @@
     "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
+    "abbreviation": "ART",
+    "title": "Agile Release Train",
+    "description": "All of the people (expertise) needed to implement, test, deploy, and release to deliver software, hardware, firmware or other"
+  },
+  {
     "abbreviation": "ASCII",
     "title": "American Standard Code for Information Interchange"
   },
