@@ -801,9 +801,21 @@
     "title": "Extensible Markup Language"
   },
   {
+    "abbreviation": "XSL",
+    "title": "eXtensible Stylesheet Language"
+  },
+  {
+    "abbreviation": "XSLT",
+    "title": "XSL Transformations"
+  },
+  {
     "abbreviation": "XP",
     "title": "Extreme Programming",
     "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "XPath",
+    "title": "XML Path Language"
   },
   {
     "abbreviation": "XSS",
