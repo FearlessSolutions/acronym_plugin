@@ -116,6 +116,11 @@
     "description": "Department of Defense's (DoD) newest verification mechanism designed to ensure that cybersecurity controls and processes adequately protect Controlled Unclassified Information (CUI) that resides on Defense Industrial Base (DIB) systems and networks"
   },
   {
+    "abbreviation": "CMMI",
+    "title": "Center for Medicare & Medicaid Innovation",
+    "description": "The innovation center"
+  },
+  {
     "abbreviation": "CMS",
     "title": "Centers for Medicare and Medicaid Services",
     "description": "CMS Portfolio"
@@ -229,6 +234,10 @@
     "category": "Government Terms"
   },
   {
+    "abbreviation": "ICT",
+    "title": "Information and Communication Technologies"
+  },
+  {
     "abbreviation": "IP",
     "title": "Intellectual Property",
     "category": "Business Terms"
@@ -251,6 +260,10 @@
     "abbreviation": "KO",
     "title": "Contracting Officer (Military sometimes uses KO instead)",
     "category": "Government Terms"
+  },
+  {
+    "abbreviation": "KP",
+    "title": "Key Personnel"
   },
   {
     "abbreviation": "LOC",
@@ -281,6 +294,10 @@
     "description": "Part of the United States Army Intelligence and Security Command"
   },
   {
+    "abbreviation": "NGO",
+    "title": "Non-Governmental Organizations"
+  },
+  {
     "abbreviation": "NMAAHC",
     "title": "National Museum of African American History and Culture"
   },
@@ -288,6 +305,19 @@
     "abbreviation": "NPS",
     "title": "Net Promoter Score",
     "category": "Business Terms"
+  },
+  {
+    "abbreviation": "OA",
+    "title": " Office of the Administrator"
+  },
+  {
+    "abbreviation": "OAGM",
+    "title": "Office of Acquisition & Grants Management"
+  },
+  {
+    "abbreviation": "OAIS",
+    "title": "Open Archival Information System",
+    "description": "an archive, consisting of an organization of people and systems, that has accepted the responsibility to preserve information and make it available for a Designated Community"
   },
   {
     "abbreviation": "OCIO",
@@ -429,5 +459,9 @@
   {
     "abbreviation": "VTC",
     "title": "Video Tele-Conferencing"
+  },
+  {
+    "abbreviation": "WCAG",
+    "title": "Web Content Accessibility Guidelines"
   }
 ]

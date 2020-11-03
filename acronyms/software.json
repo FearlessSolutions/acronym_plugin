@@ -325,6 +325,10 @@
     "title": "Information Technology"
   },
   {
+    "abbreviation": "IV&V",
+    "title": "Independent Verification and Validation "
+  },
+  {
     "abbreviation": "JPA",
     "title": "Java Persistence API"
   },
