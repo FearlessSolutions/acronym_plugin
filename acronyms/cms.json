@@ -1001,9 +1001,9 @@
     "description": "MACPro State role"
   },
   {
-    "abbreviation": "SEA Tool",
+    "abbreviation": "SEATool",
     "title": "State Early Alert Tool",
-    "description": "One of the five separate systems within MACPro"
+    "description": "One of the five separate systems within MACPro Legacy, enabling CMS users to track submissions through the lifecycle."
   },
   {
     "abbreviation": "SEDS",
@@ -1046,6 +1046,11 @@
     "abbreviation": "SPOC",
     "title": "State Point of Contact",
     "description": "MACPro State role"
+  },
+  {
+    "abbreviation": "SPLA",
+    "title": "SPA Process Lead Analyst",
+    "description": "Packages received in the mailbox go through an intake process by OSG, and then they are routed to the SPA Process Lead Analyst (CMS reviewer/approver) for adjudication."
   },
   {
     "abbreviation": "SRT",
