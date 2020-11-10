@@ -128,6 +128,10 @@
     "title": "Digital Asset Management"
   },
   {
+    "abbreviation": "DAO",
+    "title": "Data Access Object"
+  },
+  {
     "abbreviation": "DB",
     "title": "Database"
   },
