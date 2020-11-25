@@ -2,6 +2,13 @@
 // organize alphabetically by 'name'
 const fileReference = [
   {
+    ref: "af",
+    name: "Air Force",
+    default: false,
+    url:
+      "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/af.json",
+  },
+  {
     ref: "cms",
     name: "CMS Portfolio",
     default: false,
