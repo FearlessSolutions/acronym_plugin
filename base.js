@@ -23,6 +23,13 @@ const fileReference = [
       "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/fearless.json",
   },
   {
+    ref: "nara",
+    name: "National Archives and Records Administration",
+    default: false,
+    url:
+      "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/nara.json",
+  },
+  {
     ref: "software",
     name: "Software",
     default: true,
