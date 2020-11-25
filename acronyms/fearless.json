@@ -401,6 +401,11 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "SBIR",
+    "title": "Small Business Innovation Research",
+    "description": "highly competitive programs that encourage domestic small businesses to engage in Federal Research/Research and Development"
+  },
+  {
     "abbreviation": "SCIF",
     "title": "Sensitive Compartmented Information Facility"
   },
@@ -431,6 +436,11 @@
     "abbreviation": "SOW",
     "title": "Statement of Work",
     "category": "Business Terms"
+  },
+  {
+    "abbreviation": "STTR",
+    "title": "Small Business Technology Transfer",
+    "description": "highly competitive programs that encourage domestic small businesses to engage in Federal Research/Research and Development"
   },
   {
     "abbreviation": "TO",
