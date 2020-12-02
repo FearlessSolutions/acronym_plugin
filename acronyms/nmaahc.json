@@ -1,0 +1,23 @@
+[
+  {
+    "abbreviation": "EDAN",
+    "title": "Enterprise Digital Asset Network",
+    "description": "Smithsonian-developed metadata index and web services middle-layer that provides the Institution with a unified view across its multiple collection repositories"
+  },
+  {
+    "abbreviation": "IDS",
+    "title": "Image Delivery Service"
+  },
+  {
+    "abbreviation": "LAMs",
+    "title": "Libraries, Archives, and Museums"
+  },
+  {
+    "abbreviation": "METS",
+    "title": "Metadata Encoding and Transmission Schema"
+  },
+  {
+    "abbreviation": "SI",
+    "title": "Smithsonian Institution"
+  }
+]

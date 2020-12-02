@@ -30,6 +30,13 @@ const fileReference = [
       "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/nara.json",
   },
   {
+    ref: "nmaahc",
+    name: "National Museum of African American History and Culture",
+    default: false,
+    url:
+      "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/nmaahc.json",
+  },
+  {
     ref: "software",
     name: "Software",
     default: true,
