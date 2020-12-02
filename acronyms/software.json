@@ -676,6 +676,10 @@
     "title": "Server Side Encryption"
   },
   {
+    "abbreviation": "SSG",
+    "title": "Static Site Generator"
+  },
+  {
     "abbreviation": "SSH",
     "title": "Secure Shell"
   },
