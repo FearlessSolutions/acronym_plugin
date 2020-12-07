@@ -196,6 +196,10 @@
     "title": "Digital Services Coalition"
   },
   {
+    "abbreviation": "EA",
+    "title": "Enterprise Architect"
+  },
+  {
     "abbreviation": "ET",
     "title": "Executive Team",
     "category": "Role Terms"
@@ -394,6 +398,10 @@
     "abbreviation": "RFQ",
     "title": "Request for Quote",
     "category": "Business Terms"
+  },
+  {
+    "abbreviation": "SA",
+    "title": "Solution Architect"
   },
   {
     "abbreviation": "SBA",
