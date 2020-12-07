@@ -732,6 +732,11 @@
     "title": "Transport Layer Security"
   },
   {
+    "abbreviation": "TOGAF",
+    "title": "The Open Group Architecture Framework",
+    "description": "Framework for enterprise architecture today that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture"
+  },
+  {
     "abbreviation": "TPS",
     "title": "Transactions Per Second"
   },
