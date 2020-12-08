@@ -19,5 +19,10 @@
   {
     "abbreviation": "SI",
     "title": "Smithsonian Institution"
+  },
+  {
+    "abbreviation": "TRB",
+    "title": "Technical Review Board",
+    "description": "A Smithsonian board that reviews content before pushing it to their website"
   }
 ]
