@@ -23,6 +23,14 @@
     "title": "End Of Life"
   },
   {
+    "abbreviation": "FYI",
+    "title": "For Your Information"
+  },
+  {
+    "abbreviation": "FYSA",
+    "title": "For Your Situational Awareness"
+  },
+  {
     "abbreviation": "NLT",
     "title": "No Later Than"
   },
