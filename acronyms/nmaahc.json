@@ -1,5 +1,19 @@
 [
   {
+    "abbreviation": "CDIS",
+    "title": "Collection DAMS Integration System"
+  },
+  {
+    "abbreviation": "CIS",
+    "title": "Collection Information Systems",
+    "description": "A collection of systems and databases for each of the Smithsonian museums"
+  },
+  {
+    "abbreviation": "DAMS",
+    "title": "Digital Asset Management System",
+    "description": "Pulls assets from the CIS via the Collection DAMS Integrations System"
+  },
+  {
     "abbreviation": "EDAN",
     "title": "Enterprise Digital Asset Network",
     "description": "Smithsonian-developed metadata index and web services middle-layer that provides the Institution with a unified view across its multiple collection repositories"
@@ -19,6 +33,15 @@
   {
     "abbreviation": "SI",
     "title": "Smithsonian Institution"
+  },
+  {
+    "abbreviation": "S&F",
+    "title": "Slavery and Freedom digital exhibition"
+  },
+  {
+    "abbreviation": "TMS",
+    "title": "The Museum System",
+    "description": "A key system used by the Gigitization Teams and Curators to catalogue, manage rights, and store data related to the museums' collection objects"
   },
   {
     "abbreviation": "TRB",
