@@ -96,6 +96,11 @@
     "category": "Government Terms"
   },
   {
+    "abbreviation": "CC0",
+    "title": "No copyright reserved",
+    "description": "CC0 is the 'no copyright reserved' option in the Creative Commons toolkit"
+  },
+  {
     "abbreviation": "CD",
     "title": "Continuous Delivery",
     "category": "Business Terms"
