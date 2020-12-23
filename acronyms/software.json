@@ -4,6 +4,10 @@
     "title": "Artificial Intelligence"
   },
   {
+    "abbreviation": "ACID",
+    "title": "Atomicity, Consistency, Isolation, Durability"
+  },
+  {
     "abbreviation": "ACL",
     "title": "Access Control List"
   },
@@ -57,6 +61,10 @@
     "abbreviation": "BYOD",
     "title": "Bring Your Own Device",
     "category": "Software Terms"
+  },
+  {
+    "abbreviation": "CAP",
+    "title": "Consistency, Availability, Partition tolerance"
   },
   {
     "abbreviation": "CDN",
@@ -171,6 +179,11 @@
   {
     "abbreviation": "DoS",
     "title": "Denial of Service"
+  },
+  {
+    "abbreviation": "DRY",
+    "title": "Don't Repeat Yourself",
+    "decription": "design principle"
   },
   {
     "abbreviation": "EC2",
@@ -361,6 +374,11 @@
     "title": "Key Management Service"
   },
   {
+    "abbreviation": "KISS",
+    "title": "Keep It Simple, Stupid",
+    "description": "design principle"
+  },
+  {
     "abbreviation": "l10n",
     "title": "Localization"
   },
@@ -488,8 +506,17 @@
     "title": "Optical Character Recognition"
   },
   {
+    "abbreviation": "OOD",
+    "title": "Object-Oriented Design"
+  },
+  {
     "abbreviation": "OOP",
     "title": "Object-Oriented Programming"
+  },
+  {
+    "abbreviation": "ORM",
+    "title": "Object–relational mapping",
+    "description": "A programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a 'virtual object database' that can be used from within the programming language"
   },
   {
     "abbreviation": "OS",
@@ -563,6 +590,10 @@
   {
     "abbreviation": "RFID",
     "title": "Radio Frequency Identification"
+  },
+  {
+    "abbreviation": "RHEL",
+    "title": "Red Hat Enterprise Linux Operating System"
   },
   {
     "abbreviation": "RMF",
@@ -650,6 +681,11 @@
   {
     "abbreviation": "SOAP",
     "title": "Simple Object Access Protocol"
+  },
+  {
+    "abbreviation": "SOLID",
+    "title": "(S)ingle-responsiblity Principle, (O)pen-closed Principle, (L)iskov Substitution Principle, (I)nterface Segregation Principle, (D)ependency Inversion Principle",
+    "description": "First 5 principles of Object Oriented Design"
   },
   {
     "abbreviation": "SoS",
@@ -838,5 +874,10 @@
     "abbreviation": "XSS",
     "title": "Cross-Site Scripting",
     "category": "Software Terms"
+  },
+  {
+    "abbreviation": "YAGNI",
+    "title": "You Aren't Gonna Need It",
+    "decription": "extreme programming principle"
   }
 ]
