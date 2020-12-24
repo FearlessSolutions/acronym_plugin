@@ -71,6 +71,11 @@
     "title": "Very Respectfully"
   },
   {
+    "abbreviation": "WIP",
+    "title": "Work in Progress",
+    "category": "Agile Terms"
+  },
+  {
     "abbreviation": "WRT",
     "title": "With Respect To"
   }
