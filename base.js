@@ -9,6 +9,13 @@ const fileReference = [
       "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/af.json",
   },
   {
+    ref: "agile",
+    name: "Agile Terms",
+    default: true,
+    url:
+      "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/agile.json",
+  },
+  {
     ref: "cms",
     name: "CMS Portfolio",
     default: false,

@@ -1,0 +1,65 @@
+[
+  {
+    "abbreviation": "ART",
+    "title": "Agile Release Train",
+    "description": "All of the people (expertise) needed to implement, test, deploy, and release to deliver software, hardware, firmware or other"
+  },
+  {
+    "abbreviation": "CSM",
+    "title": "Certified Scrum Master",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "CSP",
+    "title": "Certified Scrum Professional",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "DoD",
+    "title": "Definition of Done",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "DoR",
+    "title": "Definition of Ready",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "INVEST",
+    "title": "Independent, Negotiable, Valuable, Estimable, Small, Testable",
+    "description": "Independent of all others, Negotiable - not a specific contract for features, Valuable or vertical, Estimable to a good approximation, Small so as to fit within an iteration, Testable in principle, even if there isn’t a test for it yet",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "MVP",
+    "title": "Minimum Viable Product",
+    "description": "Version of a product with just enough features to satisfy early customers and provide feedback for future product development",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "PI",
+    "title": "Program Increment (as in PI Planning)",
+    "category": "Agile Terms",
+    "description": "A timeboxed planning interval during which an Agile Release Train plans and delivers incremental value in the form of working, tested software and systems"
+  },
+  {
+    "abbreviation": "SAFe",
+    "title": "Scaled Agile Framework",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "SoS",
+    "title": "Scrum of Scrums",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "TDD",
+    "title": "Test Driven Development",
+    "category": "Agile Terms"
+  },
+  {
+    "abbreviation": "XP",
+    "title": "Extreme Programming",
+    "category": "Agile Terms"
+  }
+]
