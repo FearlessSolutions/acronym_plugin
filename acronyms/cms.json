@@ -782,6 +782,10 @@
     "title": "Office of the National Coordinator for Health IT"
   },
   {
+    "abbreviation": "ONEMac",
+    "title": "One unified platform."
+  },
+  {
     "abbreviation": "OSG",
     "title": "Operation Services Group",
     "description": "One of seven groups within CMCS"
