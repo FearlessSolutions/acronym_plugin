@@ -96,6 +96,11 @@
     "category": "Government Terms"
   },
   {
+    "abbreviation": "CC0",
+    "title": "No copyright reserved",
+    "description": "CC0 is the 'no copyright reserved' option in the Creative Commons toolkit"
+  },
+  {
     "abbreviation": "CD",
     "title": "Continuous Delivery",
     "category": "Business Terms"
@@ -114,6 +119,11 @@
     "abbreviation": "CMMC",
     "title": "Cybersecurity Maturity Model Certification",
     "description": "Department of Defense's (DoD) newest verification mechanism designed to ensure that cybersecurity controls and processes adequately protect Controlled Unclassified Information (CUI) that resides on Defense Industrial Base (DIB) systems and networks"
+  },
+  {
+    "abbreviation": "CMMI",
+    "title": "Center for Medicare & Medicaid Innovation",
+    "description": "The innovation center"
   },
   {
     "abbreviation": "CMS",
@@ -183,13 +193,26 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "DPO",
+    "title": "Director of People Ops"
+  },
+  {
     "abbreviation": "DSC",
     "title": "Digital Services Coalition"
+  },
+  {
+    "abbreviation": "EA",
+    "title": "Enterprise Architect"
   },
   {
     "abbreviation": "ET",
     "title": "Executive Team",
     "category": "Role Terms"
+  },
+  {
+    "abbreviation": "ERP",
+    "title": "Enterprise Resource Planning",
+    "description": "Integrated management of main business processes, often in real time and mediated by software and technology"
   },
   {
     "abbreviation": "FI",
@@ -220,6 +243,10 @@
     "category": "Government Terms"
   },
   {
+    "abbreviation": "ICT",
+    "title": "Information and Communication Technologies"
+  },
+  {
     "abbreviation": "IP",
     "title": "Intellectual Property",
     "category": "Business Terms"
@@ -242,6 +269,10 @@
     "abbreviation": "KO",
     "title": "Contracting Officer (Military sometimes uses KO instead)",
     "category": "Government Terms"
+  },
+  {
+    "abbreviation": "KP",
+    "title": "Key Personnel"
   },
   {
     "abbreviation": "LOC",
@@ -272,6 +303,10 @@
     "description": "Part of the United States Army Intelligence and Security Command"
   },
   {
+    "abbreviation": "NGO",
+    "title": "Non-Governmental Organizations"
+  },
+  {
     "abbreviation": "NMAAHC",
     "title": "National Museum of African American History and Culture"
   },
@@ -279,6 +314,23 @@
     "abbreviation": "NPS",
     "title": "Net Promoter Score",
     "category": "Business Terms"
+  },
+  {
+    "abbreviation": "OA",
+    "title": " Office of the Administrator"
+  },
+  {
+    "abbreviation": "OAGM",
+    "title": "Office of Acquisition & Grants Management"
+  },
+  {
+    "abbreviation": "OAIS",
+    "title": "Open Archival Information System",
+    "description": "an archive, consisting of an organization of people and systems, that has accepted the responsibility to preserve information and make it available for a Designated Community"
+  },
+  {
+    "abbreviation": "OBE",
+    "title": "Overtaken By Events (or irrelevant)"
   },
   {
     "abbreviation": "OCIO",
@@ -357,9 +409,18 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "SA",
+    "title": "Solution Architect"
+  },
+  {
     "abbreviation": "SBA",
     "title": "Small Business Administration",
     "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "SBIR",
+    "title": "Small Business Innovation Research",
+    "description": "highly competitive programs that encourage domestic small businesses to engage in Federal Research/Research and Development"
   },
   {
     "abbreviation": "SCIF",
@@ -394,8 +455,9 @@
     "category": "Business Terms"
   },
   {
-    "abbreviation": "TLA",
-    "title": "Three Letter Acronym"
+    "abbreviation": "STTR",
+    "title": "Small Business Technology Transfer",
+    "description": "highly competitive programs that encourage domestic small businesses to engage in Federal Research/Research and Development"
   },
   {
     "abbreviation": "TO",
@@ -420,5 +482,9 @@
   {
     "abbreviation": "VTC",
     "title": "Video Tele-Conferencing"
+  },
+  {
+    "abbreviation": "WCAG",
+    "title": "Web Content Accessibility Guidelines"
   }
 ]

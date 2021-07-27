@@ -1,5 +1,9 @@
 [
   {
+    "abbreviation": "4I",
+    "title": "4 Innovation (System)"
+  },
+  {
     "abbreviation": "AAC",
     "title": "Actual acquisition cost"
   },
@@ -29,6 +33,10 @@
     "title": "Accountable care collaborative"
   },
   {
+    "abbreviation": "ACE",
+    "title": "Acute Care Episode"
+  },
+  {
     "abbreviation": "ACF",
     "title": "Administration for Children and Families"
   },
@@ -39,6 +47,18 @@
   {
     "abbreviation": "ACO",
     "title": "Accountable Care Organization"
+  },
+  {
+    "abbreviation": "ACO-MS",
+    "title": "Accountable Care Organization Management System"
+  },
+  {
+    "abbreviation": "ACO-OS",
+    "title": "Accountable Care Organization Operational System"
+  },
+  {
+    "abbreviation": "ACO-UI",
+    "title": "Accountable Care Organization User Interface"
   },
   {
     "abbreviation": "ADT",
@@ -61,12 +81,36 @@
     "title": "attention deficit hyperactivity disorder"
   },
   {
+    "abbreviation": "AGI",
+    "title": "adjusted gross income"
+  },
+  {
+    "abbreviation": "AHRQ",
+    "title": "Agency for Healthcare Research and Quality"
+  },
+  {
+    "abbreviation": "AIM",
+    "title": "Accountable Care Organization (ACO) Investment Model"
+  },
+  {
     "abbreviation": "AIU",
     "title": "Adopt, Implement, Upgrade"
   },
   {
     "abbreviation": "APCD",
     "title": "All Payer Claims Database"
+  },
+  {
+    "abbreviation": "AP",
+    "title": "Acquisition Plan"
+  },
+  {
+    "abbreviation": "APA",
+    "title": "Administrative Program Accounting"
+  },
+  {
+    "abbreviation": "APC",
+    "title": "Ambulatory Payment Classification or Advanced Primary Care"
   },
   {
     "abbreviation": "APD",
@@ -80,7 +124,6 @@
     "abbreviation": "ANSI",
     "title": "American National Standards Institute"
   },
-
   {
     "abbreviation": "AO",
     "title": "Authorizing Official"
@@ -106,7 +149,10 @@
     "abbreviation": "AV",
     "title": "Anti-Virus"
   },
-
+      {
+    "abbreviation": "APPS",
+    "title": "Automated Plan Payment System"
+  },
   {
     "abbreviation": "AQM",
     "title": "Adult Quality Measures"
@@ -906,6 +952,10 @@
     "title": "Operating Division"
   },
   {
+    "abbreviation": "ONEMac",
+    "title": "One unified platform."
+  },
+  {
     "abbreviation": "OSG",
     "title": "Operation Services Group",
     "description": "One of seven groups within CMCS"
@@ -1125,9 +1175,9 @@
     "description": "MACPro State role"
   },
   {
-    "abbreviation": "SEA Tool",
+    "abbreviation": "SEATool",
     "title": "State Early Alert Tool",
-    "description": "One of the five separate systems within MACPro"
+    "description": "One of the five separate systems within MACPro Legacy, enabling CMS users to track submissions through the lifecycle."
   },
   {
     "abbreviation": "SEDS",
@@ -1170,6 +1220,11 @@
     "abbreviation": "SPOC",
     "title": "State Point of Contact",
     "description": "MACPro State role"
+  },
+  {
+    "abbreviation": "SPLA",
+    "title": "SPA Process Lead Analyst",
+    "description": "Packages received in the mailbox go through an intake process by OSG, and then they are routed to the SPA Process Lead Analyst (CMS reviewer/approver) for adjudication."
   },
   {
     "abbreviation": "SRT",

@@ -2,6 +2,13 @@
 // organize alphabetically by 'name'
 const fileReference = [
   {
+    ref: "af",
+    name: "Air Force",
+    default: false,
+    url:
+      "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/af.json",
+  },
+  {
     ref: "cms",
     name: "CMS Portfolio",
     default: false,
@@ -14,6 +21,20 @@ const fileReference = [
     default: true,
     url:
       "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/fearless.json",
+  },
+  {
+    ref: "nara",
+    name: "National Archives and Records Administration",
+    default: false,
+    url:
+      "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/nara.json",
+  },
+  {
+    ref: "nmaahc",
+    name: "National Museum of African American History and Culture",
+    default: false,
+    url:
+      "https://raw.githubusercontent.com/FearlessSolutions/acronym_plugin/master/acronyms/nmaahc.json",
   },
   {
     ref: "software",

@@ -4,6 +4,10 @@
     "title": "Artificial Intelligence"
   },
   {
+    "abbreviation": "ACID",
+    "title": "Atomicity, Consistency, Isolation, Durability"
+  },
+  {
     "abbreviation": "ACL",
     "title": "Access Control List"
   },
@@ -31,6 +35,11 @@
     "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
+    "abbreviation": "ART",
+    "title": "Agile Release Train",
+    "description": "All of the people (expertise) needed to implement, test, deploy, and release to deliver software, hardware, firmware or other"
+  },
+  {
     "abbreviation": "ASCII",
     "title": "American Standard Code for Information Interchange"
   },
@@ -45,9 +54,17 @@
     "category": "Common AWS (Amazon Web Services) Terms"
   },
   {
+    "abbreviation": "BLE",
+    "title": "Bluetooth Low Energy"
+  },
+  {
     "abbreviation": "BYOD",
     "title": "Bring Your Own Device",
     "category": "Software Terms"
+  },
+  {
+    "abbreviation": "CAP",
+    "title": "Consistency, Availability, Partition tolerance"
   },
   {
     "abbreviation": "CDN",
@@ -119,6 +136,10 @@
     "title": "Digital Asset Management"
   },
   {
+    "abbreviation": "DAO",
+    "title": "Data Access Object"
+  },
+  {
     "abbreviation": "DB",
     "title": "Database"
   },
@@ -158,6 +179,11 @@
   {
     "abbreviation": "DoS",
     "title": "Denial of Service"
+  },
+  {
+    "abbreviation": "DRY",
+    "title": "Don't Repeat Yourself",
+    "decription": "design principle"
   },
   {
     "abbreviation": "EC2",
@@ -316,6 +342,10 @@
     "title": "Information Technology"
   },
   {
+    "abbreviation": "IV&V",
+    "title": "Independent Verification and Validation "
+  },
+  {
     "abbreviation": "JPA",
     "title": "Java Persistence API"
   },
@@ -342,6 +372,11 @@
   {
     "abbreviation": "KMS",
     "title": "Key Management Service"
+  },
+  {
+    "abbreviation": "KISS",
+    "title": "Keep It Simple, Stupid",
+    "description": "design principle"
   },
   {
     "abbreviation": "l10n",
@@ -471,8 +506,17 @@
     "title": "Optical Character Recognition"
   },
   {
+    "abbreviation": "OOD",
+    "title": "Object-Oriented Design"
+  },
+  {
     "abbreviation": "OOP",
     "title": "Object-Oriented Programming"
+  },
+  {
+    "abbreviation": "ORM",
+    "title": "Object–relational mapping",
+    "description": "A programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a 'virtual object database' that can be used from within the programming language"
   },
   {
     "abbreviation": "OS",
@@ -500,8 +544,9 @@
   },
   {
     "abbreviation": "PI",
-    "title": "Program Increment",
-    "category": "Agile Terms"
+    "title": "Program Increment (as in PI Planning)",
+    "category": "Agile Terms",
+    "description": "A timeboxed planning interval during which an Agile Release Train plans and delivers incremental value in the form of working, tested software and systems"
   },
   {
     "abbreviation": "PNG",
@@ -545,6 +590,10 @@
   {
     "abbreviation": "RFID",
     "title": "Radio Frequency Identification"
+  },
+  {
+    "abbreviation": "RHEL",
+    "title": "Red Hat Enterprise Linux Operating System"
   },
   {
     "abbreviation": "RMF",
@@ -634,6 +683,11 @@
     "title": "Simple Object Access Protocol"
   },
   {
+    "abbreviation": "SOLID",
+    "title": "(S)ingle-responsiblity Principle, (O)pen-closed Principle, (L)iskov Substitution Principle, (I)nterface Segregation Principle, (D)ependency Inversion Principle",
+    "description": "First 5 principles of Object Oriented Design"
+  },
+  {
     "abbreviation": "SoS",
     "title": "Scrum of Scrums",
     "category": "Agile Terms"
@@ -656,6 +710,10 @@
   {
     "abbreviation": "SSE",
     "title": "Server Side Encryption"
+  },
+  {
+    "abbreviation": "SSG",
+    "title": "Static Site Generator"
   },
   {
     "abbreviation": "SSH",
@@ -710,12 +768,21 @@
     "title": "Transport Layer Security"
   },
   {
+    "abbreviation": "TOGAF",
+    "title": "The Open Group Architecture Framework",
+    "description": "Framework for enterprise architecture today that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture"
+  },
+  {
     "abbreviation": "TPS",
     "title": "Transactions Per Second"
   },
   {
     "abbreviation": "TTL",
     "title": "Time To Live"
+  },
+  {
+    "abbreviation": "UART",
+    "title": "Universal Asynchronous Receiver Transmitter"
   },
   {
     "abbreviation": "UAT",
@@ -787,13 +854,30 @@
     "title": "Extensible Markup Language"
   },
   {
+    "abbreviation": "XSL",
+    "title": "eXtensible Stylesheet Language"
+  },
+  {
+    "abbreviation": "XSLT",
+    "title": "XSL Transformations"
+  },
+  {
     "abbreviation": "XP",
     "title": "Extreme Programming",
     "category": "Agile Terms"
   },
   {
+    "abbreviation": "XPath",
+    "title": "XML Path Language"
+  },
+  {
     "abbreviation": "XSS",
     "title": "Cross-Site Scripting",
     "category": "Software Terms"
+  },
+  {
+    "abbreviation": "YAGNI",
+    "title": "You Aren't Gonna Need It",
+    "decription": "extreme programming principle"
   }
 ]
