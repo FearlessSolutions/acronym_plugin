@@ -1,5 +1,9 @@
 [
   {
+    "abbreviation": "4I",
+    "title": "4 Innovation (System)"
+  },
+  {
     "abbreviation": "AAC",
     "title": "Actual acquisition cost"
   },
@@ -21,8 +25,16 @@
     "description": "Patient Protection and Affordable Care Act of 2010"
   },
   {
+    "abbreviation": "AC",
+    "title": "Access Control"
+  },
+  {
     "abbreviation": "ACC",
     "title": "Accountable care collaborative"
+  },
+  {
+    "abbreviation": "ACE",
+    "title": "Acute Care Episode"
   },
   {
     "abbreviation": "ACF",
@@ -35,6 +47,18 @@
   {
     "abbreviation": "ACO",
     "title": "Accountable Care Organization"
+  },
+  {
+    "abbreviation": "ACO-MS",
+    "title": "Accountable Care Organization Management System"
+  },
+  {
+    "abbreviation": "ACO-OS",
+    "title": "Accountable Care Organization Operational System"
+  },
+  {
+    "abbreviation": "ACO-UI",
+    "title": "Accountable Care Organization User Interface"
   },
   {
     "abbreviation": "ADT",
@@ -57,6 +81,18 @@
     "title": "attention deficit hyperactivity disorder"
   },
   {
+    "abbreviation": "AGI",
+    "title": "adjusted gross income"
+  },
+  {
+    "abbreviation": "AHRQ",
+    "title": "Agency for Healthcare Research and Quality"
+  },
+  {
+    "abbreviation": "AIM",
+    "title": "Accountable Care Organization (ACO) Investment Model"
+  },
+  {
     "abbreviation": "AIU",
     "title": "Adopt, Implement, Upgrade"
   },
@@ -65,12 +101,57 @@
     "title": "All Payer Claims Database"
   },
   {
+    "abbreviation": "AP",
+    "title": "Acquisition Plan"
+  },
+  {
+    "abbreviation": "APA",
+    "title": "Administrative Program Accounting"
+  },
+  {
+    "abbreviation": "APC",
+    "title": "Ambulatory Payment Classification or Advanced Primary Care"
+  },
+  {
     "abbreviation": "APD",
     "title": "Advanced Planning Document"
   },
   {
     "abbreviation": "APM",
     "title": "Alternative Payment Model"
+  },
+  {
+    "abbreviation": "ANSI",
+    "title": "American National Standards Institute"
+  },
+  {
+    "abbreviation": "AO",
+    "title": "Authorizing Official"
+  },  {
+    "abbreviation": "AP",
+    "title": "Authority and Purpose"
+  },  {
+    "abbreviation": "AR",
+    "title": "Accountability, Audit, and Risk Management"
+  },  {
+    "abbreviation": "ARS",
+    "title": "Acceptable Risk Safeguards"
+  },  {
+    "abbreviation": "ASFR",
+    "title": "Assistant Secretary for Financial Resources"
+  },  {
+    "abbreviation": "AT",
+    "title": "Awareness and Training"
+  },  {
+    "abbreviation": "AU",
+    "title": "Audit and Accountability"
+  },  {
+    "abbreviation": "AV",
+    "title": "Anti-Virus"
+  },
+      {
+    "abbreviation": "APPS",
+    "title": "Automated Plan Payment System"
   },
   {
     "abbreviation": "AQM",
@@ -89,17 +170,33 @@
     "title": "Authorized Testing and Certification Body"
   },
   {
+    "abbreviation": "ATO",
+    "title": "Authority to Operate"
+  },
+  {
     "abbreviation": "BA",
     "title": "Business Associates"
+  },
+  {
+    "abbreviation": "BAA",
+    "title": "Business Associates Agreement"
+  },
+  {
+    "abbreviation": "BAT",
+    "title": "Breach Analysis Team"
   },
   {
     "abbreviation": "BI",
     "title": "Business Intelligence"
   },
   {
+    "abbreviation": "BOD",
+    "title": "Binding Operational Directive"
+  },
+  {
     "abbreviation": "bigMAC",
     "title": "BigMAC is the enterprise data bus that allows data to be distributed to any number of applications while enabling in flight transformation, analytics, durability, and data version control."
-},
+  },
   {
     "abbreviation": "BIP",
     "title": "Balancing Incentive Program"
@@ -107,6 +204,56 @@
   {
     "abbreviation": "C&S",
     "title": "Conditions and Standards"
+  },
+  {
+    "abbreviation": "CA",
+    "title": "Security Assessment and Authorization"
+  },
+
+  {
+    "abbreviation": "CA",
+    "title": "Security Assessment and Authorization"
+  },  {
+    "abbreviation": "CAO",
+    "title": "Chief Acquisition Officer"
+  },  {
+    "abbreviation": "CA",
+    "title": "Security Assessment and Authorization"
+  },
+  {
+    "abbreviation": "CCB",
+    "title": "Change Control Board"
+  },  {
+    "abbreviation": "CCIC",
+    "title": "CMS Cybersecurity Integration Center"
+  },
+  {
+    "abbreviation": "CDM",
+    "title": "Continuous Diagnostics and Mitigation"
+  },  {
+    "abbreviation": "CDO",
+    "title": "Chief Data Officer"
+  },  {
+    "abbreviation": "CFACTS",
+    "title": "CMS FISMA Controls Tracking System"
+  },  {
+    "abbreviation": "CFO",
+    "title": "Chief Financial Officer"
+  },  {
+    "abbreviation": "CFR",
+    "title": "Code of Federal Regulations"
+  },
+  {
+    "abbreviation": "CIO",
+    "title": "Chief Information Officer"
+  },
+  {
+    "abbreviation": "CISO",
+    "title": "Chief Information Security Officer"
+  },
+  {
+    "abbreviation": "CLD",
+    "title": "Cloud Computing"
   },
   {
     "abbreviation": "CAH",
@@ -269,6 +416,11 @@
     "abbreviation": "DEHPG",
     "title": "Disabled and Elderly Health Programs Group",
     "description": "One of seven groups within CMCS"
+  },
+  {
+    "abbreviation": "DG",
+    "title": "Data Guardian",
+    "description": "an agency official (federal government employee) with shared responsibilities with the CMS Business Owner identified in the HHS IS2P Appendix A Section 22, Data Owner/Business Owner."
   },
   {
     "abbreviation": "DICOM",
@@ -586,6 +738,20 @@
     "title": "Introductory Reference Document"
   },
   {
+    "abbreviation": "ISPG",
+    "title": "Information Security Privacy Group",
+    "description": "The Vision for ISPG is to provide leadership to CMS in managing information security and privacy risks appropriate for evolving cyber threats.",
+  },
+  {
+    "abbreviation": "ISSO",
+    "title": "Information Systems Security Officer",
+    "description": "The ISSO must ensure the duties of the Security Control Assessor and Contingency Planning Coordinator are completed as described in the HHS IS2P Appendix A Sections 18 and 24.",
+  },
+  {
+    "abbreviation": "IUSG",
+    "title": "Infrastructure and User Services Group",
+  },
+  {
     "abbreviation": "IV&V",
     "title": "Independent Verification & Validation"
   },
@@ -645,7 +811,7 @@
   },
   {
     "abbreviation": "MCCRS",
-    "title": "Managed Care Contract Rates"
+    "title": "Managed Care Rate and Review System"
   },
   {
     "abbreviation": "MCO",
@@ -780,6 +946,14 @@
   {
     "abbreviation": "ONC",
     "title": "Office of the National Coordinator for Health IT"
+  },
+  {
+    "abbreviation": "OpDiv",
+    "title": "Operating Division"
+  },
+  {
+    "abbreviation": "ONEMac",
+    "title": "One unified platform."
   },
   {
     "abbreviation": "OSG",
