@@ -2,9 +2,9 @@
   "name": "Fearless Acronyms",
   "description": "Select an acronym to expand it.",
   "version": "1.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
 
-  "browser_action": {
+  "action": {
     "default_icon": "./images/fearless-logo128.png",
     "default_popup": "./search-dropdown/search.html"
   },
