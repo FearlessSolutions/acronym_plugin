@@ -127,29 +127,36 @@
   {
     "abbreviation": "AO",
     "title": "Authorizing Official"
-  },  {
+  },
+  {
     "abbreviation": "AP",
     "title": "Authority and Purpose"
-  },  {
+  },
+  {
     "abbreviation": "AR",
     "title": "Accountability, Audit, and Risk Management"
-  },  {
+  },
+  {
     "abbreviation": "ARS",
     "title": "Acceptable Risk Safeguards"
-  },  {
+  },
+  {
     "abbreviation": "ASFR",
     "title": "Assistant Secretary for Financial Resources"
-  },  {
+  },
+  {
     "abbreviation": "AT",
     "title": "Awareness and Training"
-  },  {
+  },
+  {
     "abbreviation": "AU",
     "title": "Audit and Accountability"
-  },  {
+  },
+  {
     "abbreviation": "AV",
     "title": "Anti-Virus"
   },
-      {
+  {
     "abbreviation": "APPS",
     "title": "Automated Plan Payment System"
   },
@@ -213,33 +220,40 @@
   {
     "abbreviation": "CA",
     "title": "Security Assessment and Authorization"
-  },  {
+  },
+  {
     "abbreviation": "CAO",
     "title": "Chief Acquisition Officer"
-  },  {
+  },
+  {
     "abbreviation": "CA",
     "title": "Security Assessment and Authorization"
   },
   {
     "abbreviation": "CCB",
     "title": "Change Control Board"
-  },  {
+  },
+  {
     "abbreviation": "CCIC",
     "title": "CMS Cybersecurity Integration Center"
   },
   {
     "abbreviation": "CDM",
     "title": "Continuous Diagnostics and Mitigation"
-  },  {
+  },
+  {
     "abbreviation": "CDO",
     "title": "Chief Data Officer"
-  },  {
+  },
+  {
     "abbreviation": "CFACTS",
     "title": "CMS FISMA Controls Tracking System"
-  },  {
+  },
+  {
     "abbreviation": "CFO",
     "title": "Chief Financial Officer"
-  },  {
+  },
+  {
     "abbreviation": "CFR",
     "title": "Code of Federal Regulations"
   },
@@ -340,6 +354,10 @@
   {
     "abbreviation": "CICD",
     "title": "Continuous Integration/Continuous Delivery"
+  },
+  {
+    "abbreviation": "CLM",
+    "title": "Contract Lifecycle Management"
   },
   {
     "abbreviation": "CMCS",
@@ -450,12 +468,32 @@
     "title": "Direct Secure Messaging"
   },
   {
+    "abbreviation": "DSS",
+    "title": "Data Shared Services"
+  },
+  {
+    "abbreviation": "DTO",
+    "title": "Marketplace Appeals Group (MAG) Division of Technology and Operations"
+  },
+  {
     "abbreviation": "E&E",
     "title": "Eligibility & Enrollment"
   },
   {
     "abbreviation": "eAPD",
     "title": "Electronic Advanced Planning Document"
+  },
+  {
+    "abbreviation": "EAII",
+    "title": "Expired Annual Income Inconsistency"
+  },
+  {
+    "abbreviation": "EAOS",
+    "title": "Eligibility Appeals Operations Support"
+  },
+  {
+    "abbreviation": "EATS",
+    "title": "Enterprise Agile Transformation Services"
   },
   {
     "abbreviation": "EB",
@@ -470,8 +508,16 @@
     "title": "Electronic Clinical Quality Measures Repository"
   },
   {
+    "abbreviation": "EDN",
+    "title": "Eligibility Determination Notice"
+  },
+  {
     "abbreviation": "EFI",
     "title": "Enterprise User Administration (EUA) Front-End Interface"
+  },
+  {
+    "abbreviation": "EFT",
+    "title": "Electronic File Transfer"
   },
   {
     "abbreviation": "EG",
@@ -499,6 +545,10 @@
     "title": "Electronic Medication Administration Record"
   },
   {
+    "abbreviation": "EOC",
+    "title": "Electronic Outbound Communication"
+  },
+  {
     "abbreviation": "EP",
     "title": "Eligible Professional"
   },
@@ -513,6 +563,10 @@
   {
     "abbreviation": "EQRO",
     "title": "External Quality Review Organization"
+  },
+  {
+    "abbreviation": "eRFI",
+    "title": "Electronic request for information (RFI)."
   },
   {
     "abbreviation": "eRx",
@@ -580,6 +634,11 @@
     "description": "One of seven groups within CMCS"
   },
   {
+    "abbreviation": "FDL",
+    "title": "Federal Poverty Line",
+    "description": "The Federal poverty line for 2022 is at https://www.needymeds.org/poverty-guidelines-percents"
+  },
+  {
     "abbreviation": "FQHC",
     "title": "Federally Qualified Health Center"
   },
@@ -592,8 +651,17 @@
     "title": "File Transfer Protocal"
   },
   {
+    "abbreviation": "FTR",
+    "title": "Failure to Reconcile"
+  },
+  {
     "abbreviation": "FY",
     "title": "Fiscal Year"
+  },
+  {
+    "abbreviation": "GPO",
+    "title": "General Printing Office",
+    "description": "The GPO is responsible for the production and distribution of information products and services including the official publications of Congress, the White House and other federal agencies in digital and print formats. GPO provides for permanent public access to Federal Government information at no charge through our Federal Digital System website. Website: https://www.ngsmedicare.com/fr/general-information-guide?lob=93617&state=97256&rgion=93623&selectedArticleId=2531796"
   },
   {
     "abbreviation": "HARP",
@@ -740,16 +808,16 @@
   {
     "abbreviation": "ISPG",
     "title": "Information Security Privacy Group",
-    "description": "The Vision for ISPG is to provide leadership to CMS in managing information security and privacy risks appropriate for evolving cyber threats.",
+    "description": "The Vision for ISPG is to provide leadership to CMS in managing information security and privacy risks appropriate for evolving cyber threats."
   },
   {
     "abbreviation": "ISSO",
     "title": "Information Systems Security Officer",
-    "description": "The ISSO must ensure the duties of the Security Control Assessor and Contingency Planning Coordinator are completed as described in the HHS IS2P Appendix A Sections 18 and 24.",
+    "description": "The ISSO must ensure the duties of the Security Control Assessor and Contingency Planning Coordinator are completed as described in the HHS IS2P Appendix A Sections 18 and 24."
   },
   {
     "abbreviation": "IUSG",
-    "title": "Infrastructure and User Services Group",
+    "title": "Infrastructure and User Services Group"
   },
   {
     "abbreviation": "IV&V",
@@ -788,6 +856,10 @@
   {
     "abbreviation": "MACStacks",
     "title": "MACStack or MACStacks are teams dedicated to researching, testing, and deploying a unified, modern, and user centered stack for managing Medicaid and Chip State Plans"
+  },
+  {
+    "abbreviation": "MAG",
+    "title": "Marketplace Appeals Group"
   },
   {
     "abbreviation": "MAGI",
@@ -871,6 +943,10 @@
     "title": "Medicaid Management Information System"
   },
   {
+    "abbreviation": "MOEN",
+    "title": "Marketplace Open Enrollment Notice"
+  },
+  {
     "abbreviation": "MPD",
     "title": "Master Provider Directory"
   },
@@ -932,6 +1008,16 @@
     "title": "Obstetrician"
   },
   {
+    "abbreviation": "OC",
+    "title": "Office of Communications",
+    "description": "Serves as CMS's focal point for internal and external strategic and tactical communications providing leadership for CMS in the areas of customer service; website operations; traditional and new media including web initiatives such as social media supported by innovative, increasingly mobile technologies; media relations; call center operations, consumer materials; public information campaigns; and, public engagement. Website: https://www.cms.gov/About-CMS/Agency-Information/CMSLeadership/Office_OC"
+  },
+  {
+    "abbreviation": "OHI",
+    "title": "Office of Hearings and Inquiries",
+    "description": "Serves as the CMS executive agent for developing and directing certain Exchange-based (Marketplace) health insurance eligibility appeals functions and processes in support of statues and regulations, particularly the Patient Protection and Affordable Care Act of 2010 and the Health Care and Education Reconciliation Act of 2010 (together, \"the Affordable Care Act\" or ACA). Website: https://www.cms.gov/About-CMS/Agency-Information/CMSLeadership/Office_OHI"
+  },
+  {
     "abbreviation": "OIG",
     "title": "Office of the Inspector General"
   },
@@ -950,6 +1036,11 @@
   {
     "abbreviation": "OpDiv",
     "title": "Operating Division"
+  },
+  {
+    "abbreviation": "OPOLE",
+    "title": "Office of Programs Operation and Local Engagement",
+    "description": "Serves as the senior level point of contact within each Region for counterparts in CMS, Department leadership (including the HHS Regional Director), as well as external stakeholders. Creates and maintains regional location cohesion and leads regional efforts to improve employee engagement. Website: https://www.cms.gov/about-cms/cms-leadership/office-program-operations-and-local-engagement"
   },
   {
     "abbreviation": "ONEMac",
@@ -1005,6 +1096,10 @@
   {
     "abbreviation": "PHR",
     "title": "Personal Health Record"
+  },
+  {
+    "abbreviation": "PIFO",
+    "title": "Program Integrity and Financial Oversight"
   },
   {
     "abbreviation": "PIHP",
@@ -1256,6 +1351,10 @@
   {
     "abbreviation": "TCP/IP",
     "title": "Transmission Control Protocol/Internet Protocol"
+  },
+  {
+    "abbreviation": "TIPSS",
+    "title": "Technology Infrastructure Planning and Security Support"
   },
   {
     "abbreviation": "TIN",
