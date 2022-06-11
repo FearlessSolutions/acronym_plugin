@@ -279,7 +279,7 @@
   },
   {
     "abbreviation": "CARTS",
-    "title": "Children’s Health Insurance Program Annual Report Template System",
+    "title": "Children's Health Insurance Program Annual Report Template System",
     "description": "One of the five separate systems within MACPro"
   },
   {
@@ -345,7 +345,7 @@
   },
   {
     "abbreviation": "CHIP",
-    "title": "Children’s Health Insurance Program"
+    "title": "Children's Health Insurance Program"
   },
   {
     "abbreviation": "CHPL",
@@ -361,7 +361,7 @@
   },
   {
     "abbreviation": "CMCS",
-    "title": "Center for Medicaid and CHIP (Children’s Health Insurance) Services",
+    "title": "Center for Medicaid and CHIP (Children's Health Insurance) Services",
     "description": "Responsible for the administration of the Medicaid and CHIP programs, in partnership with 50 states, DC, and five territories"
   },
   {
@@ -392,6 +392,10 @@
   {
     "abbreviation": "CPOE",
     "title": "Computerized Physician Order Entry"
+  },
+  {
+    "abbreviation": "CPT",
+    "title": "Cloud Products and Tools"
   },
   {
     "abbreviation": "CPT",
@@ -469,7 +473,8 @@
   },
   {
     "abbreviation": "DSS",
-    "title": "Data Shared Services"
+    "title": "Data Shared Services",
+    "description": "Team responsible for automating data transfer between Appeals Call Center and EACMS"
   },
   {
     "abbreviation": "DTO",
@@ -482,6 +487,11 @@
   {
     "abbreviation": "eAPD",
     "title": "Electronic Advanced Planning Document"
+  },
+  {
+    "abbreviation": "EACMS",
+    "title": "Eligibility Appeals Content Management System",
+    "description": "Designed and managed by Maximus contractor, holds EAOS data in a central repository"
   },
   {
     "abbreviation": "EAII",
@@ -566,7 +576,7 @@
   },
   {
     "abbreviation": "eRFI",
-    "title": "Electronic request for information (RFI)."
+    "title": "Electronic Request for Information (RFI)"
   },
   {
     "abbreviation": "eRx",
@@ -634,9 +644,9 @@
     "description": "One of seven groups within CMCS"
   },
   {
-    "abbreviation": "FDL",
-    "title": "Federal Poverty Line",
-    "description": "The Federal poverty line for 2022 is at https://www.needymeds.org/poverty-guidelines-percents"
+    "abbreviation": "FPL",
+    "title": "Federal Poverty Level",
+    "description": "Poverty Guidelines can be found at https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines"
   },
   {
     "abbreviation": "FQHC",
@@ -751,7 +761,7 @@
   {
     "abbreviation": "IAP",
     "title": "Medicaid Innovation Accelerator Program",
-    "description": "Seeks to offer targeted technical support and solutions to Medicaid agencies in building and strengthening their data analytic capacity as they design and implement delivery system reforms. In addition, IAP seeks to develop standard solutions using common data sets for states’ use in delivering improved care and driving smarter spending."
+    "description": "Seeks to offer targeted technical support and solutions to Medicaid agencies in building and strengthening their data analytic capacity as they design and implement delivery system reforms. In addition, IAP seeks to develop standard solutions using common data sets for states' use in delivering improved care and driving smarter spending."
   },
   {
     "abbreviation": "IAPD",
@@ -1276,7 +1286,7 @@
   },
   {
     "abbreviation": "SEDS",
-    "title": "Children’s Health Insurance Program Statistical Enrollment Data Systems",
+    "title": "Children's Health Insurance Program Statistical Enrollment Data Systems",
     "description": "One of the five separate systems within MACPro"
   },
   {

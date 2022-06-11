@@ -24,6 +24,8 @@ import { fileReference } from "../base.js";
           var style = document.createElement("strong");
           var styleTextNode = document.createTextNode(acronyms[i].abbreviation);
           var textnode = document.createTextNode(`: ${acronyms[i].title}`);
+          var descnode = acronyms[i].description;
+          node.title = descnode || "No details";
           style.appendChild(styleTextNode);
           node.appendChild(style);
           node.appendChild(textnode);

@@ -89,3 +89,25 @@ Example:
    - File can be selected and saved in the Extension Options
    - Acronyms return in the search results when the file _is_ selected in the Extension Options
    - Acronyms _do not_ return when the file _is not_ selected in the Extension Options
+
+# Testing
+
+Chrome may give you a hard time about testing the new data sets on your local `base.js` if you try to change the paths to `file:///` prefixes or local machine paths. 
+
+An easy way to test on the fly if you have Node's `http-server` or installed is to call either one with the `--cors` parameter as shown below. Unfortunately Python's `http.server` does not appear to have added a simple CORS option.
+
+```
+c:\Projects\acronym_plugin>npm install -g http-server
+c:\Projects\acronym_plugin>http-server --cors ./
+Starting up http-server, serving ./
+
+http-server version: 14.1.1
+
+http-server settings:
+CORS: ./
+Available on:
+  http://127.0.0.1:8080
+```
+
+Then set the local path in a `base.js` option to be, for example, `http://127.0.0.1:8080/acronyms/cms.json`.
+
