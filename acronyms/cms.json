@@ -81,6 +81,10 @@
     "title": "attention deficit hyperactivity disorder"
   },
   {
+    "abbreviation": "AHE",
+    "title": "Adjudication, Hearings & Effectuation"
+  },
+  {
     "abbreviation": "AGI",
     "title": "adjusted gross income"
   },
@@ -381,6 +385,10 @@
     "title": "Community of Practice"
   },
   {
+    "abbreviation": "CORs",
+    "title": "Contracting Officer Representatives"
+  },
+  {
     "abbreviation": "CPC",
     "title": "Comprehensive Primary Care"
   },
@@ -472,6 +480,11 @@
     "title": "Direct Secure Messaging"
   },
   {
+    "abbreviation": "DSO",
+    "title": "DevSecOps",
+    "description": "CMS MAG Team that manages security in applications"
+  },
+  {
     "abbreviation": "DSS",
     "title": "Data Shared Services",
     "description": "Team responsible for automating data transfer between Appeals Call Center and EACMS"
@@ -520,6 +533,10 @@
   {
     "abbreviation": "EDN",
     "title": "Eligibility Determination Notice"
+  },
+  {
+    "abbreviation": "effectuation",
+    "title": "The processed "
   },
   {
     "abbreviation": "EFI",
@@ -603,6 +620,11 @@
     "title": "Frequently Asked Questions"
   },
   {
+    "abbreviation": "FBI",
+    "title": "Federal Bureau of Iteration",
+    "description": "This appears to be a tongue-in-cheek description for AHE2 which handles hearing workflows"
+  },
+  {
     "abbreviation": "FCC",
     "title": "Federal Communications Commission"
   },
@@ -613,6 +635,11 @@
   {
     "abbreviation": "FERPA",
     "title": "Family Educational Rights and Privacy Act"
+  },
+  {
+    "abbreviation": "FFE",
+    "title": "Federally-facilitated Exchange",
+    "description": "Federal government established an FFE in any state that did not elect to establish an SBE see https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/Enrollment%20Manual_062618.pdf"
   },
   {
     "abbreviation": "FFP",
@@ -705,6 +732,10 @@
   {
     "abbreviation": "HHQM",
     "title": "Health Home Quality Measures"
+  },
+  {
+    "abbreviation": "HICS",
+    "title": "Health Information Casework System"
   },
   {
     "abbreviation": "HIE",
@@ -878,6 +909,11 @@
   {
     "abbreviation": "MAPIR",
     "title": "Medical Assistance Provider Incentive Repository"
+  },
+  {
+    "abbreviation": "MaPS",
+    "title": "Marketplace Project Startup",
+    "desc": "Four step process for CMS development with artifacts and resources available at each step"
   },
   {
     "abbreviation": "MBES",
@@ -1198,6 +1234,11 @@
   {
     "abbreviation": "RAC",
     "title": "Recovery Audit Contractor"
+  },
+  {
+    "abbreviation": "RACCTPS",
+    "title": "Remote Assets Call Center Team Platform Suite",
+    "description": "MAG team that provides AWS connectors to the MAG call center"
   },
   {
     "abbreviation": "RBAC",
