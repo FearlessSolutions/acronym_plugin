@@ -658,6 +658,10 @@
     "title": "Fast Healthcare Interoperability Resources"
   },
   {
+    "abbreviation": "FHO",
+    "title": "Federal Hearing Officer"
+  },
+  {
     "abbreviation": "FISMA",
     "title": "Federal Information Security Management Act"
   },
@@ -934,6 +938,10 @@
   {
     "abbreviation": "MCO",
     "title": "Managed Care Organization"
+  },
+  {
+    "abbreviation": "MCU",
+    "title": "Marketplace Change Utility"
   },
   {
     "abbreviation": "MD",
