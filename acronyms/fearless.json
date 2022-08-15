@@ -15,6 +15,10 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "ADP",
+    "title": "Accountable Development Process"
+  },
+  {
     "abbreviation": "ARMS",
     "title": "Aviation Resource Management System",
     "category": "Projects/Agencies"
@@ -219,6 +223,11 @@
     "description": "Integrated management of main business processes, often in real time and mediated by software and technology"
   },
   {
+    "abbreviation": "FCOR",
+    "title": "Facts, Concerns, Options, Recommendation",
+    "description": "A thought tool used to raise awareness about an issue and present possible options and outcomes"
+  },
+  {
     "abbreviation": "FI",
     "title": "Finance and Infrastructure"
   },
@@ -347,14 +356,19 @@
     "category": "Role Terms"
   },
   {
+    "abbreviation": "PD",
+    "title": "Portfolio Director",
+    "category": "Role Terms"
+  },
+  {
+    "abbreviation": "PD",
+    "title": "Practice Director",
+    "category": "Role Terms"
+  },
+  {
     "abbreviation": "PIV",
     "title": "Personal Identity Verification (Same as CAC)",
     "category": "Government Terms"
-  },
-  {
-    "abbreviation": "PM",
-    "title": "Program Manager",
-    "category": "Role Terms"
   },
   {
     "abbreviation": "PM",
@@ -458,6 +472,10 @@
     "abbreviation": "STTR",
     "title": "Small Business Technology Transfer",
     "description": "highly competitive programs that encourage domestic small businesses to engage in Federal Research/Research and Development"
+  },
+  {
+    "abbreviation": "TMC",
+    "title": "Team Member Care"
   },
   {
     "abbreviation": "TO",
