@@ -61,6 +61,11 @@
     "description": "CMS Portfolio"
   },
   {
+    "abbreviation": "BCHD",
+    "title": "Baltimore City Health Department",
+    "category": "Projects/Agencies"
+  },
+  {
     "abbreviation": "BD",
     "title": "Business Development",
     "category": ["Role Terms", "Business Terms"]
@@ -78,11 +83,6 @@
   {
     "abbreviation": "BDSO",
     "title": "Biometrics Development, Security Operations (Biometrics DevSecOps)",
-    "category": "Projects/Agencies"
-  },
-  {
-    "abbreviation": "BESPIN",
-    "title": "Business and Enterprise Systems Programming Innovation Program",
     "category": "Projects/Agencies"
   },
   {
@@ -156,11 +156,6 @@
     "description": "CMS Portfolio"
   },
   {
-    "abbreviation": "CMS OIT HCD",
-    "title": "Center for Medicare Services Office of Information Technology Human Centered Design",
-    "category": "Projects/Agencies"
-  },
-  {
     "abbreviation": "CO",
     "title": "Contracting Officer",
     "category": "Government Terms"
@@ -183,6 +178,10 @@
     "abbreviation": "COTS",
     "title": "Commercial Off-The-Shelf",
     "category": "Government Terms"
+  },
+  {
+    "abbreviation": "CPARS",
+    "title": "Contractor Performance Assessment Reporting System"
   },
   {
     "abbreviation": "CPMS",
@@ -211,6 +210,16 @@
   {
     "abbreviation": "DEI",
     "title": "Diversity, Equity, and Inclusion"
+  },
+  {
+    "abbreviation": "DHS",
+    "title": "Department of Homeland Security",
+    "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "DIA",
+    "title": "Defense Intelligence Agency",
+    "category": "Projects/Agencies"
   },
   {
     "abbreviation": "DIB",
@@ -244,14 +253,23 @@
     "title": "Enterprise Architect"
   },
   {
-    "abbreviation": "ET",
-    "title": "Executive Team",
-    "category": "Role Terms"
+    "abbreviation": "ECMA",
+    "title": "Enterprise Cloud Management Agency",
+    "category": "Projects/Agencies"
   },
   {
     "abbreviation": "ERP",
     "title": "Enterprise Resource Planning",
     "description": "Integrated management of main business processes, often in real time and mediated by software and technology"
+  },
+  {
+    "abbreviation": "ESOP",
+    "title": "Employee Stock Options Program"
+  },
+  {
+    "abbreviation": "ET",
+    "title": "Executive Team",
+    "category": "Role Terms"
   },
   {
     "abbreviation": "FCOR",
@@ -279,6 +297,15 @@
     "category": "Government Terms"
   },
   {
+    "abbreviation": "GSA",
+    "title": "General Services Administration",
+    "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "HCD",
+    "title": "Human Centered Design"
+  },
+  {
     "abbreviation": "HHS",
     "title": "Health and Human Services"
   },
@@ -288,9 +315,17 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "HUBZone",
+    "title": "Historically Underutilized Business Zone"
+  },
+  {
     "abbreviation": "IATT",
     "title": "Interim Authority To Test",
     "category": "Government Terms"
+  },
+  {
+    "abbreviation": "IC",
+    "title": "Intelligence Community"
   },
   {
     "abbreviation": "ICT",
@@ -313,6 +348,11 @@
   {
     "abbreviation": "JOCAS",
     "title": "Job Order Accounting System",
+    "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "JSOC",
+    "title": "Joint Special Operations Command",
     "category": "Projects/Agencies"
   },
   {
@@ -366,6 +406,16 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "NSA",
+    "title": "National Security Agency",
+    "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "NYHF",
+    "title": "New York Harbor Foundation",
+    "category": "Projects/Agencies"
+  },
+  {
     "abbreviation": "OA",
     "title": " Office of the Administrator"
   },
@@ -384,6 +434,10 @@
     "category": "Government Terms"
   },
   {
+    "abbreviation": "OIT",
+    "title": "Office of Information Technology"
+  },
+  {
     "abbreviation": "OSM",
     "title": "Organizational Strength Measure"
   },
@@ -391,6 +445,11 @@
     "abbreviation": "PC",
     "title": "Passion Coach",
     "category": "Role Terms"
+  },
+  {
+    "abbreviation": "PCS",
+    "title": "Pinellas County Schools",
+    "category": "Projects/Agencies"
   },
   {
     "abbreviation": "PD",
@@ -510,6 +569,11 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "SSN",
+    "title": "Sources Sought Notice",
+    "category": "Business Terms"
+  },
+  {
     "abbreviation": "STTR",
     "title": "Small Business Technology Transfer",
     "description": "highly competitive programs that encourage domestic small businesses to engage in Federal Research/Research and Development"
@@ -524,6 +588,11 @@
     "category": "Business Terms"
   },
   {
+    "abbreviation": "UMCES",
+    "title": "University of Maryland Center for Environmental Science",
+    "category": "Projects/Agencies"
+  },
+  {
     "abbreviation": "USDS",
     "title": "United States Digital Service",
     "category": "Projects/Agencies"
@@ -534,8 +603,23 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "USCIS",
+    "title": "US Citizenship and Immigration Services",
+    "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "USSS",
+    "title": "US Secret Service",
+    "category": "Projects/Agencies"
+  },
+  {
     "abbreviation": "UTPC",
     "title": "Unite to Prevent Cancer",
+    "category": "Projects/Agencies"
+  },
+  {
+    "abbreviation": "VA",
+    "title": "Department of Veteran's Affairs",
     "category": "Projects/Agencies"
   },
   {
@@ -545,5 +629,10 @@
   {
     "abbreviation": "WCAG",
     "title": "Web Content Accessibility Guidelines"
+  },
+  {
+    "abbreviation": "WHS",
+    "title": "Washington Headquarters Services",
+    "category": "Projects/Agencies"
   }
 ]
