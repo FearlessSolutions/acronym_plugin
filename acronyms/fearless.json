@@ -45,8 +45,14 @@
     "description": "CMS Portfolio"
   },
   {
+    "abbreviation": "B&C",
+    "title": "Brand and Communications",
+    "category": "Role Terms"
+  },
+  {
     "abbreviation": "BC",
-    "title": "Brand and Communications"
+    "title": "Brand and Communications",
+    "category": "Role Terms"
   },
   {
     "abbreviation": "BCDA",
@@ -100,6 +106,11 @@
     "category": "Government Terms"
   },
   {
+    "abbreviation": "CBO",
+    "title": "Chief Brand Officer",
+    "category": "Role Terms"
+  },
+  {
     "abbreviation": "CC0",
     "title": "No copyright reserved",
     "description": "CC0 is the 'no copyright reserved' option in the Creative Commons toolkit"
@@ -112,6 +123,16 @@
   {
     "abbreviation": "CEO",
     "title": "Chief Executive Officer",
+    "category": "Role Terms"
+  },
+  {
+    "abbreviation": "CFO",
+    "title": "Chief Financial Officer",
+    "category": "Role Terms"
+  },
+  {
+    "abbreviation": "CGO",
+    "title": "Chief Growth Officer",
     "category": "Role Terms"
   },
   {
@@ -146,7 +167,7 @@
   },
   {
     "abbreviation": "COI",
-    "title": "Communities of Interest"
+    "title": "Community of Interest"
   },
   {
     "abbreviation": "COO",
@@ -169,6 +190,11 @@
     "category": "Projects/Agencies"
   },
   {
+    "abbreviation": "CPO",
+    "title": "Chief People Officer",
+    "category": "Role Terms"
+  },
+  {
     "abbreviation": "CRM",
     "title": "Customer Relationship Management",
     "category": "Business Terms"
@@ -189,6 +215,11 @@
   {
     "abbreviation": "DIB",
     "title": "Defense Industrial Base"
+  },
+  {
+    "abbreviation": "DM",
+    "title": "Delivery Manager",
+    "category": "Role Terms"
   },
   {
     "abbreviation": "DoD",
@@ -228,8 +259,14 @@
     "description": "A thought tool used to raise awareness about an issue and present possible options and outcomes"
   },
   {
+    "abbreviation": "F&I",
+    "title": "Finance and Infrastructure",
+    "category": "Role Terms"
+  },
+  {
     "abbreviation": "FI",
-    "title": "Finance and Infrastructure"
+    "title": "Finance and Infrastructure",
+    "category": "Role Terms"
   },
   {
     "abbreviation": "GCDS",
@@ -361,7 +398,7 @@
     "category": "Role Terms"
   },
   {
-    "abbreviation": "PD",
+    "abbreviation": "PrD",
     "title": "Practice Director",
     "category": "Role Terms"
   },
