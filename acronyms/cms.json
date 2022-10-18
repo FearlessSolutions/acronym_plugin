@@ -118,6 +118,11 @@
     "title": "Affordability Exemption Tool"
   },
   {
+    "abbreviation": "AFS",
+    "title": "Accenture Federal Services",
+    "description": "Accenture Federal Services (AFS) team supports all the AFS architecture for the Marketplace.  This covers all the Products (and servers) AFS manages including EE (including MyAccount), SES, IES, MCR. DSRS, PM, FM, Correspondence, EBP"
+  },
+  {
     "abbreviation": "AGI",
     "title": "adjusted gross income"
   },
@@ -420,6 +425,10 @@
     "title": "Continuity of Care Document"
   },
   {
+    "abbreviation": "CCG",
+    "title": "cloud.cms.gov"
+  },  
+  {
     "abbreviation": "CCIC",
     "title": "CMS Cybersecurity Integration Center"
   },
@@ -569,7 +578,7 @@
     "title": "Capability Maturity Model Integration"
   },
   {
-    "abbreviation": "CMS*",
+    "abbreviation": "CMS",
     "title": "Centers for Medicare & Medicaid Services"
   },
   {
@@ -589,7 +598,7 @@
     "title": "Class of Admission"
   },
   {
-    "abbreviation": "COBRA*",
+    "abbreviation": "COBRA",
     "title": "Consolidated Omnibus Budget Reconciliation Act"
   },
   {
@@ -667,6 +676,10 @@
     "title": "Clinical Services Discovery"
   },
   {
+    "abbreviation": "CSG",
+    "title": "Consumer Support Group"
+  },  
+  {
     "abbreviation": "CSL",
     "title": "Customer Service Lead"
   },
@@ -737,7 +750,7 @@
     "title": "Data Match Issue"
   },
   {
-    "abbreviation": "DOB*",
+    "abbreviation": "DOB",
     "title": "Date of Birth"
   },
   {
@@ -932,7 +945,7 @@
     "title": "Enterprise Identity Management"
   },
   {
-    "abbreviation": "EIN*",
+    "abbreviation": "EIN",
     "title": "Employer Identification Number"
   },
   {
@@ -1044,7 +1057,7 @@
     "title": "Frequently Asked Question"
   },
   {
-    "abbreviation": "FAQ*",
+    "abbreviation": "FAQ",
     "title": "Frequently Asked Questions"
   },
   {
@@ -1318,7 +1331,7 @@
     "title": "Health Insurance Portability and Accountability Act"
   },
   {
-    "abbreviation": "HIPAA*",
+    "abbreviation": "HIPAA",
     "title": "Health Insurance Portability and Accountability Act"
   },
   {
@@ -1419,7 +1432,7 @@
     "title": "Identifier"
   },
   {
-    "abbreviation": "ID*",
+    "abbreviation": "ID",
     "title": "Identification"
   },
   {
@@ -1479,7 +1492,7 @@
     "title": "Informal Resolution Inbound/Outbound Call"
   },
   {
-    "abbreviation": "IRA*",
+    "abbreviation": "IRA",
     "title": "Individual Retirement Account"
   },
   {
@@ -1499,7 +1512,7 @@
     "title": "Introductory Reference Document"
   },
   {
-    "abbreviation": "IRS*",
+    "abbreviation": "IRS",
     "title": "Internal Revenue Service"
   },
   {
@@ -1517,7 +1530,7 @@
     "description": "The ISSO must ensure the duties of the Security Control Assessor and Contingency Planning Coordinator are completed as described in the HHS IS2P Appendix A Sections 18 and 24."
   },
   {
-    "abbreviation": "IT*",
+    "abbreviation": "IT",
     "title": "Information Technology"
   },
   {
@@ -1589,7 +1602,7 @@
     "title": "Logical Observation Identifiers, Names and Codes"
   },
   {
-    "abbreviation": "LVM*",
+    "abbreviation": "LVM",
     "title": "Left Voice Message"
   },
   {
@@ -2560,7 +2573,7 @@
     "title": "Social Security Act"
   },
   {
-    "abbreviation": "SSA*",
+    "abbreviation": "SSA",
     "title": "Social Security Administration"
   },
   {
@@ -2568,7 +2581,7 @@
     "title": "Social Security Disability "
   },
   {
-    "abbreviation": "SSI*",
+    "abbreviation": "SSI",
     "title": "Supplemental Security Income"
   },
   {
@@ -2576,7 +2589,7 @@
     "title": "Secure Socket Layer"
   },
   {
-    "abbreviation": "SSN*",
+    "abbreviation": "SSN",
     "title": "Social Security Number"
   },
   {
