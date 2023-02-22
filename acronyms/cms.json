@@ -20,17 +20,25 @@
     "title": "Medicaid Alternative Benefit Plan"
   },
   {
-    "abbreviation": "ACA",
-    "title": "Affordable Care Act",
-    "description": "Patient Protection and Affordable Care Act of 2010"
-  },
-  {
     "abbreviation": "AC",
     "title": "Access Control"
   },
   {
+    "abbreviation": "AC",
+    "title": "Appeals Clerk"
+  },
+  {
+    "abbreviation": "ACA",
+    "title": "Affordable Care Act",
+    "description": "Patient Protection and Affordable Care Act and the Reconciliation Act of 2010"
+  },
+  {
     "abbreviation": "ACC",
     "title": "Accountable care collaborative"
+  },
+  {
+    "abbreviation": "ACD",
+    "title": "Automatic Call Distribution"
   },
   {
     "abbreviation": "ACE",
@@ -41,8 +49,16 @@
     "title": "Administration for Children and Families"
   },
   {
+    "abbreviation": "ACFR",
+    "title": "Appellant Case File Request"
+  },
+  {
     "abbreviation": "ACIP",
     "title": "Advisory Committee on Immunization Practices"
+  },
+  {
+    "abbreviation": "ACK",
+    "title": "Acknowledgement"
   },
   {
     "abbreviation": "ACO",
@@ -61,12 +77,12 @@
     "title": "Accountable Care Organization User Interface"
   },
   {
-    "abbreviation": "ADT",
-    "title": "Admissions, Discharges, Transfers"
-  },
-  {
     "abbreviation": "ACS",
     "title": "American Community Survey"
+  },
+  {
+    "abbreviation": "AD",
+    "title": "Appeal Decision"
   },
   {
     "abbreviation": "ADA",
@@ -81,53 +97,106 @@
     "title": "attention deficit hyperactivity disorder"
   },
   {
+    "abbreviation": "Adj.",
+    "title": "Adjudication"
+  },
+  {
+    "abbreviation": "Admin.",
+    "title": "Administrative"
+  },
+  {
     "abbreviation": "ADO",
     "title": "Application Delivery Organization",
     "description": "A group, ex. Fearless, who is creating a software product"
   },
   {
-    "abbreviation": "AHE",
-    "title": "Adjudication, Hearings & Effectuation"
+    "abbreviation": "ADT",
+    "title": "Admissions, Discharges, Transfers"
+  },
+  {
+    "abbreviation": "AET",
+    "title": "Affordability Exemption Tool"
+  },
+  {
+    "abbreviation": "AFS",
+    "title": "Accenture Federal Services",
+    "description": "Accenture Federal Services (AFS) team supports all the AFS architecture for the Marketplace.  This covers all the Products (and servers) AFS manages including EE (including MyAccount), SES, IES, MCR. DSRS, PM, FM, Correspondence, EBP"
   },
   {
     "abbreviation": "AGI",
     "title": "adjusted gross income"
   },
   {
+    "abbreviation": "AGI",
+    "title": "Adjusted Gross Income"
+  },
+  {
+    "abbreviation": "AHC",
+    "title": "Advanced Hearings Consultant"
+  },
+  {
+    "abbreviation": "AHE",
+    "title": "Adjudication, Hearings & Effectuation"
+  },
+  {
     "abbreviation": "AHRQ",
     "title": "Agency for Healthcare Research and Quality"
+  },
+  {
+    "abbreviation": "AI",
+    "title": "American Indian"
   },
   {
     "abbreviation": "AIM",
     "title": "Accountable Care Organization (ACO) Investment Model"
   },
   {
+    "abbreviation": "AIP",
+    "title": "Appeal In Progress (IR notice)"
+  },
+  {
+    "abbreviation": "AIRC",
+    "title": "Advanced Informal Resolution Conference"
+  },
+  {
     "abbreviation": "AIU",
     "title": "Adopt, Implement, Upgrade"
   },
   {
-    "abbreviation": "APCD",
-    "title": "All Payer Claims Database"
+    "abbreviation": "AKA",
+    "title": "Also Known As"
   },
   {
-    "abbreviation": "AP",
-    "title": "Acquisition Plan"
+    "abbreviation": "AKST",
+    "title": "Alaska Standard Time or Alaska Time"
   },
   {
-    "abbreviation": "APA",
-    "title": "Administrative Program Accounting"
+    "abbreviation": "AT",
+    "title": "Alaska Standard Time or Alaska Time"
   },
   {
-    "abbreviation": "APC",
-    "title": "Ambulatory Payment Classification or Advanced Primary Care"
+    "abbreviation": "ALE",
+    "title": "Applicable Large Employer"
   },
   {
-    "abbreviation": "APD",
-    "title": "Advanced Planning Document"
+    "abbreviation": "ALJ",
+    "title": "Administrative Law Judge"
   },
   {
-    "abbreviation": "APM",
-    "title": "Alternative Payment Model"
+    "abbreviation": "AM",
+    "title": "Account Manager"
+  },
+  {
+    "abbreviation": "AN",
+    "title": "Alaskan Native"
+  },
+  {
+    "abbreviation": "ANCSA",
+    "title": "Alaska Native Claims Settlement Act"
+  },
+  {
+    "abbreviation": "ANI",
+    "title": "Automatic Number Identification"
   },
   {
     "abbreviation": "ANSI",
@@ -138,24 +207,116 @@
     "title": "Authorizing Official"
   },
   {
+    "abbreviation": "AOR",
+    "title": "Appointment of Representative"
+  },
+  {
+    "abbreviation": "AP",
+    "title": "Acquisition Plan"
+  },
+  {
     "abbreviation": "AP",
     "title": "Authority and Purpose"
+  },
+  {
+    "abbreviation": "AP",
+    "title": "Appellant"
+  },
+  {
+    "abbreviation": "APA",
+    "title": "Administrative Program Accounting"
+  },
+  {
+    "abbreviation": "APC",
+    "title": "Ambulatory Payment Classification or Advanced Primary Care"
+  },
+  {
+    "abbreviation": "APCD",
+    "title": "All Payer Claims Database"
+  },
+  {
+    "abbreviation": "APD",
+    "title": "Advanced Planning Document"
+  },
+  {
+    "abbreviation": "APL",
+    "title": "Appeal"
+  },
+  {
+    "abbreviation": "APM",
+    "title": "Alternative Payment Model"
+  },
+  {
+    "abbreviation": "APPS",
+    "title": "Automated Plan Payment System"
+  },
+  {
+    "abbreviation": "APTC",
+    "title": "Advance Payments of the Premium Tax Credit or Advance Premium Tax Credit"
+  },
+  {
+    "abbreviation": "AQL",
+    "title": "Acceptable Quality Level"
+  },
+  {
+    "abbreviation": "AQM",
+    "title": "Adult Quality Measures"
   },
   {
     "abbreviation": "AR",
     "title": "Accountability, Audit, and Risk Management"
   },
   {
+    "abbreviation": "AR",
+    "title": "Authorized Representative"
+  },
+  {
+    "abbreviation": "ARC",
+    "title": "Advanced Resolution Consultant"
+  },
+  {
+    "abbreviation": "AREMAC",
+    "title": " The Analytics and Reporting Environment for Medicaid And CHIP is a data warehouse, designed to support diverse analytic workloads."
+  },
+  {
+    "abbreviation": "ARRA",
+    "title": "American Recovery and Reinvestment Act"
+  },
+  {
     "abbreviation": "ARS",
     "title": "Acceptable Risk Safeguards"
+  },
+  {
+    "abbreviation": "ART",
+    "title": "Accommodation Review Team"
+  },
+  {
+    "abbreviation": "ASAP",
+    "title": "As Soon As Possible"
   },
   {
     "abbreviation": "ASFR",
     "title": "Assistant Secretary for Financial Resources"
   },
   {
+    "abbreviation": "AST",
+    "title": "Atlantic Standard Time"
+  },
+  {
     "abbreviation": "AT",
     "title": "Awareness and Training"
+  },
+  {
+    "abbreviation": "ATCB",
+    "title": "Authorized Testing and Certification Body"
+  },
+  {
+    "abbreviation": "ATL",
+    "title": "Adjudication Team Lead"
+  },
+  {
+    "abbreviation": "ATO",
+    "title": "Authority to Operate"
   },
   {
     "abbreviation": "AU",
@@ -166,32 +327,16 @@
     "title": "Anti-Virus"
   },
   {
-    "abbreviation": "APPS",
-    "title": "Automated Plan Payment System"
-  },
-  {
-    "abbreviation": "AQM",
-    "title": "Adult Quality Measures"
-  },
-  {
-    "abbreviation": "ARRA",
-    "title": "American Recovery and Reinvestment Act"
-  },
-  {
-    "abbreviation": "AREMAC",
-    "title": " The Analytics and Reporting Environment for Medicaid And CHIP is a data warehouse, designed to support diverse analytic workloads."
-  },
-  {
-    "abbreviation": "ATCB",
-    "title": "Authorized Testing and Certification Body"
-  },
-  {
-    "abbreviation": "ATO",
-    "title": "Authority to Operate"
+    "abbreviation": "AW",
+    "title": "Appeals Worker"
   },
   {
     "abbreviation": "BA",
     "title": "Business Associates"
+  },
+  {
+    "abbreviation": "BA",
+    "title": "Business Analyst"
   },
   {
     "abbreviation": "BAA",
@@ -202,12 +347,16 @@
     "title": "Breach Analysis Team"
   },
   {
+    "abbreviation": "BHP",
+    "title": "Basic Health Plan"
+  },
+  {
     "abbreviation": "BI",
     "title": "Business Intelligence"
   },
   {
-    "abbreviation": "BOD",
-    "title": "Binding Operational Directive"
+    "abbreviation": "BIA",
+    "title": "Bureau of Indian Affairs"
   },
   {
     "abbreviation": "bigMAC",
@@ -218,78 +367,20 @@
     "title": "Balancing Incentive Program"
   },
   {
+    "abbreviation": "BIX",
+    "title": "Business Intelligence Exchange"
+  },
+  {
+    "abbreviation": "BOD",
+    "title": "Binding Operational Directive"
+  },
+  {
     "abbreviation": "C&S",
     "title": "Conditions and Standards"
   },
   {
-    "abbreviation": "CA",
-    "title": "Security Assessment and Authorization"
-  },
-
-  {
-    "abbreviation": "CA",
-    "title": "Security Assessment and Authorization"
-  },
-  {
-    "abbreviation": "CAO",
-    "title": "Chief Acquisition Officer"
-  },
-  {
-    "abbreviation": "CA",
-    "title": "Security Assessment and Authorization"
-  },
-  {
-    "abbreviation": "CCB",
-    "title": "Change Control Board"
-  },
-  {
-    "abbreviation": "CCIC",
-    "title": "CMS Cybersecurity Integration Center"
-  },
-  {
-    "abbreviation": "CDM",
-    "title": "Continuous Diagnostics and Mitigation"
-  },
-  {
-    "abbreviation": "CDO",
-    "title": "Chief Data Officer"
-  },
-  {
-    "abbreviation": "CFACTS",
-    "title": "CMS FISMA Controls Tracking System"
-  },
-  {
-    "abbreviation": "CFO",
-    "title": "Chief Financial Officer"
-  },
-  {
-    "abbreviation": "CFR",
-    "title": "Code of Federal Regulations"
-  },
-  {
-    "abbreviation": "CIO",
-    "title": "Chief Information Officer"
-  },
-  {
-    "abbreviation": "CISO",
-    "title": "Chief Information Security Officer"
-  },
-  {
-    "abbreviation": "CLD",
-    "title": "Cloud Computing"
-  },
-  {
     "abbreviation": "CAH",
     "title": "Critical Access Hospital"
-  },
-  {
-    "abbreviation": "CALiPHR",
-    "title": "CQM (Clinical Quality Measures) Aligned Population Health Reporting"
-  },
-  {
-    "abbreviation": "CARTS",
-    "title": "Children's Health Insurance Program Annual Report Template System",
-    "description": "One of the five separate systems within MACPro"
   },
   {
     "abbreviation": "CAHPG",
@@ -297,12 +388,53 @@
     "description": "One of seven groups within CMCS"
   },
   {
+    "abbreviation": "CALiPHR",
+    "title": "CQM (Clinical Quality Measures) Aligned Population Health Reporting"
+  },
+  {
+    "abbreviation": "CAO",
+    "title": "Chief Acquisition Officer"
+  },
+  {
+    "abbreviation": "CAP",
+    "title": "Consumer Assistance Program"
+  },
+  {
+    "abbreviation": "CAPA",
+    "title": "Corrective Action/Preventive Action"
+  },
+  {
+    "abbreviation": "CARTS",
+    "title": "Children's Health Insurance Program Annual Report Template System",
+    "description": "One of the five separate systems within MACPro"
+  },
+  {
     "abbreviation": "CBES",
     "title": "State Children's Health Insurance Budget and Expenditure System"
   },
   {
+    "abbreviation": "CC",
+    "title": "Call Center"
+  },
+  {
+    "abbreviation": "CCB",
+    "title": "Change Control Board"
+  },
+  {
     "abbreviation": "CCD",
     "title": "Continuity of Care Document"
+  },
+  {
+    "abbreviation": "CCG",
+    "title": "cloud.cms.gov"
+  },  
+  {
+    "abbreviation": "CCIC",
+    "title": "CMS Cybersecurity Integration Center"
+  },
+  {
+    "abbreviation": "CCIIO",
+    "title": "Center for Consumer Information and Insurance Oversight"
   },
   {
     "abbreviation": "CCIIO",
@@ -311,6 +443,10 @@
   {
     "abbreviation": "CCN",
     "title": "CMS Certification Number"
+  },
+  {
+    "abbreviation": "CCN",
+    "title": "Consumer Confirmation Notice"
   },
   {
     "abbreviation": "CCR",
@@ -323,6 +459,14 @@
   {
     "abbreviation": "CDC",
     "title": "Centers for Disease Control and Prevention"
+  },
+  {
+    "abbreviation": "CDM",
+    "title": "Continuous Diagnostics and Mitigation"
+  },
+  {
+    "abbreviation": "CDO",
+    "title": "Chief Data Officer"
   },
   {
     "abbreviation": "CDR",
@@ -349,20 +493,72 @@
     "title": "Certified Electronic Health Record Technology"
   },
   {
+    "abbreviation": "CEV",
+    "title": "Composite Eligibility Verification"
+  },
+  {
+    "abbreviation": "CFACTS",
+    "title": "CMS FISMA Controls Tracking System"
+  },
+  {
+    "abbreviation": "CFO",
+    "title": "Chief Financial Officer"
+  },
+  {
+    "abbreviation": "CFR",
+    "title": "Code of Federal Regulations"
+  },
+  {
     "abbreviation": "CFR",
     "title": "Technology Code of Federal Regulations"
+  },
+  {
+    "abbreviation": "CFR",
+    "title": "Code of Federal Regulations"
+  },
+  {
+    "abbreviation": "Chg(s)",
+    "title": "Change(s)"
   },
   {
     "abbreviation": "CHIP",
     "title": "Children's Health Insurance Program"
   },
   {
+    "abbreviation": "CHO",
+    "title": "Chief Hearing Officer"
+  },
+  {
     "abbreviation": "CHPL",
     "title": "Certified Health Information Technology Products List"
   },
   {
+    "abbreviation": "CiC",
+    "title": "Change in Circumstance"
+  },
+  {
     "abbreviation": "CICD",
     "title": "Continuous Integration/Continuous Delivery"
+  },
+  {
+    "abbreviation": "CICQ",
+    "title": "Change In Circumstances Questionnaire"
+  },
+  {
+    "abbreviation": "CIO",
+    "title": "Chief Information Officer"
+  },
+  {
+    "abbreviation": "CISO",
+    "title": "Chief Information Security Officer"
+  },
+  {
+    "abbreviation": "CITI",
+    "title": "Citizenship"
+  },
+  {
+    "abbreviation": "CLD",
+    "title": "Cloud Computing"
   },
   {
     "abbreviation": "CLM",
@@ -372,6 +568,18 @@
     "abbreviation": "CMCS",
     "title": "Center for Medicaid and CHIP (Children's Health Insurance) Services",
     "description": "Responsible for the administration of the Medicaid and CHIP programs, in partnership with 50 states, DC, and five territories"
+  },
+  {
+    "abbreviation": "CMCS",
+    "title": "Center for Medicaid and CHIP Services"
+  },
+  {
+    "abbreviation": "CMMI",
+    "title": "Capability Maturity Model Integration"
+  },
+  {
+    "abbreviation": "CMS",
+    "title": "Centers for Medicare & Medicaid Services"
   },
   {
     "abbreviation": "CMSDS",
@@ -386,12 +594,40 @@
     "title": "Central Office"
   },
   {
+    "abbreviation": "COA",
+    "title": "Class of Admission"
+  },
+  {
+    "abbreviation": "COBRA",
+    "title": "Consolidated Omnibus Budget Reconciliation Act"
+  },
+  {
+    "abbreviation": "COI",
+    "title": "Conflict of Interest"
+  },
+  {
+    "abbreviation": "COMM",
+    "title": "Communication"
+  },
+  {
     "abbreviation": "CoP",
     "title": "Community of Practice"
   },
   {
+    "abbreviation": "CORR",
+    "title": "Correspondence"
+  },
+  {
+    "abbreviation": "CORs",
+    "title": "Contracting Officer Representatives"
+  },
+  {
     "abbreviation": "CPC",
     "title": "Comprehensive Primary Care"
+  },
+  {
+    "abbreviation": "CPI-U",
+    "title": "Consumer Price Index for All Urban Consumers"
   },
   {
     "abbreviation": "CPOC",
@@ -428,6 +664,10 @@
     "title": "Chesapeake Regional Information System for our Patients"
   },
   {
+    "abbreviation": "CRM",
+    "title": "Customer Relationship Management"
+  },
+  {
     "abbreviation": "CSA",
     "title": "CMS System Administrator"
   },
@@ -436,12 +676,52 @@
     "title": "Clinical Services Discovery"
   },
   {
+    "abbreviation": "CSG",
+    "title": "Consumer Support Group"
+  },  
+  {
+    "abbreviation": "CSL",
+    "title": "Customer Service Lead"
+  },
+  {
+    "abbreviation": "CSR",
+    "title": "Cost Sharing Reduction"
+  },
+  {
+    "abbreviation": "CST",
+    "title": "Central Standard Time / Central Time"
+  },
+  {
+    "abbreviation": "CTRL",
+    "title": "Control"
+  },
+  {
     "abbreviation": "CY",
     "title": "Calendar Year"
   },
   {
+    "abbreviation": "CY",
+    "title": "Coverage Year"
+  },
+  {
+    "abbreviation": "DACA",
+    "title": "Deferred Action for Childhood Arrivals"
+  },
+  {
     "abbreviation": "DAM",
     "title": "Data-Access Module"
+  },
+  {
+    "abbreviation": "DAR",
+    "title": "Designation of Authorized Representation"
+  },
+  {
+    "abbreviation": "DBA",
+    "title": "Doing Business As"
+  },
+  {
+    "abbreviation": "DE",
+    "title": "Data Entry"
   },
   {
     "abbreviation": "DEHPG",
@@ -454,8 +734,36 @@
     "description": "an agency official (federal government employee) with shared responsibilities with the CMS Business Owner identified in the HHS IS2P Appendix A Section 22, Data Owner/Business Owner."
   },
   {
+    "abbreviation": "DHS",
+    "title": "Department of Homeland Security"
+  },
+  {
     "abbreviation": "DICOM",
     "title": "Digital Imaging and Communications in Medicine"
+  },
+  {
+    "abbreviation": "DMAIC",
+    "title": "Define, Measure, Analyze, Improve, Control"
+  },
+  {
+    "abbreviation": "DMI",
+    "title": "Data Match Issue"
+  },
+  {
+    "abbreviation": "DOB",
+    "title": "Date of Birth"
+  },
+  {
+    "abbreviation": "Docs",
+    "title": "Documents"
+  },
+  {
+    "abbreviation": "DOD",
+    "title": "Department of Defense"
+  },
+  {
+    "abbreviation": "DOL",
+    "title": "Department of Labor"
   },
   {
     "abbreviation": "DP",
@@ -477,6 +785,10 @@
     "title": "Disproportionate Share Hospital"
   },
   {
+    "abbreviation": "DSH",
+    "title": "Data Services Hub"
+  },
+  {
     "abbreviation": "DSM",
     "title": "Direct Secure Messaging"
   },
@@ -491,25 +803,37 @@
     "description": "Team responsible for automating data transfer between Appeals Call Center and EACMS"
   },
   {
+    "abbreviation": "DST",
+    "title": "Daylight Savings Time"
+  },
+  {
     "abbreviation": "DTO",
     "title": "Marketplace Appeals Group (MAG) Division of Technology and Operations"
   },
   {
-    "abbreviation": "DZDD",
-    "title": "Daytime Zero Downtime Deployments"
+    "abbreviation": "DVG",
+    "title": "Document Verification Guide"
   },
   {
     "abbreviation": "E&E",
     "title": "Eligibility & Enrollment"
   },
   {
-    "abbreviation": "eAPD",
-    "title": "Electronic Advanced Planning Document"
+    "abbreviation": "E.G.",
+    "title": "Exempli Gratia; Latin meaning \"for example\""
   },
   {
     "abbreviation": "EACMS",
-    "title": "Eligibility Appeals Content Management System",
+    "title": "Eligibility Appeals Case Management System",
     "description": "Designed and managed by Maximus contractor, holds EAOS data in a central repository"
+  },
+  {
+    "abbreviation": "EAD",
+    "title": "Employment Authorization Document"
+  },
+  {
+    "abbreviation": "EAII",
+    "title": "Expired Annual Income Inconsistency"
   },
   {
     "abbreviation": "EAII",
@@ -520,12 +844,32 @@
     "title": "Eligibility Appeals Operations Support"
   },
   {
+    "abbreviation": "EAOS",
+    "title": "Eligibility Appeals Operations Support"
+  },
+  {
+    "abbreviation": "eAPD",
+    "title": "Electronic Advanced Planning Document"
+  },
+  {
     "abbreviation": "EATS",
     "title": "Enterprise Agile Transformation Services"
   },
   {
     "abbreviation": "EB",
     "title": "Enrollment Benefits"
+  },
+  {
+    "abbreviation": "ECAT",
+    "title": "Employer Coverage Affordability Tool"
+  },
+  {
+    "abbreviation": "eCFR",
+    "title": "electronic Code of Federal Regulations"
+  },
+  {
+    "abbreviation": "ECN",
+    "title": "Exemption Certificate Number"
   },
   {
     "abbreviation": "eCQM",
@@ -540,6 +884,18 @@
     "title": "Eligibility Determination Notice"
   },
   {
+    "abbreviation": "EDN",
+    "title": "Eligibility Determination Notice"
+  },
+  {
+    "abbreviation": "EE",
+    "title": "Eligibility & Enrollment"
+  },
+  {
+    "abbreviation": "Eff",
+    "title": "Effective"
+  },
+  {
     "abbreviation": "effectuation",
     "title": "The processed "
   },
@@ -552,6 +908,14 @@
     "title": "Electronic File Transfer"
   },
   {
+    "abbreviation": "EFT",
+    "title": "Electronic Funds Transfer"
+  },
+  {
+    "abbreviation": "EFTS",
+    "title": "Electronic File Transfer"
+  },
+  {
     "abbreviation": "EG",
     "title": "Eligibility Group",
     "description": "Normally followed by a priority number"
@@ -561,12 +925,28 @@
     "title": "Eligible Hospital"
   },
   {
+    "abbreviation": "EHB",
+    "title": "Essential Health Benefit"
+  },
+  {
+    "abbreviation": "EHP",
+    "title": "Essential Health Plan"
+  },
+  {
     "abbreviation": "EHR",
     "title": "Electronic Health Record"
   },
   {
     "abbreviation": "EIDM",
     "title": "Enterprise Identity Management"
+  },
+  {
+    "abbreviation": "EIDM",
+    "title": "Enterprise Identity Management"
+  },
+  {
+    "abbreviation": "EIN",
+    "title": "Employer Identification Number"
   },
   {
     "abbreviation": "ELR",
@@ -579,6 +959,10 @@
   {
     "abbreviation": "EOC",
     "title": "Electronic Outbound Communication"
+  },
+  {
+    "abbreviation": "EOY",
+    "title": "End of Year"
   },
   {
     "abbreviation": "EP",
@@ -597,6 +981,10 @@
     "title": "External Quality Review Organization"
   },
   {
+    "abbreviation": "ER",
+    "title": "Employer"
+  },
+  {
     "abbreviation": "eRFI",
     "title": "Electronic Request for Information (RFI)"
   },
@@ -605,8 +993,40 @@
     "title": "Electronic Prescribing"
   },
   {
+    "abbreviation": "ES",
+    "title": "Eligibility Support"
+  },
+  {
     "abbreviation": "ESB",
     "title": "Enterprise Service Bus"
+  },
+  {
+    "abbreviation": "ESC",
+    "title": "Employer Sponsored Coverage"
+  },
+  {
+    "abbreviation": "ESC MEC",
+    "title": "Employer Sponsored Coverage Minimum Essential Coverage"
+  },
+  {
+    "abbreviation": "ESD",
+    "title": "Eligibility Support Desktop"
+  },
+  {
+    "abbreviation": "ESD-CU",
+    "title": "Eligibility Support Desktop-Change Utility"
+  },
+  {
+    "abbreviation": "ESI MEC",
+    "title": "Employer Sponsored Insurance Minimum Essential Coverage"
+  },
+  {
+    "abbreviation": "ESRP",
+    "title": "Employer Shared Responsibility Payment"
+  },
+  {
+    "abbreviation": "EST",
+    "title": "Eastern Standard Time / Eastern Time"
   },
   {
     "abbreviation": "EUA",
@@ -617,12 +1037,36 @@
     "title": "End User Application"
   },
   {
+    "abbreviation": "Eval",
+    "title": "Evaluation"
+  },
+  {
+    "abbreviation": "Exp.",
+    "title": "Expiration"
+  },
+  {
+    "abbreviation": "FA",
+    "title": "Financial Assistance"
+  },
+  {
+    "abbreviation": "FAE",
+    "title": "Federal Appeals Entity"
+  },
+  {
     "abbreviation": "FAQ",
     "title": "Frequently Asked Question"
   },
   {
+    "abbreviation": "FAQ",
+    "title": "Frequently Asked Questions"
+  },
+  {
     "abbreviation": "FAQs",
     "title": "Frequently Asked Questions"
+  },
+  {
+    "abbreviation": "FAR",
+    "title": "Federal Acquisition Regulation"
   },
   {
     "abbreviation": "FBI",
@@ -638,6 +1082,14 @@
     "title": "Federal Risk and Authorization Management Program"
   },
   {
+    "abbreviation": "FEHBP",
+    "title": "Federal Employee\u2019s Health Benefits Plan (administered by OPM) except Intelligence and Postal service (not OPM)"
+  },
+  {
+    "abbreviation": "FEMA",
+    "title": "Federal Emergency Management Agency"
+  },
+  {
     "abbreviation": "FERPA",
     "title": "Family Educational Rights and Privacy Act"
   },
@@ -645,6 +1097,14 @@
     "abbreviation": "FFE",
     "title": "Federally-facilitated Exchange",
     "description": "Federal government established an FFE in any state that did not elect to establish an SBE see https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/Enrollment%20Manual_062618.pdf"
+  },
+  {
+    "abbreviation": "FFE",
+    "title": "Federally Facilitated Exchange"
+  },
+  {
+    "abbreviation": "FFM",
+    "title": "Federally Facilitated Marketplace"
   },
   {
     "abbreviation": "FFP",
@@ -667,8 +1127,16 @@
     "title": "Federal Hearing Officer"
   },
   {
+    "abbreviation": "FHO",
+    "title": "Federal Hearing Officer"
+  },
+  {
     "abbreviation": "FISMA",
     "title": "Federal Information Security Management Act"
+  },
+  {
+    "abbreviation": "FLSA",
+    "title": "Fair Labor Standards Act"
   },
   {
     "abbreviation": "FMAP",
@@ -680,9 +1148,17 @@
     "description": "One of seven groups within CMCS"
   },
   {
+    "abbreviation": "FPG",
+    "title": "Federal Poverty Guide"
+  },
+  {
     "abbreviation": "FPL",
     "title": "Federal Poverty Level",
     "description": "Poverty Guidelines can be found at https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines"
+  },
+  {
+    "abbreviation": "FPL",
+    "title": "Federal Poverty Level"
   },
   {
     "abbreviation": "FQHC",
@@ -693,6 +1169,30 @@
     "title": "Federal Regulation(s)"
   },
   {
+    "abbreviation": "FS",
+    "title": "Factual Summary"
+  },
+  {
+    "abbreviation": "FT",
+    "title": "Full Time"
+  },
+  {
+    "abbreviation": "FTA",
+    "title": "Failure To Appear"
+  },
+  {
+    "abbreviation": "FTE",
+    "title": "Full Time Equivalent"
+  },
+  {
+    "abbreviation": "FTFT",
+    "title": "Failure To File Taxes"
+  },
+  {
+    "abbreviation": "FTI",
+    "title": "Federal Tax Information"
+  },
+  {
     "abbreviation": "FTP",
     "title": "File Transfer Protocal"
   },
@@ -701,8 +1201,24 @@
     "title": "Failure to Reconcile"
   },
   {
+    "abbreviation": "FTR",
+    "title": "Failure To Reconcile"
+  },
+  {
     "abbreviation": "FY",
     "title": "Fiscal Year"
+  },
+  {
+    "abbreviation": "FYI",
+    "title": "For Your Information"
+  },
+  {
+    "abbreviation": "GDIT",
+    "title": "General Dynamics Information Technology"
+  },
+  {
+    "abbreviation": "GMT",
+    "title": "Greenwich Mean Time"
   },
   {
     "abbreviation": "GPO",
@@ -710,9 +1226,33 @@
     "description": "The GPO is responsible for the production and distribution of information products and services including the official publications of Congress, the White House and other federal agencies in digital and print formats. GPO provides for permanent public access to Federal Government information at no charge through our Federal Digital System website. Website: https://www.ngsmedicare.com/fr/general-information-guide?lob=93617&state=97256&rgion=93623&selectedArticleId=2531796"
   },
   {
+    "abbreviation": "GPO",
+    "title": "Government Printing Office"
+  },
+  {
+    "abbreviation": "GSA",
+    "title": "General Services Administration"
+  },
+  {
+    "abbreviation": "GSM",
+    "title": "Global System for Mobile Communiactions"
+  },
+  {
+    "abbreviation": "GTL",
+    "title": "Government Task Lead"
+  },
+  {
     "abbreviation": "HARP",
     "title": "Healthcare Quality Information System (HCQIS) Access Roles and Profile",
     "description": "This stack is built on Savynt (for user roles) and Okta (for authentication) as part of enterprise portal"
+  },
+  {
+    "abbreviation": "HAST",
+    "title": "Hawaii-Aleutian Standard Time"
+  },
+  {
+    "abbreviation": "HC",
+    "title": "Human Capital"
   },
   {
     "abbreviation": "HCBS",
@@ -731,20 +1271,48 @@
     "title": "Healthcare Quality Information System"
   },
   {
+    "abbreviation": "HCSM",
+    "title": "Health Care Sharing Ministry"
+  },
+  {
+    "abbreviation": "HD",
+    "title": "Hearing Decision"
+  },
+  {
     "abbreviation": "HEDIS",
     "title": "Healthcare Effectiveness Data and Information Set"
   },
   {
-    "abbreviation": "HHS",
-    "title": "Health Homes State Plan Amendment"
+    "abbreviation": "HH",
+    "title": "Household"
+  },
+  {
+    "abbreviation": "HHI",
+    "title": "Household Income"
   },
   {
     "abbreviation": "HHQM",
     "title": "Health Home Quality Measures"
   },
   {
+    "abbreviation": "HHS",
+    "title": "Health Homes State Plan Amendment"
+  },
+  {
+    "abbreviation": "HHS",
+    "title": "Department of Health and Human Services [formally Health Education and Welfare (HEW)] "
+  },
+  {
+    "abbreviation": "HHSPA",
+    "title": "Health Homes State Plan Amendment"
+  },
+  {
     "abbreviation": "HICS",
     "title": "Health Information Casework System"
+  },
+  {
+    "abbreviation": "HICS",
+    "title": "Health Insurance Casework System"
   },
   {
     "abbreviation": "HIE",
@@ -755,12 +1323,24 @@
     "title": "Health Information Organization"
   },
   {
+    "abbreviation": "HIOS",
+    "title": "Health Insurance Oversight System"
+  },
+  {
+    "abbreviation": "HIPAA",
+    "title": "Health Insurance Portability and Accountability Act"
+  },
+  {
     "abbreviation": "HIPAA",
     "title": "Health Insurance Portability and Accountability Act"
   },
   {
     "abbreviation": "HIS",
     "title": "Hospital Information System"
+  },
+  {
+    "abbreviation": "HIS",
+    "title": "Health-Intervention Services"
   },
   {
     "abbreviation": "HIT",
@@ -775,16 +1355,16 @@
     "title": "Health Information Technology for Economic and Clinical Technical Assistance"
   },
   {
+    "abbreviation": "HIX",
+    "title": "Health Insurance Exchange"
+  },
+  {
     "abbreviation": "HL7",
     "title": "Health Level Seven International"
   },
   {
     "abbreviation": "HPD",
     "title": "Healthcare Provider Directory"
-  },
-  {
-    "abbreviation": "HHSPA",
-    "title": "Health Homes State Plan Amendment"
   },
   {
     "abbreviation": "HPSA",
@@ -795,8 +1375,16 @@
     "title": "Health Professional Shortage Area"
   },
   {
+    "abbreviation": "HRA",
+    "title": "Health Reimbursement Arrangement"
+  },
+  {
     "abbreviation": "HRSA",
     "title": "Health Resources and Services Administration"
+  },
+  {
+    "abbreviation": "I.E.",
+    "title": "Id Est; Latin meaning \u201cthat is\u201d"
   },
   {
     "abbreviation": "IAP",
@@ -812,6 +1400,22 @@
     "title": "Implentation Advanced Planning Document-Update"
   },
   {
+    "abbreviation": "IAR",
+    "title": "Initial Assessment Report"
+  },
+  {
+    "abbreviation": "IB",
+    "title": "Inbound"
+  },
+  {
+    "abbreviation": "IBC",
+    "title": "Inbound Call"
+  },
+  {
+    "abbreviation": "IC",
+    "title": "Intercommunication"
+  },
+  {
     "abbreviation": "ICD-10",
     "title": "International Classification of Diseases, Tenth Revision"
   },
@@ -820,7 +1424,19 @@
     "title": "Integrated Care Model"
   },
   {
+    "abbreviation": "ICM",
+    "title": "Intelligent Contact Management"
+  },
+  {
     "abbreviation": "ID",
+    "title": "Identifier"
+  },
+  {
+    "abbreviation": "ID",
+    "title": "Identification"
+  },
+  {
+    "abbreviation": "IDN",
     "title": "Identifier"
   },
   {
@@ -836,24 +1452,72 @@
     "title": "Indian Health Service"
   },
   {
+    "abbreviation": "IHS",
+    "title": "Indian Health Service"
+  },
+  {
     "abbreviation": "IIS",
     "title": "Immunization Information System"
+  },
+  {
+    "abbreviation": "IMM",
+    "title": "Immigration"
+  },
+  {
+    "abbreviation": "Incon.",
+    "title": "Inconsistency"
+  },
+  {
+    "abbreviation": "Info.",
+    "title": "Information"
   },
   {
     "abbreviation": "IOM",
     "title": "Institute of Medicine"
   },
   {
+    "abbreviation": "IPO",
+    "title": "Input, Process, Output"
+  },
+  {
     "abbreviation": "IR",
     "title": "Immunization Registry"
+  },
+  {
+    "abbreviation": "IR",
+    "title": "Informal Resolution"
+  },
+  {
+    "abbreviation": "IR IBC OBC",
+    "title": "Informal Resolution Inbound/Outbound Call"
+  },
+  {
+    "abbreviation": "IRA",
+    "title": "Individual Retirement Account"
   },
   {
     "abbreviation": "IRAI",
     "title": "Informal RAI (Resident Assessment Instrument)"
   },
   {
+    "abbreviation": "IRC",
+    "title": "Internal Revenue Code"
+  },
+  {
+    "abbreviation": "IRCA",
+    "title": "Immigration Reform and Control Act"
+  },
+  {
     "abbreviation": "IRD",
     "title": "Introductory Reference Document"
+  },
+  {
+    "abbreviation": "IRS",
+    "title": "Internal Revenue Service"
+  },
+  {
+    "abbreviation": "ISO",
+    "title": "Information Security Officer"
   },
   {
     "abbreviation": "ISPG",
@@ -866,6 +1530,10 @@
     "description": "The ISSO must ensure the duties of the Security Control Assessor and Contingency Planning Coordinator are completed as described in the HHS IS2P Appendix A Sections 18 and 24."
   },
   {
+    "abbreviation": "IT",
+    "title": "Information Technology"
+  },
+  {
     "abbreviation": "IUSG",
     "title": "Infrastructure and User Services Group"
   },
@@ -874,12 +1542,68 @@
     "title": "Independent Verification & Validation"
   },
   {
+    "abbreviation": "IVR",
+    "title": "Interactive Voice Response"
+  },
+  {
+    "abbreviation": "IVT",
+    "title": "Income Verification Tool"
+  },
+  {
     "abbreviation": "JAD",
     "title": "Joint application development sessions"
   },
   {
+    "abbreviation": "KPI",
+    "title": "Key Performance Indicator "
+  },
+  {
+    "abbreviation": "KSA",
+    "title": "Knowledge Skills and Abilities"
+  },
+  {
+    "abbreviation": "LAC",
+    "title": "Language Assistance Coordinator"
+  },
+  {
+    "abbreviation": "LAL",
+    "title": "Language Assistance Line"
+  },
+  {
+    "abbreviation": "LCBP",
+    "title": "Lowest Cost Bronze Plan"
+  },
+  {
+    "abbreviation": "LCSP",
+    "title": "Lowest Cost Silver Plan"
+  },
+  {
+    "abbreviation": "LCSR",
+    "title": "Linguist Customer Service Representative (CSR)"
+  },
+  {
+    "abbreviation": "LE",
+    "title": "Large Employer"
+  },
+  {
+    "abbreviation": "LEE",
+    "title": "Large Employer (Employee)"
+  },
+  {
+    "abbreviation": "LER",
+    "title": "Large Employer (Employer)"
+  },
+  {
+    "abbreviation": "LMS",
+    "title": "Learning Management System"
+  },
+  {
     "abbreviation": "LOINC",
     "title": "Logical Observation Identifiers, Names and Codes"
+  },
+  {
+    "abbreviation": "LVM",
+    "title": "Left Voice Message"
   },
   {
     "abbreviation": "MAC",
@@ -887,21 +1611,21 @@
     "description": "Commonly used as a prefix for the programs"
   },
   {
-    "abbreviation": "MACBIS",
-    "title": "Medicaid and CHIP Business Information Solution"
+    "abbreviation": "MAC",
+    "title": "Marketplace Appeals Center"
   },
   {
-    "abbreviation": "MACPro",
-    "title": "Medicaid and CHIP Program",
-    "description": "Also sometimes used as the name of the Appian system (MACPRO) supporting eligibility ammendments"
+    "abbreviation": "MACBIS",
+    "title": "Medicaid and CHIP Business Information Solution"
   },
   {
     "abbreviation": "MACFlow",
     "title": "Initiative that facilitates communication with states and approval workflows for State Plan Amendments, managed care contracts, and waivers."
   },
   {
-    "abbreviation": "MACStack",
-    "title": "MACStack or MACStacks are teams dedicated to researching, testing, and deploying a unified, modern, and user centered stack for managing Medicaid and Chip State Plans"
+    "abbreviation": "MACPro",
+    "title": "Medicaid and CHIP Program",
+    "description": "Also sometimes used as the name of the Appian system (MACPRO) supporting eligibility amendments"
   },
   {
     "abbreviation": "MACStacks",
@@ -910,6 +1634,14 @@
   {
     "abbreviation": "MAG",
     "title": "Marketplace Appeals Group"
+  },
+  {
+    "abbreviation": "MAG",
+    "title": "Marketplace Appeals Group"
+  },
+  {
+    "abbreviation": "MAGI",
+    "title": "Modified Adjusted Gross Income"
   },
   {
     "abbreviation": "MAGI",
@@ -923,6 +1655,18 @@
     "abbreviation": "MaPS",
     "title": "Marketplace Project Startup",
     "desc": "Four step process for CMS development with artifacts and resources available at each step"
+  },
+  {
+    "abbreviation": "MAW",
+    "title": "Marketplace Appeals Worker"
+  },
+  {
+    "abbreviation": "Max.",
+    "title": "Maximum"
+  },
+  {
+    "abbreviation": "MBD",
+    "title": "Medicare Beneficiary Database"
   },
   {
     "abbreviation": "MBES",
@@ -945,12 +1689,24 @@
     "title": "Managed Care Organization"
   },
   {
+    "abbreviation": "MCR",
+    "title": "Management Control Review"
+  },
+  {
+    "abbreviation": "MCU",
+    "title": "Marketplace Change Utility"
+  },
+  {
     "abbreviation": "MCU",
     "title": "Marketplace Change Utility"
   },
   {
     "abbreviation": "MD",
     "title": "Medical Doctor"
+  },
+  {
+    "abbreviation": "MDCD",
+    "title": "Medicaid"
   },
   {
     "abbreviation": "MDCT",
@@ -965,16 +1721,24 @@
     "title": "Minimum Data Set"
   },
   {
-    "abbreviation": "MeT",
-    "title": "Medicaid Electronic Health Record (EHR) Team"
+    "abbreviation": "MEC",
+    "title": "Minimum Essential Coverage"
   },
   {
     "abbreviation": "MES",
     "title": "Medicaid Enterprise System"
   },
   {
+    "abbreviation": "MeT",
+    "title": "Medicaid Electronic Health Record (EHR) Team"
+  },
+  {
     "abbreviation": "MFCU",
     "title": "Medicaid Fraud Control Unit"
+  },
+  {
+    "abbreviation": "MH",
+    "title": "Mixed Household"
   },
   {
     "abbreviation": "MiHIN",
@@ -989,8 +1753,28 @@
     "title": "Multipurpose Internet Mail Extensions"
   },
   {
+    "abbreviation": "Min.",
+    "title": "Minimum"
+  },
+  {
+    "abbreviation": "Misc.",
+    "title": "Miscellaneous"
+  },
+  {
     "abbreviation": "MITA",
     "title": "Medicaid Information Technology Architecture"
+  },
+  {
+    "abbreviation": "MLPR",
+    "title": "Metal Level Plan Restriction"
+  },
+  {
+    "abbreviation": "MLR",
+    "title": "Metal Level Restriction"
+  },
+  {
+    "abbreviation": "MMDDYYYY",
+    "title": "Month Month/ Day Day/ Year Year Year Year (01/01/2000) (Date Format)"
   },
   {
     "abbreviation": "MMDL",
@@ -1002,8 +1786,28 @@
     "title": "Medicaid Management Information System"
   },
   {
+    "abbreviation": "MMS",
+    "title": "MAXIMUS trading symbol on the New York Stock Exchange (NYSE)"
+  },
+  {
     "abbreviation": "MOEN",
     "title": "Marketplace Open Enrollment Notice"
+  },
+  {
+    "abbreviation": "MOEN",
+    "title": "Marketplace Open Enrollment Notice"
+  },
+  {
+    "abbreviation": "MP",
+    "title": "Marketplace"
+  },
+  {
+    "abbreviation": "MP3",
+    "title": "Moving Picture Experts Group Layer-3 Audio (audio file format/extension)"
+  },
+  {
+    "abbreviation": "MPC",
+    "title": "Medicaid Premiums and Cost Sharing"
   },
   {
     "abbreviation": "MPD",
@@ -1012,10 +1816,6 @@
   {
     "abbreviation": "MPI",
     "title": "Master Provider Index"
-  },
-  {
-    "abbreviation": "MPC",
-    "title": "Medicaid Premiums and Cost Sharing"
   },
   {
     "abbreviation": "MPS",
@@ -1030,13 +1830,53 @@
     "title": "Medicaid State Plan"
   },
   {
+    "abbreviation": "MST",
+    "title": "Mountain Standard Time or Mountain Time"
+  },
+  {
     "abbreviation": "MU",
     "title": "Meaningful Use"
+  },
+  {
+    "abbreviation": "MVS",
+    "title": "Minimum Value Standard"
+  },
+  {
+    "abbreviation": "N/A",
+    "title": "Not Applicable"
+  },
+  {
+    "abbreviation": "NAD",
+    "title": "Next Action Date"
+  },
+  {
+    "abbreviation": "NGS",
+    "title": "National Governmental Services"
   },
   {
     "abbreviation": "NLR",
     "title": "National Level Repository",
     "description": "CMS Registration and Attestation Module"
+  },
+  {
+    "abbreviation": "NOC",
+    "title": "Notice of Conference"
+  },
+  {
+    "abbreviation": "NOH",
+    "title": "Notice of Hearing"
+  },
+  {
+    "abbreviation": "Non-ESC MEC",
+    "title": "Non-Employer Sponsored Coverage Minimum Essential Coverage"
+  },
+  {
+    "abbreviation": "Non-ESI MEC",
+    "title": "Non-Employer Sponsored Insurance Minimum Essential Coverage"
+  },
+  {
+    "abbreviation": "NOR",
+    "title": "Notice of Receipt"
   },
   {
     "abbreviation": "NP",
@@ -1045,6 +1885,10 @@
   {
     "abbreviation": "NPI",
     "title": "National Provider Identifier"
+  },
+  {
+    "abbreviation": "NPN",
+    "title": "National Producer Number"
   },
   {
     "abbreviation": "NPPES",
@@ -1059,12 +1903,32 @@
     "title": "National Quality Strategy"
   },
   {
+    "abbreviation": "NSA",
+    "title": "National Security Agency"
+  },
+  {
     "abbreviation": "NwHIN",
     "title": "Nationwide Health Information Network"
   },
   {
+    "abbreviation": "NYSE",
+    "title": "New York Stock Exchange"
+  },
+  {
     "abbreviation": "OB",
     "title": "Obstetrician"
+  },
+  {
+    "abbreviation": "OB",
+    "title": "Outbound"
+  },
+  {
+    "abbreviation": "OBC",
+    "title": "Outbound Call"
+  },
+  {
+    "abbreviation": "OBRA",
+    "title": "Omnibus Budget Reconciliation Act"
   },
   {
     "abbreviation": "OC",
@@ -1072,13 +1936,41 @@
     "description": "Serves as CMS's focal point for internal and external strategic and tactical communications providing leadership for CMS in the areas of customer service; website operations; traditional and new media including web initiatives such as social media supported by innovative, increasingly mobile technologies; media relations; call center operations, consumer materials; public information campaigns; and, public engagement. Website: https://www.cms.gov/About-CMS/Agency-Information/CMSLeadership/Office_OC"
   },
   {
+    "abbreviation": "OC",
+    "title": "Office of Communications"
+  },
+  {
+    "abbreviation": "OCR",
+    "title": "Optical Character Recognition"
+  },
+  {
+    "abbreviation": "OE",
+    "title": "Open Enrollment"
+  },
+  {
+    "abbreviation": "OEP",
+    "title": "Open Enrollment Period"
+  },
+  {
+    "abbreviation": "OGL",
+    "title": "Operational Guidance Letter"
+  },
+  {
     "abbreviation": "OHI",
     "title": "Office of Hearings and Inquiries",
     "description": "Serves as the CMS executive agent for developing and directing certain Exchange-based (Marketplace) health insurance eligibility appeals functions and processes in support of statues and regulations, particularly the Patient Protection and Affordable Care Act of 2010 and the Health Care and Education Reconciliation Act of 2010 (together, \"the Affordable Care Act\" or ACA). Website: https://www.cms.gov/About-CMS/Agency-Information/CMSLeadership/Office_OHI"
   },
   {
+    "abbreviation": "OHI",
+    "title": "Office of Hearings and Inquiries"
+  },
+  {
     "abbreviation": "OIG",
     "title": "Office of the Inspector General"
+  },
+  {
+    "abbreviation": "OIV",
+    "title": "Offline Income Verification"
   },
   {
     "abbreviation": "OKR",
@@ -1089,12 +1981,24 @@
     "title": "Office of Management & Budget"
   },
   {
+    "abbreviation": "OMEA",
+    "title": "Office of Marketplace Eligibility Appeals"
+  },
+  {
     "abbreviation": "ONC",
     "title": "Office of the National Coordinator for Health IT"
   },
   {
+    "abbreviation": "ONEMac",
+    "title": "One unified platform."
+  },
+  {
     "abbreviation": "OpDiv",
     "title": "Operating Division"
+  },
+  {
+    "abbreviation": "OPM",
+    "title": "Office of Personnel Management [use this Hub to verify that a federal employee has ESC MEC (FEHB)]"
   },
   {
     "abbreviation": "OPOLE",
@@ -1102,13 +2006,21 @@
     "description": "Serves as the senior level point of contact within each Region for counterparts in CMS, Department leadership (including the HHS Regional Director), as well as external stakeholders. Creates and maintains regional location cohesion and leads regional efforts to improve employee engagement. Website: https://www.cms.gov/about-cms/cms-leadership/office-program-operations-and-local-engagement"
   },
   {
-    "abbreviation": "ONEMac",
-    "title": "One unified platform."
+    "abbreviation": "ORR",
+    "title": "Office of Refugee Resettlement"
   },
   {
     "abbreviation": "OSG",
     "title": "Operation Services Group",
     "description": "One of seven groups within CMCS"
+  },
+  {
+    "abbreviation": "OT",
+    "title": "Overtime"
+  },
+  {
+    "abbreviation": "OTP",
+    "title": "One Time Password"
   },
   {
     "abbreviation": "PA",
@@ -1129,6 +2041,10 @@
     "title": "Planning Advance Planning Document"
   },
   {
+    "abbreviation": "PB",
+    "title": "Pended Benefit(s)"
+  },
+  {
     "abbreviation": "PCMH",
     "title": "Patient Centered Medical Home"
   },
@@ -1139,6 +2055,30 @@
   {
     "abbreviation": "PCPM",
     "title": "Primary Care Payment Model"
+  },
+  {
+    "abbreviation": "Pct.",
+    "title": "Percentage"
+  },
+  {
+    "abbreviation": "PD",
+    "title": "Package Disapprover"
+  },
+  {
+    "abbreviation": "PDE ",
+    "title": "Plan Display Error"
+  },
+  {
+    "abbreviation": "PDF",
+    "title": "Portable Document Format"
+  },
+  {
+    "abbreviation": "PDM",
+    "title": "Periodic Data Matching (Medicare)"
+  },
+  {
+    "abbreviation": "PDT",
+    "title": "Post Decision Task"
   },
   {
     "abbreviation": "PECOS",
@@ -1153,8 +2093,16 @@
     "title": "Personal Health Information"
   },
   {
+    "abbreviation": "PHI",
+    "title": "Protected Health Information"
+  },
+  {
     "abbreviation": "PHR",
     "title": "Personal Health Record"
+  },
+  {
+    "abbreviation": "PHT",
+    "title": "Post Hearing Task"
   },
   {
     "abbreviation": "PIFO",
@@ -1166,8 +2114,20 @@
     "description": "a managed care plan"
   },
   {
+    "abbreviation": "PII",
+    "title": "Personally Identifiable Information"
+  },
+  {
     "abbreviation": "PIP",
     "title": "Promoting Interoperability Program"
+  },
+  {
+    "abbreviation": "PIT",
+    "title": "Pending, Inconsistent or Temporary status codes"
+  },
+  {
+    "abbreviation": "PM",
+    "title": "Project Manager"
   },
   {
     "abbreviation": "PMDA",
@@ -1178,12 +2138,24 @@
     "title": "Performance Management Database and Analytics"
   },
   {
+    "abbreviation": "POA",
+    "title": "Power of Attorney"
+  },
+  {
+    "abbreviation": "POC",
+    "title": "Point of Contact"
+  },
+  {
     "abbreviation": "POS",
     "title": "Place of Service"
   },
   {
     "abbreviation": "PP",
     "title": "Practicing Predominantly"
+  },
+  {
+    "abbreviation": "PPS",
+    "title": "Pended Plan Selection"
   },
   {
     "abbreviation": "PQRS",
@@ -1194,16 +2166,48 @@
     "title": "Paperwork Reduction Act of 1995"
   },
   {
+    "abbreviation": "Pre-Ack",
+    "title": "Pre-Acknowledgment (letter sent to Large Employer)"
+  },
+  {
     "abbreviation": "PROM",
     "title": "Patient Reported Outcome Measures"
   },
   {
-    "abbreviation": "PD",
-    "title": "Package Disapprover"
+    "abbreviation": "PST",
+    "title": "Pacific Standard Time / Pacific Time"
+  },
+  {
+    "abbreviation": "PT",
+    "title": "Part Time"
   },
   {
     "abbreviation": "PV",
     "title": "Patient Volume"
+  },
+  {
+    "abbreviation": "QA",
+    "title": "Quality Assurance"
+  },
+  {
+    "abbreviation": "QC",
+    "title": "Quality Control"
+  },
+  {
+    "abbreviation": "QCAT",
+    "title": "Quality Control Audit Tool"
+  },
+  {
+    "abbreviation": "QHP",
+    "title": "Qualified Health Plan"
+  },
+  {
+    "abbreviation": "QIO",
+    "title": "Quality Improvement Organization"
+  },
+  {
+    "abbreviation": "QLE",
+    "title": "Qualifying Life Event"
   },
   {
     "abbreviation": "QM",
@@ -1227,12 +2231,29 @@
     "title": "Quality Reporting Document Architecture - Category III"
   },
   {
+    "abbreviation": "QSEHRA",
+    "title": "Qualified Small Employer Health Reimbursement Arrangement"
+  },
+  {
     "abbreviation": "R&A",
     "title": "Registration and Attestation"
   },
   {
     "abbreviation": "R&S UI",
     "title": "Research & Support User Interface"
+  },
+  {
+    "abbreviation": "RAC",
+    "title": "Recovery Audit Contractor"
+  },
+  {
+    "abbreviation": "RACCTPS",
+    "title": "Remote Assets Call Center Team Platform Suite",
+    "description": "MAG team that provides AWS connectors to the MAG call center"
+  },
+  {
+    "abbreviation": "RADV",
+    "title": "Risk Adjustment Data Validation"
   },
   {
     "abbreviation": "RAI",
@@ -1245,15 +2266,6 @@
     "description": "Possible CMS action for Official SPA Submission Package during submission process"
   },
   {
-    "abbreviation": "RAC",
-    "title": "Recovery Audit Contractor"
-  },
-  {
-    "abbreviation": "RACCTPS",
-    "title": "Remote Assets Call Center Team Platform Suite",
-    "description": "MAG team that provides AWS connectors to the MAG call center"
-  },
-  {
     "abbreviation": "RBAC",
     "title": "Role-based access control"
   },
@@ -1262,8 +2274,48 @@
     "title": "Resource-Based Relative Value Scale"
   },
   {
+    "abbreviation": "RCA",
+    "title": "Root Cause Analysis"
+  },
+  {
+    "abbreviation": "Re-app",
+    "title": "Re-application"
+  },
+  {
     "abbreviation": "REC",
     "title": "Regional Extension Center"
+  },
+  {
+    "abbreviation": "Rec'd",
+    "title": "Received"
+  },
+  {
+    "abbreviation": "Rep.",
+    "title": "Representative"
+  },
+  {
+    "abbreviation": "Retro",
+    "title": "Retroactive"
+  },
+  {
+    "abbreviation": "RetroP",
+    "title": "Retrospective"
+  },
+  {
+    "abbreviation": "Rev.",
+    "title": "Revision"
+  },
+  {
+    "abbreviation": "RFI",
+    "title": "Request for Information"
+  },
+  {
+    "abbreviation": "RFI",
+    "title": "Request for Information"
+  },
+  {
+    "abbreviation": "RFP",
+    "title": "Request For Proposal"
   },
   {
     "abbreviation": "RHC",
@@ -1274,6 +2326,10 @@
     "title": "Rural Health Center"
   },
   {
+    "abbreviation": "RI",
+    "title": "Requested Information"
+  },
+  {
     "abbreviation": "RLS",
     "title": "Record Locator Service"
   },
@@ -1281,6 +2337,10 @@
     "abbreviation": "RO",
     "title": "Regional Office",
     "description": "Regional offices were absorbed by Central"
+  },
+  {
+    "abbreviation": "ROA",
+    "title": "Record of Account"
   },
   {
     "abbreviation": "ROG",
@@ -1293,13 +2353,57 @@
     "description": "Even though regional offices were absorbed by Central, this role is not going to be renamed"
   },
   {
+    "abbreviation": "RT",
+    "title": "Regular Time"
+  },
+  {
     "abbreviation": "RU",
     "title": "Reviewable Unit",
     "description": "Information which must be reviewed and adjudicated together.  When a state sends a submission package (SPA, 1115 demonstration, 1915(c) waiver, etc.) to CMS for approval, all of the options selected, assurances and statements in one reviewable unit (RU) is subject to scrutiny and must be accurate and complete in order for CMS to approve it."
   },
   {
+    "abbreviation": "Rx",
+    "title": "Medical Term, varies, typically means Prescription"
+  },
+  {
     "abbreviation": "S&CC",
     "title": "Standards and Certification Criteria"
+  },
+  {
+    "abbreviation": "SAVE",
+    "title": "Systematic Alien Verification for Entitlements"
+  },
+  {
+    "abbreviation": "SBA",
+    "title": "Small Business Administration"
+  },
+  {
+    "abbreviation": "SBC",
+    "title": "Summary of Benefits and Coverage"
+  },
+  {
+    "abbreviation": "SBE",
+    "title": "State-Based Exchange"
+  },
+  {
+    "abbreviation": "SBM",
+    "title": "State-Based Marketplace"
+  },
+  {
+    "abbreviation": "SCH",
+    "title": "Schedule(d)"
+  },
+  {
+    "abbreviation": "SCM",
+    "title": "State Case Manager (CMS for HICS)"
+  },
+  {
+    "abbreviation": "SCN",
+    "title": "Search Control Number"
+  },
+  {
+    "abbreviation": "SCW",
+    "title": "Senior Caseworker"
   },
   {
     "abbreviation": "SDE",
@@ -1325,6 +2429,14 @@
     "title": "Software Development Life Cycle"
   },
   {
+    "abbreviation": "SDLC",
+    "title": "Software Development Life Cycle"
+  },
+  {
+    "abbreviation": "SDP",
+    "title": "SEP Date Picker"
+  },
+  {
     "abbreviation": "SE",
     "title": "State Editor",
     "description": "MACPro State role"
@@ -1340,12 +2452,36 @@
     "description": "One of the five separate systems within MACPro"
   },
   {
+    "abbreviation": "SEP",
+    "title": "Special Enrollment Period or Special Election Period"
+  },
+  {
+    "abbreviation": "SEPV",
+    "title": "Special Enrollment Period Verification"
+  },
+  {
     "abbreviation": "SHARP",
     "title": "Strategic Health IT Advanced Research Projects"
   },
   {
+    "abbreviation": "SHOP",
+    "title": "Small Business Health Options Program"
+  },
+  {
+    "abbreviation": "SIE",
+    "title": "State Information Exchange"
+  },
+  {
     "abbreviation": "SIM",
     "title": "State Innovation Model"
+  },
+  {
+    "abbreviation": "SIPOC",
+    "title": "Suppliers, Inputs, Process, Outputs, and Customers"
+  },
+  {
+    "abbreviation": "SLCSP",
+    "title": "Second Lowest Cost Silver Plan"
   },
   {
     "abbreviation": "SLR",
@@ -1356,8 +2492,20 @@
     "title": "State Medicaid Agency"
   },
   {
+    "abbreviation": "SMA",
+    "title": "State Medicaid Agency"
+  },
+  {
+    "abbreviation": "SMAH",
+    "title": "State Medicaid Agency Hearing"
+  },
+  {
     "abbreviation": "SMDL",
     "title": "State Medicaid Director's Letter"
+  },
+  {
+    "abbreviation": "SME",
+    "title": "Subject Matter Expert"
   },
   {
     "abbreviation": "SMHP",
@@ -1368,13 +2516,24 @@
     "title": "Systemized Nomenclature of Medicine - Clinical Terms"
   },
   {
+    "abbreviation": "SOP",
+    "title": "Standard Operating Procedure"
+  },
+  {
+    "abbreviation": "SOW",
+    "title": "Statement of Work"
+  },
+  {
+    "abbreviation": "SP",
+    "title": "SharePoint"
+  },
+  {
     "abbreviation": "SPA",
     "title": "State Plan Amendment"
   },
   {
-    "abbreviation": "SPOC",
-    "title": "State Point of Contact",
-    "description": "MACPro State role"
+    "abbreviation": "SPA",
+    "title": "Spanish"
   },
   {
     "abbreviation": "SPLA",
@@ -1382,13 +2541,26 @@
     "description": "Packages received in the mailbox go through an intake process by OSG, and then they are routed to the SPA Process Lead Analyst (CMS reviewer/approver) for adjudication."
   },
   {
-    "abbreviation": "SRT",
-    "title": "Submission Review Team",
-    "description": "MACPro CMS role"
+    "abbreviation": "SPM",
+    "title": "State-Partnership Marketplace"
+  },
+  {
+    "abbreviation": "SPOC",
+    "title": "State Point of Contact",
+    "description": "MACPro State role"
+  },
+  {
+    "abbreviation": "SRP",
+    "title": "Shared Responsibility Payment"
   },
   {
     "abbreviation": "SRRVW",
     "title": "Senior (Sr.) Reviewer",
+    "description": "MACPro CMS role"
+  },
+  {
+    "abbreviation": "SRT",
+    "title": "Submission Review Team",
     "description": "MACPro CMS role"
   },
   {
@@ -1401,6 +2573,30 @@
     "title": "Social Security Act"
   },
   {
+    "abbreviation": "SSA",
+    "title": "Social Security Administration"
+  },
+  {
+    "abbreviation": "SSD",
+    "title": "Social Security Disability "
+  },
+  {
+    "abbreviation": "SSI",
+    "title": "Supplemental Security Income"
+  },
+  {
+    "abbreviation": "SSL",
+    "title": "Secure Socket Layer"
+  },
+  {
+    "abbreviation": "SSN",
+    "title": "Social Security Number"
+  },
+  {
+    "abbreviation": "SVI",
+    "title": "SEP Verification Issue"
+  },
+  {
     "abbreviation": "T-MSIS",
     "title": "Transformed Medicaid Statistical Information System"
   },
@@ -1409,16 +2605,36 @@
     "title": "Technical Assistance"
   },
   {
+    "abbreviation": "TBD",
+    "title": "To Be Determined"
+  },
+  {
     "abbreviation": "TCP/IP",
     "title": "Transmission Control Protocol/Internet Protocol"
+  },
+  {
+    "abbreviation": "TDL",
+    "title": "Technical Direction Letter"
+  },
+  {
+    "abbreviation": "Temp.",
+    "title": "Temporary"
+  },
+  {
+    "abbreviation": "THO",
+    "title": "Temporary Hearing Officer"
+  },
+  {
+    "abbreviation": "TIN",
+    "title": "Tax Identification Number"
   },
   {
     "abbreviation": "TIPSS",
     "title": "Technology Infrastructure Planning and Security Support"
   },
   {
-    "abbreviation": "TIN",
-    "title": "Tax Identification Number"
+    "abbreviation": "TLS",
+    "title": "Transport Layer Security"
   },
   {
     "abbreviation": "TN",
@@ -1429,20 +2645,100 @@
     "title": "Transitions of Care"
   },
   {
+    "abbreviation": "TTY",
+    "title": "Text Telephone / Teletype Terminal / TeleTYpewriter"
+  },
+  {
+    "abbreviation": "UAT",
+    "title": "User Acceptance Testing"
+  },
+  {
     "abbreviation": "UDDI",
     "title": "Universal Discovery and Description Interface"
+  },
+  {
+    "abbreviation": "UI",
+    "title": "User Interface"
+  },
+  {
+    "abbreviation": "UPT",
+    "title": "Upload Print Track"
+  },
+  {
+    "abbreviation": "UR",
+    "title": "Unauthorized Representative"
   },
   {
     "abbreviation": "URG",
     "title": "User Requirements Group"
   },
   {
+    "abbreviation": "URL",
+    "title": "Uniform Resource Locator"
+  },
+  {
+    "abbreviation": "USCIS",
+    "title": "United States Citizenship and Immigration Service"
+  },
+  {
     "abbreviation": "USWDS",
     "title": "United States Web Design System"
   },
   {
+    "abbreviation": "UTC",
+    "title": "Coordinated Universal Time"
+  },
+  {
+    "abbreviation": "VA",
+    "title": "Veterans Affairs"
+  },
+  {
+    "abbreviation": "ValCat",
+    "title": "Validation and Categorization"
+  },
+  {
+    "abbreviation": "VAR",
+    "title": "Verbally Authorized Representive (VAR)"
+  },
+  {
     "abbreviation": "VBP",
     "title": "Value Based Payment"
+  },
+  {
+    "abbreviation": "VDI",
+    "title": "Virtual Desktop Infrastructure"
+  },
+  {
+    "abbreviation": "VHA",
+    "title": "Veterans Health Administration"
+  },
+  {
+    "abbreviation": "VPN",
+    "title": "Virtual Private Network"
+  },
+  {
+    "abbreviation": "VRS",
+    "title": "Video Relay Services"
+  },
+  {
+    "abbreviation": "W/in",
+    "title": "Within"
+  },
+  {
+    "abbreviation": "W/o",
+    "title": "Without"
+  },
+  {
+    "abbreviation": "WB",
+    "title": "Work Basket / WorkBasket / Workbasket"
+  },
+  {
+    "abbreviation": "WD",
+    "title": "Withdrawal"
+  },
+  {
+    "abbreviation": "WL",
+    "title": "Work List / WorkList / Worklist"
   },
   {
     "abbreviation": "WMS",
@@ -1456,5 +2752,13 @@
   {
     "abbreviation": "XDS",
     "title": "Cross-enterprise Document Sharing"
+  },
+  {
+    "abbreviation": "XLC",
+    "title": "CMS eXpedited Life Cycle"
+  },
+  {
+    "abbreviation": "Xref",
+    "title": "Cross Reference"
   }
 ]
