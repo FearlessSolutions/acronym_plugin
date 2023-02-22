@@ -306,6 +306,11 @@
     "title": "Health and Human Services"
   },
   {
+    "abbreviation": "HM",
+    "title": "Herd Member",
+    "category": "Role Terms"
+  },
+  {
     "abbreviation": "HR",
     "title": "Human Resources",
     "category": "Business Terms"
@@ -438,6 +443,11 @@
     "title": "Organizational Strength Measure"
   },
   {
+    "abbreviation": "PA",
+    "title": "Program Analyst",
+    "category": "Role Terms"
+  },
+  {
     "abbreviation": "PC",
     "title": "Passion Coach",
     "category": "Role Terms"
@@ -453,6 +463,11 @@
     "category": "Role Terms"
   },
   {
+    "abbreviation": "PD",
+    "title": "Practice Director (see PrD)",
+    "category": "Role Terms"
+  },
+  {
     "abbreviation": "PrD",
     "title": "Practice Director",
     "category": "Role Terms"
@@ -464,7 +479,17 @@
   },
   {
     "abbreviation": "PM",
-    "title": "Portfolio Manager",
+    "title": "Program Manager",
+    "category": "Role Terms"
+  },
+  {
+    "abbreviation": "PM",
+    "title": "Practice Manager (see PrM)",
+    "category": "Role Terms"
+  },
+  {
+    "abbreviation": "PrM",
+    "title": "Practice Manager",
     "category": "Role Terms"
   },
   {
@@ -573,6 +598,16 @@
     "abbreviation": "STTR",
     "title": "Small Business Technology Transfer",
     "description": "highly competitive programs that encourage domestic small businesses to engage in Federal Research/Research and Development"
+  },
+  {
+    "abbreviation": "TA",
+    "title": "Technical Advisor",
+    "category": "Role Terms"
+  },
+  {
+    "abbreviation": "TM",
+    "title": "Team Member",
+    "category": "Role Terms"
   },
   {
     "abbreviation": "TMC",
