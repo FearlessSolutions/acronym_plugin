@@ -24,6 +24,11 @@
     "title": "Definition of Ready",
     "category": "Agile Terms"
   },
+    {
+    "abbreviation": "DSU",
+    "title": "Daily Stand Up",
+    "category": "Agile Terms"
+  },
   {
     "abbreviation": "INVEST",
     "title": "Independent, Negotiable, Valuable, Estimable, Small, Testable",

@@ -493,6 +493,10 @@
     "title": "Certified Electronic Health Record Technology"
   },
   {
+    "abbreviation": "CET",
+    "title": "Cloud Estimation Tool from CMS Cloud cet.cloud.cms.gov"
+  },
+  {
     "abbreviation": "CEV",
     "title": "Composite Eligibility Verification"
   },
@@ -1693,8 +1697,9 @@
     "title": "Management Control Review"
   },
   {
-    "abbreviation": "MCU",
-    "title": "Marketplace Change Utility"
+    "abbreviation": "MCR",
+    "title": "Marketplace Consumer Record",
+    "desc": "API for the Marketplace Change Utility that provides application and individual person records"
   },
   {
     "abbreviation": "MCU",
@@ -2371,7 +2376,8 @@
   },
   {
     "abbreviation": "SAVE",
-    "title": "Systematic Alien Verification for Entitlements"
+    "title": "Systematic Alien Verification for Entitlements",
+    "desc": "Operated by USCIS and allows benefit-granting agencies to verify a benefit applicant’s immigration status or naturalized/derived citizenship https://www.uscis.gov/save"
   },
   {
     "abbreviation": "SBA",

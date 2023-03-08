@@ -12,6 +12,10 @@
     "title": "Access Control List"
   },
   {
+    "abbreviation": "ADR",
+    "title": "Architectural Decision Record"
+  },
+  {
     "abbreviation": "AES",
     "title": "Advanced Encryption System"
   },
