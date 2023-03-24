@@ -751,7 +751,7 @@
   },
   {
     "abbreviation": "DMI",
-    "title": "Data Match Issue"
+    "title": "Data Matching Issue"
   },
   {
     "abbreviation": "DOB",
@@ -800,6 +800,11 @@
     "abbreviation": "DSO",
     "title": "DevSecOps",
     "description": "CMS MAG Team that manages security in applications"
+  },
+  {
+    "abbreviation": "DSRS",
+    "title": "Document Storage and Retrieval Service",
+    "description": "Wrapper around S3 that provides document and storage based on Marketplace application ID"
   },
   {
     "abbreviation": "DSS",
@@ -1312,11 +1317,8 @@
   },
   {
     "abbreviation": "HICS",
-    "title": "Health Information Casework System"
-  },
-  {
-    "abbreviation": "HICS",
-    "title": "Health Insurance Casework System"
+    "title": "Health Insurance Casework System",
+    "description": "Provides access to unresolved and resolved cases that originate from the Health Insurance Marketplace Call Center and other sources"
   },
   {
     "abbreviation": "HIE",
