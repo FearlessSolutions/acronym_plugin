@@ -2468,6 +2468,10 @@
     "title": "Special Enrollment Period Verification"
   },
   {
+    "abbreviation": "SES",
+    "title": "Standalone Eligibility System"
+  },
+  {
     "abbreviation": "SHARP",
     "title": "Strategic Health IT Advanced Research Projects"
   },
