@@ -277,6 +277,10 @@
     "description": "A thought tool used to raise awareness about an issue and present possible options and outcomes"
   },
   {
+    "abbreviation": "FedRAMP",
+    "title": "Federal Risk and Authorization Management Program"
+  },
+  {
     "abbreviation": "F&I",
     "title": "Finance and Infrastructure",
     "category": "Role Terms"
